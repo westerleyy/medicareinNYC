@@ -15,6 +15,7 @@ library(DT)
 library(caret)
 library(randomForest)
 library(plotly)
+library(gridExtra)
 
 # data paths 
 path <- "./data/"
@@ -111,7 +112,7 @@ ggplotly(hospital_covered_charges_scatter)
 ```
 Evidently, this picture is a bit more mixed. So the `Average Covered Charges` of NYC Health+ hospitals tend to be below average whereas private that of private hospital systems tend to be above average. But if you think about it, what we are really interested in is, how much do beneficiaries (and their insurance providers) have to pay on top of what Medicare pays out. In other words, we really want to look into the co-payments, deductibles, and other additional payments from third parties for coordination of benefits.  
 `Non Medicare Payments = Average Total Payments - Average Medicare Payments`. 
-```{r hospital averages 3, fig.width = 14}
+```{r hospital averages 3, fig.width = 14, fig.height = 12}
 nyc_medicare_2017_ten_common_non_medicare_payments_zscores <- nyc_medicare_2017_ten_common %>%
   group_by(DRG_num) %>%
   mutate(average_non_medicare_payments = `Average Total Payments` - `Average Medicare Payments`,
@@ -126,7 +127,8 @@ hospital_non_medicare_payments_scatter <- ggplot(nyc_medicare_2017_ten_common_no
   labs(title = "Average Covered Charges Scatterplot",
        subtitle = "No. of std dev for each common DRG by hospital",
        y = "Standard Deviations",
-       x = "Hospital")
+       x = "Hospital") + 
+  facet_wrap(~ borough, nrow = 5, scales = "free_y")
 ggplotly(hospital_non_medicare_payments_scatter)
 ```
-Okay, so this presents a much more nuanced picture. Even though `Total Payments` might be high at NYC Health+ hospitals, the amount that not covered by Medicare tends to be below average at NYC Health+ hospitals. 
+Okay, so this presents a much more nuanced picture. Even though `Total Payments` might be high at NYC Health+ hospitals, the amount that is not covered by Medicare tends to be below average at NYC Health+ hospitals. Among boroughts, the hospitals in Manhattan tend to incur more non-Medicare covered charges. 
