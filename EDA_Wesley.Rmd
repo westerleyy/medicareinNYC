@@ -60,7 +60,7 @@ So, if we look at the 10 most common procedures by the total number of discharge
 ```{r cost differences}
 nyc_medicare_2017_ten_common <- nyc_medicare_2017 %>%
   filter(`DRG Definition` %in% unlist(procedures_count$`DRG Definition`)[1:10]) %>%
-  select(`Provider Name`, `DRG Definition`, `Total Discharges`, `Average Total Payments`, borough, health_plus) %>%
+  select(`Provider Name`, `DRG Definition`, `Total Discharges`, `Average Covered Charges`,`Average Total Payments`, `Average Medicare Payments` ,borough, health_plus) %>%
   mutate(DRG_num = as.character(substr(`DRG Definition`, 1, 3)))
 cost_boxplot <- ggplot(nyc_medicare_2017_ten_common, aes(DRG_num, `Average Total Payments`)) + 
   geom_boxplot() + 
@@ -74,21 +74,59 @@ cost_boxplot
 Okay, so there is a huge variance between hospitals for each of the ten most common procedures. Are there hospitals that are consistently above or below average? 
 
 ```{r hospital averages, fig.width=14}
-nyc_medicare_2017_ten_common_zscores <- nyc_medicare_2017_ten_common %>%
+nyc_medicare_2017_ten_common__total_payments_zscores <- nyc_medicare_2017_ten_common %>%
   group_by(DRG_num) %>%
   mutate(mean_total_payment = mean(`Average Total Payments`),
          sd_total_payment = sd(`Average Total Payments`)) %>%
   ungroup() %>%
   mutate(z_score = (`Average Total Payments`-mean_total_payment)/sd_total_payment)
-hospital_scatter <- ggplot(nyc_medicare_2017_ten_common_zscores, aes(`Provider Name`, z_score, label = DRG_num)) + 
+hospital_total_payments_scatter <- ggplot(nyc_medicare_2017_ten_common__total_payments_zscores, aes(`Provider Name`, z_score, label = DRG_num)) + 
   geom_point(aes(col = health_plus)) + 
   geom_hline(yintercept = 0) +
   coord_flip() + 
-  labs(title = "Z-score Scatterplot",
+  labs(title = "Average Total Payments Scatterplot",
        subtitle = "No. of std dev for each common DRG by hospital",
        y = "Standard Deviations",
        x = "Hospital")
-ggplotly(hospital_scatter)
+ggplotly(hospital_total_payments_scatter)
 ```
   
-Scandal! All NYC Health-Plus, ie public hospitals, charge more than private ones, with the exception of Coney Island Hospital.  
+Scandal! All NYC Health-Plus, ie public hospitals, charge more than private ones, with the exception of Coney Island Hospital. More precisely, on average, NYC Health+ hospitals are paid above-average amounts for the procedures performed. Well, I assume that Medicare does not just cover every single part of the procedure. Some parts of the entire treatment process might not be billable to Medicare. So what if we look at the `Average Covered Charges`?  
+```{r hospital averages 2, fig.width=14}
+nyc_medicare_2017_ten_common_covered_charges_zscores <- nyc_medicare_2017_ten_common %>%
+  group_by(DRG_num) %>%
+  mutate(mean_covered_charges = mean(`Average Covered Charges`),
+         sd_covered_charges = sd(`Average Covered Charges`)) %>%
+  ungroup() %>%
+  mutate(z_score = (`Average Covered Charges`-mean_covered_charges)/sd_covered_charges)
+hospital_covered_charges_scatter <- ggplot(nyc_medicare_2017_ten_common_covered_charges_zscores, aes(`Provider Name`, z_score, label = DRG_num)) + 
+  geom_point(aes(col = health_plus)) + 
+  geom_hline(yintercept = 0) +
+  coord_flip() + 
+  labs(title = "Average Covered Charges Scatterplot",
+       subtitle = "No. of std dev for each common DRG by hospital",
+       y = "Standard Deviations",
+       x = "Hospital")
+ggplotly(hospital_covered_charges_scatter)
+```
+Evidently, this picture is a bit more mixed. So the `Average Covered Charges` of NYC Health+ hospitals tend to be below average whereas private that of private hospital systems tend to be above average. But if you think about it, what we are really interested in is, how much do beneficiaries (and their insurance providers) have to pay on top of what Medicare pays out. In other words, we really want to look into the co-payments, deductibles, and other additional payments from third parties for coordination of benefits.  
+`Non Medicare Payments = Average Total Payments - Average Medicare Payments`. 
+```{r}
+nyc_medicare_2017_ten_common_non_medicare_payments_zscores <- nyc_medicare_2017_ten_common %>%
+  group_by(DRG_num) %>%
+  mutate(average_non_medicare_payments = `Average Total Payments` - `Average Medicare Payments`,
+         mean_non_medicare_charges = mean(average_non_medicare_payments),
+         sd_non_medicare_charges = sd(average_non_medicare_payments)) %>%
+  ungroup() %>%
+  mutate(z_score = (average_non_medicare_payments-mean_non_medicare_charges)/sd_non_medicare_charges)
+hospital_non_medicare_payments_scatter <- ggplot(nyc_medicare_2017_ten_common_non_medicare_payments_zscores, aes(`Provider Name`, z_score, label = DRG_num)) + 
+  geom_point(aes(col = health_plus)) + 
+  geom_hline(yintercept = 0) +
+  coord_flip() + 
+  labs(title = "Average Covered Charges Scatterplot",
+       subtitle = "No. of std dev for each common DRG by hospital",
+       y = "Standard Deviations",
+       x = "Hospital")
+ggplotly(hospital_non_medicare_payments_scatter)
+```
+Okay, so this presents a much more nuanced picture. Even though `Total Payments` might be high at NYC Health+ hospitals, the amount that not covered by Medicare tends to be below average at NYC Health+ hospitals. 
