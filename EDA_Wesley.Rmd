@@ -40,6 +40,12 @@ medicare_part_b_2015 <- read_csv(paste(path, medicare_folder, "MEDICARE_PROVIDER
 medicare_part_b_2014 <- read_csv(paste(path, medicare_folder, "MEDICARE_PROVIDER_CHARGE_INPATIENT_DRGALL_FY2014.CSV", sep = ""))
 nyc_zip_codes <- c(10453, 10457, 10460, 10458, 10467, 10468, 10451, 10452, 10456, 10454, 10455, 10459, 10474, 10463, 10471, 10466, 10469, 10470, 10475, 10461, 10462,10464, 10465, 10472, 10473, 	11212, 11213, 11216, 11233, 11238, 	11209, 11214, 11228, 	11204, 11218, 11219, 11230, 11234, 11236, 11239, 11223, 11224, 11229, 11235, 	11201, 11205, 11215, 11217, 11231, 11203, 11210, 11225, 11226, 	11207, 11208, 	11211, 11222,	11220, 11232,	11206, 11221, 11237,	10026, 10027, 10030, 10037, 10039,	10001, 10011, 10018, 10019, 10020, 10036,	10029, 10035,	10010, 10016, 10017, 10022,	10012, 10013, 10014,	10004, 10005, 10006, 10007, 10038, 10280,	10002, 10003, 10009,	10021, 10028, 10044, 10065, 10075, 10128,	10023, 10024, 10025,10031, 10032, 10033, 10034, 10040,	11361, 11362, 11363, 11364,11354, 11355, 11356, 11357, 11358, 11359, 11360,11365, 11366, 11367,	11412, 11423, 11432, 11433, 11434, 11435, 11436, 	11101, 11102, 11103, 11104, 11105, 11106,	11374, 11375, 11379, 11385,11691, 11692, 11693, 11694, 11695, 11697,	11004, 11005, 11411, 11413, 11422, 11426, 11427, 11428, 11429,	11414, 11415, 11416, 11417, 11418, 11419, 11420, 11421,	11368, 11369, 11370, 11372, 11373, 11377, 11378,10302, 10303, 10310,	10306, 10307, 10308, 10309, 10312,10301, 10304, 10305,10314, 11040)
 nyc_health_plus <- c("JACOBI MEDICAL CENTER", "LINCOLN MEDICAL & MENTAL HEALTH CENTER", "NORTH CENTRAL BRONX HOSPITAL", "CONEY ISLAND HOSPITAL", "KINGS COUNTY HOSPITAL CENTER", "WOODHULL MEDICAL AND MENTAL HEALTH CENTER", "BELLEVUE HOSPITAL CENTER", "HARLEM HOSPITAL CENTER", "METROPOLITAN HOSPITAL CENTER", "ELMHURST HOSPITAL CENTER", "QUEENS HOSPITAL CENTER")
+mount_sinai <- c("MOUNT SINAI BETH ISRAEL", "MOUNT SINAI HOSPITAL", "MOUNT SINAI WEST", "BRONX-LEBANON HOSPITAL CENTER", "RICHMOND UNIVERSITY MEDICAL CENTER")
+ny_pres <- c("NEW YORK-PRESBYTERIAN BROOKLYN METHODIST HOSPITAL", "NEW YORK-PRESBYTERIAN HOSPITAL", "NEW YORK-PRESBYTERIAN/QUEENS", "HOSPITAL FOR SPECIAL SURGERY", "NEW YORK COMMUNITY HOSPITAL OF BROOKLYN, INC.")
+northwell <- c("LONG ISLAND JEWISH MEDICAL CENTER", "LENOX HILL HOSPITAL", "STATEN ISLAND UNIVERSITY HOSPITAL")
+nyu_langone <- c("NYU LANGONE HOSPITALS" )
+montefiore <- c("MONTEFIORE MEDICAL CENTER", "MAIMONIDES MEDICAL CENTER") 
+suny <- c("BROOKLYN HOSPITAL CENTER AT DOWNTOWN CAMPUS", "UNIVERSITY HOSPITAL OF BROOKLYN ( DOWNSTATE )", "KINGSBROOK JEWISH MEDICAL CENTER")
 nyc_hospital_shp <- st_read(paste(path, nyc_hospital_folder,"hospitals_thiessen.shp",sep = ""), stringsAsFactors = F)
 nyc_hospital_points <- st_read("./nyc_hospitals/nyc_hospitals.shp", stringsAsFactors = F)
 ```
@@ -47,7 +53,7 @@ nyc_hospital_points <- st_read("./nyc_hospitals/nyc_hospitals.shp", stringsAsFac
 #### Hospitals in New York: Where
 ```{r New York}
 # function to parse through each medicare df for just those in NYC
-nyc_medicare <- function(medicare_df, zip_codes = nyc_zip_codes, zipBx = 104, zipBk = 112, zipMn = 100, zipSI = 103, health_plus = nyc_health_plus){
+nyc_medicare <- function(medicare_df, zip_codes = nyc_zip_codes, zipBx = 104, zipBk = 112, zipMn = 100, zipSI = 103){
   nyc_medicare <- medicare_df %>%
   filter(`Provider Zip Code` %in% zip_codes) %>%
   mutate(zip_3 = substr(`Provider Zip Code`, 1, 3),
@@ -55,7 +61,13 @@ nyc_medicare <- function(medicare_df, zip_codes = nyc_zip_codes, zipBx = 104, zi
                           ifelse(zip_3 == zipBk, "Brooklyn", 
                                  ifelse(zip_3 == zipMn, "Manhattan", 
                                         ifelse(zip_3 == zipSI, "Staten Island", "Queens")))),
-         health_plus = ifelse(`Provider Name` %in% health_plus, "Y", "N"))
+         system = ifelse(`Provider Name` %in% nyc_health_plus, "Health+",
+                         ifelse(`Provider Name` %in% mount_sinai, "Mount Sinai", 
+                                ifelse(`Provider Name` %in% ny_pres, "NewYork-Presbyterian", 
+                                       ifelse(`Provider Name` %in% northwell, "Northwell",
+                                              ifelse(`Provider Name` %in% nyu_langone, "NYU Langone",
+                                                     ifelse(`Provider Name` %in% montefiore, "Montefiore",
+                                                            ifelse(`Provider Name` %in% suny, "SUNY", "Others"))))))))
   nyc_medicare
 }
 
@@ -158,7 +170,7 @@ So, if we look at the most common procedures by the total number of discharges, 
 ```{r cost differences, fig.width=14}
 nyc_medicare_2017_q1 <- nyc_medicare_2017 %>%
   filter(`DRG Definition` %in% unlist(procedures_count$`DRG Definition`)[1:104]) %>%
-  select(`Provider Name`, `DRG Definition`, `Total Discharges`:`Average Medicare Payments`, borough, health_plus) %>%
+  select(`Provider Name`, `DRG Definition`, `Total Discharges`:`Average Medicare Payments`, borough, system) %>%
   mutate(DRG_num = as.character(substr(`DRG Definition`, 1, 3)))
 nyc_medicare_2017_top40 <- nyc_medicare_2017_q1 %>%
   filter(`DRG Definition` %in% unlist(procedures_count$`DRG Definition`)[1:40])
@@ -221,7 +233,7 @@ nyc_medicare_2017_q1_total_payments_zscores <- nyc_medicare_2017_q1 %>%
   ungroup() %>%
   mutate(z_score = (`Average Total Payments`-mean_total_payment)/sd_total_payment)
 hospital_total_payments_scatter <- ggplot(nyc_medicare_2017_q1_total_payments_zscores, aes(`Provider Name`, z_score, label = DRG_num)) + 
-  geom_point(aes(col = health_plus)) + 
+  geom_point(aes(col = system)) + 
   geom_hline(yintercept = 0) +
   coord_flip() + 
   labs(title = "Average Total Payments Scatterplot",
@@ -240,7 +252,7 @@ nyc_medicare_2017_q1_covered_charges_zscores <- nyc_medicare_2017_q1 %>%
   ungroup() %>%
   mutate(z_score = (`Average Covered Charges`-mean_covered_charges)/sd_covered_charges)
 hospital_covered_charges_scatter <- ggplot(nyc_medicare_2017_q1_covered_charges_zscores, aes(`Provider Name`, z_score, label = DRG_num)) + 
-  geom_point(aes(col = health_plus)) + 
+  geom_point(aes(col = system)) + 
   geom_hline(yintercept = 0) +
   coord_flip() + 
   labs(title = "Average Covered Charges Scatterplot",
@@ -260,10 +272,10 @@ nyc_medicare_2017_q1_non_medicare_payments_zscores <- nyc_medicare_2017_q1 %>%
   ungroup() %>%
   mutate(z_score = (average_non_medicare_payments-mean_non_medicare_charges)/sd_non_medicare_charges)
 hospital_non_medicare_payments_scatter <- ggplot(nyc_medicare_2017_q1_non_medicare_payments_zscores, aes(`Provider Name`, z_score, label = DRG_num)) + 
-  geom_point(aes(col = health_plus)) + 
+  geom_point(aes(col = system)) + 
   geom_hline(yintercept = 0) +
   coord_flip() + 
-  labs(title = "Average Covered Charges Scatterplot",
+  labs(title = "Average Non-Covered Charges Scatterplot",
        subtitle = "No. of std dev for each common DRG by hospital",
        y = "Standard Deviations",
        x = "Hospital") + 
@@ -273,13 +285,13 @@ ggplotly(hospital_non_medicare_payments_scatter)
 Okay, so this presents a much more nuanced picture. Even though `Total Payments` might be high at NYC Health+ hospitals, the amount that is not covered by Medicare tends to be below average at NYC Health+ hospitals. Among boroughts, the hospitals in Manhattan tend to incur more non-Medicare covered charges. 
   
 #### Time Series of Charges
-```{r time-series, fig.height=10, fig.width=10}
+```{r time-series, fig.height=12, fig.width=12}
 top_n_drg <- function(medicare_df, n, yr, procedure_count = procedures_count){
   procedures_DRG <- unlist(procedures_count$DRG_num[1:n])
   target_df <- medicare_df %>%
     mutate(DRG_num = as.character(substr(`DRG Definition`, 1, 3))) %>%
     filter(DRG_num %in% procedures_DRG) %>%
-    select(`Provider Name`, DRG_num, `Total Discharges`:`Average Medicare Payments`, borough, health_plus) %>%
+    select(`Provider Name`, DRG_num, `Total Discharges`:`Average Medicare Payments`, borough, system) %>%
     mutate(Average_Non_Medicare_Payments = `Average Total Payments` - `Average Medicare Payments`,
            Year = yr,
            `Provider Name` = str_replace_all(`Provider Name`, c("LUTHERAN MEDICAL CENTER" = "NYU LANGONE HOSPITALS", "NEW YORK METHODIST HOSPITAL" = "NEW YORK-PRESBYTERIAN BROOKLYN METHODIST HOSPITAL", "FOREST HILLS HOSPITAL" = "LONG ISLAND JEWISH MEDICAL CENTER", "BETH ISRAEL MEDICAL CENTER" = "MOUNT SINAI BETH ISRAEL", "ST LUKE'S ROOSEVELT HOSPITAL" = "MOUNT SINAI WEST", "NEW YORK HOSPITAL MEDICAL CENTER OF QUEENS" = "NEW YORK-PRESBYTERIAN/QUEENS", "MOUNT SINAI BETH ISRAEL/PETRIE CAMPUS" = "MOUNT SINAI BETH ISRAEL", "NYU HOSPITALS CENTER" = "NYU LANGONE HOSPITALS"))) %>%
@@ -333,11 +345,16 @@ nyc_medicare_2014_2017_topfive_df_temp <- inner_join(nyc_medicare_2014_2017_topf
 nyc_medicare_2014_2017_topfive_df_temp <- inner_join(nyc_medicare_2014_2017_topfive_df_temp, nyc_medicare_2014_2017_topfive_df_longer3, by = c("Provider Name", "DRG_num", "Discharge_Year" = "Total_Payments_Year"))
 nyc_medicare_2014_2017_topfive_df_temp <- inner_join(nyc_medicare_2014_2017_topfive_df_temp, nyc_medicare_2014_2017_topfive_df_longer4, by = c("Provider Name", "DRG_num", "Discharge_Year" = "Non_Medicare_Payments_"))
 
+provider_systems <- nyc_medicare_2017 %>%
+  select(`Provider Name`, system) %>%
+  unique()
+
 nyc_medicare_2014_2017_topfive_df_timeseries <- nyc_medicare_2014_2017_topfive_df_temp %>%
   pivot_longer(., cols = starts_with("YoY_"), names_to = "Variable", names_prefix = "YoY_", values_to = "YoY_Change") %>%
   mutate(Discharge_Year = lubridate::year(as.Date(Discharge_Year,format = "%Y")))
+nyc_medicare_2014_2017_topfive_df_timeseries <- left_join(nyc_medicare_2014_2017_topfive_df_timeseries, provider_systems, by = "Provider Name")
 
-ggplot(nyc_medicare_2014_2017_topfive_df_timeseries, aes(x = Discharge_Year, y = YoY_Change)) + 
+ggplot(nyc_medicare_2014_2017_topfive_df_timeseries, aes(x = Discharge_Year, y = YoY_Change, group = system, color = system)) + 
   geom_point() + 
   geom_path(alpha = 0.5) + 
   geom_hline(yintercept = 0, color = "red") + 
