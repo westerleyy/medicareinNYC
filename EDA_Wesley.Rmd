@@ -89,6 +89,9 @@ Okay so if we look at this `nyc_hospitals_borough`, we clearly see that there is
 ```{r geocoding}
 ## Geocoding Hospitals and NYC
 hospital_names <- unlist(unique(nyc_medicare_2017$`Provider Name`))
+hospital_systems <- nyc_medicare_2017 %>%
+  select(`Provider Name`, system) %>%
+  unique()
 ## Avoid geocoding everytime I knit
 # nyc_hospitals_address_geocode <- geocode(location = hospital_names, output = "latlon")
 # write_csv(nyc_hospitals_address_geocode, "data/hospitals_lat_long.csv")
@@ -98,12 +101,14 @@ nyc_lat_long <- nyc_geocode %>%
   unname()
 ## Load csv MAKE SURE
 nyc_hospitals_address_geocode <- read_csv(paste(path, "hospitals_lat_long.csv", sep = ""))
-nyc_hospitals_address <- cbind(hospital_names, nyc_hospitals_address_geocode)
+nyc_hospitals_address <- cbind(hospital_systems, nyc_hospitals_address_geocode)
 
 ## Mount Sinai Hospital is always wrong 
 ## Must change both files or it will mess up the conversion to ESRI shapefile
-nyc_hospitals_address[4,2:3] <- c(-73.953143, 40.7877519)
+nyc_hospitals_address[4,3:4] <- c(-73.953143, 40.7877519)
 nyc_hospitals_address_geocode[4,1:2] <- c(-73.953143, 40.7877519)
+
+#write.csv(nyc_hospitals_address, paste(path,"nyc_hospitals_systems_lat_long.csv",sep = ""))
 
 ## using the sp functions 
 # epsg32118_nad83 <- CRS("+proj=lcc +lat_1=41.03333333333333 +lat_2=40.66666666666666 +lat_0=40.16666666666666 +lon_0=-74 +x_0=300000 +y_0=0 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs")
