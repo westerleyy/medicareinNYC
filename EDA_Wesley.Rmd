@@ -21,6 +21,7 @@ library(sf)
 library(rgdal)
 library(sp)
 library(maptools)
+library(leaflet)
 
 # data paths 
 path <- "./data/"
@@ -33,21 +34,37 @@ register_google(key = unlist(google_api_key$text), write = T)
 
 # reading in data
 medicare_part_b_2017 <- read_csv(paste(path, medicare_folder, "MEDICARE_PROVIDER_CHARGE_INPATIENT_DRGALL_FY2017.CSV", sep = ""))
-nyc_zip_codes <- c(10453, 10457, 10460, 10458, 10467, 10468, 10451, 10452, 10456, 10454, 10455, 10459, 10474, 10463, 10471, 10466, 10469, 10470, 10475, 10461, 10462,10464, 10465, 10472, 10473, 	11212, 11213, 11216, 11233, 11238, 	11209, 11214, 11228, 	11204, 11218, 11219, 11230, 11234, 11236, 11239, 11223, 11224, 11229, 11235, 	11201, 11205, 11215, 11217, 11231, 11203, 11210, 11225, 11226, 	11207, 11208, 	11211, 11222,	11220, 11232,	11206, 11221, 11237,	10026, 10027, 10030, 10037, 10039,	10001, 10011, 10018, 10019, 10020, 10036,	10029, 10035,	10010, 10016, 10017, 10022,	10012, 10013, 10014,	10004, 10005, 10006, 10007, 10038, 10280,	10002, 10003, 10009,	10021, 10028, 10044, 10065, 10075, 10128,	10023, 10024, 10025,10031, 10032, 10033, 10034, 10040,	11361, 11362, 11363, 11364,11354, 11355, 11356, 11357, 11358, 11359, 11360,11365, 11366, 11367,	11412, 11423, 11432, 11433, 11434, 11435, 11436, 	11101, 11102, 11103, 11104, 11105, 11106,	11374, 11375, 11379, 11385,11691, 11692, 11693, 11694, 11695, 11697,	11004, 11005, 11411, 11413, 11422, 11426, 11427, 11428, 11429,	11414, 11415, 11416, 11417, 11418, 11419, 11420, 11421,	11368, 11369, 11370, 11372, 11373, 11377, 11378,10302, 10303, 10310,	10306, 10307, 10308, 10309, 10312,10301, 10304, 10305,10314)
+medicare_part_b_2016 <- read_csv(paste(path, medicare_folder, "MEDICARE_PROVIDER_CHARGE_INPATIENT_DRGALL_FY2016.CSV", sep = ""))
+medicare_part_b_2015 <- read_csv(paste(path, medicare_folder, "MEDICARE_PROVIDER_CHARGE_INPATIENT_DRGALL_FY2015.CSV", sep = ""))
+medicare_part_b_2014 <- read_csv(paste(path, medicare_folder, "MEDICARE_PROVIDER_CHARGE_INPATIENT_DRGALL_FY2014.CSV", sep = ""))
+nyc_zip_codes <- c(10453, 10457, 10460, 10458, 10467, 10468, 10451, 10452, 10456, 10454, 10455, 10459, 10474, 10463, 10471, 10466, 10469, 10470, 10475, 10461, 10462,10464, 10465, 10472, 10473, 	11212, 11213, 11216, 11233, 11238, 	11209, 11214, 11228, 	11204, 11218, 11219, 11230, 11234, 11236, 11239, 11223, 11224, 11229, 11235, 	11201, 11205, 11215, 11217, 11231, 11203, 11210, 11225, 11226, 	11207, 11208, 	11211, 11222,	11220, 11232,	11206, 11221, 11237,	10026, 10027, 10030, 10037, 10039,	10001, 10011, 10018, 10019, 10020, 10036,	10029, 10035,	10010, 10016, 10017, 10022,	10012, 10013, 10014,	10004, 10005, 10006, 10007, 10038, 10280,	10002, 10003, 10009,	10021, 10028, 10044, 10065, 10075, 10128,	10023, 10024, 10025,10031, 10032, 10033, 10034, 10040,	11361, 11362, 11363, 11364,11354, 11355, 11356, 11357, 11358, 11359, 11360,11365, 11366, 11367,	11412, 11423, 11432, 11433, 11434, 11435, 11436, 	11101, 11102, 11103, 11104, 11105, 11106,	11374, 11375, 11379, 11385,11691, 11692, 11693, 11694, 11695, 11697,	11004, 11005, 11411, 11413, 11422, 11426, 11427, 11428, 11429,	11414, 11415, 11416, 11417, 11418, 11419, 11420, 11421,	11368, 11369, 11370, 11372, 11373, 11377, 11378,10302, 10303, 10310,	10306, 10307, 10308, 10309, 10312,10301, 10304, 10305,10314, 11040)
 nyc_health_plus <- c("JACOBI MEDICAL CENTER", "LINCOLN MEDICAL & MENTAL HEALTH CENTER", "NORTH CENTRAL BRONX HOSPITAL", "CONEY ISLAND HOSPITAL", "KINGS COUNTY HOSPITAL CENTER", "WOODHULL MEDICAL AND MENTAL HEALTH CENTER", "BELLEVUE HOSPITAL CENTER", "HARLEM HOSPITAL CENTER", "METROPOLITAN HOSPITAL CENTER", "ELMHURST HOSPITAL CENTER", "QUEENS HOSPITAL CENTER")
-nyc_hospital_shp <- st_read(paste(path, nyc_hospital_folder,"hospitals_thiessen_polyarea.shp",sep = ""), stringsAsFactors = F)
+nyc_hospital_shp <- st_read(paste(path, nyc_hospital_folder,"hospitals_thiessen.shp",sep = ""), stringsAsFactors = F)
+nyc_hospital_points <- st_read("./nyc_hospitals/nyc_hospitals.shp", stringsAsFactors = F)
 ```
 
 #### Hospitals in New York: Where
 ```{r New York}
-nyc_medicare_2017 <- medicare_part_b_2017 %>%
-  filter(`Provider Zip Code` %in% nyc_zip_codes) %>%
+# function to parse through each medicare df for just those in NYC
+nyc_medicare <- function(medicare_df, zip_codes = nyc_zip_codes, zipBx = 104, zipBk = 112, zipMn = 100, zipSI = 103, health_plus = nyc_health_plus){
+  nyc_medicare <- medicare_df %>%
+  filter(`Provider Zip Code` %in% zip_codes) %>%
   mutate(zip_3 = substr(`Provider Zip Code`, 1, 3),
-         borough = ifelse(zip_3 == 104, "Bronx", 
-                          ifelse(zip_3 == 112, "Brooklyn", 
-                                 ifelse(zip_3 == 100, "Manhattan", 
-                                        ifelse(zip_3 == 103, "Staten Island", "Queens")))),
-         health_plus = ifelse(`Provider Name` %in% nyc_health_plus, "Y", "N"))
+         borough = ifelse(zip_3 == zipBx, "Bronx", 
+                          ifelse(zip_3 == zipBk, "Brooklyn", 
+                                 ifelse(zip_3 == zipMn, "Manhattan", 
+                                        ifelse(zip_3 == zipSI, "Staten Island", "Queens")))),
+         health_plus = ifelse(`Provider Name` %in% health_plus, "Y", "N"))
+  nyc_medicare
+}
+
+# returning only the NYC dataset
+nyc_medicare_2017 <- nyc_medicare(medicare_part_b_2017)
+nyc_medicare_2016 <- nyc_medicare(medicare_part_b_2016)
+nyc_medicare_2015 <- nyc_medicare(medicare_part_b_2015)
+nyc_medicare_2014 <- nyc_medicare(medicare_part_b_2014)
+
+# tabling NYC hospitals
 nyc_hospitals_borough <- nyc_medicare_2017 %>%
   group_by(borough) %>%
   summarise(number_hospitals = n_distinct(`Provider Name`))
@@ -57,11 +74,10 @@ datatable(nyc_hospitals_borough)
 Okay so if we look at this `nyc_hospitals_borough`, we clearly see that there is a geographical imbalance in terms of the number of hospitals per borough. Queens is probably the most underserved borough in this regard since it is also the biggest borough by land area, right?  
   
 ```{r geocoding}
+## Geocoding Hospitals and NYC
 hospital_names <- unlist(unique(nyc_medicare_2017$`Provider Name`))
 ## Avoid geocoding everytime I knit
 # nyc_hospitals_address_geocode <- geocode(location = hospital_names, output = "latlon")
-# nyc_hospitals_address_geocode[11,1:2] <- c(-73.958931,40.7627183)
-# nyc_hospitals_address_geocode[16,1:2] <- c(-73.9843091,40.7331083)
 # write_csv(nyc_hospitals_address_geocode, "data/hospitals_lat_long.csv")
 nyc_geocode <- geocode("New York City")
 nyc_lat_long <- nyc_geocode %>%
@@ -71,23 +87,23 @@ nyc_lat_long <- nyc_geocode %>%
 nyc_hospitals_address_geocode <- read_csv(paste(path, "hospitals_lat_long.csv", sep = ""))
 nyc_hospitals_address <- cbind(hospital_names, nyc_hospitals_address_geocode)
 
-## begin mapping
-## save map as an RDS object and then reload to enable offline mapping
-# nyc_map <- get_googlemap(center = nyc_lat_long, zoom = 10)
-# saveRDS(nyc_map, "data/nyc_map.rds")
-nyc_map_RDS <- readRDS("data/nyc_map.rds")
-ggmap(nyc_map_RDS) + 
-  geom_point(data = nyc_hospitals_address, aes(x = lon, y = lat))
+## Mount Sinai Hospital is always wrong 
+## Must change both files or it will mess up the conversion to ESRI shapefile
+nyc_hospitals_address[4,2:3] <- c(-73.953143, 40.7877519)
+nyc_hospitals_address_geocode[4,1:2] <- c(-73.953143, 40.7877519)
 
 ## using the sp functions 
-nyc_hospitals_spdf <- SpatialPointsDataFrame(coords = nyc_hospitals_address_geocode, data = nyc_hospitals_address, proj4string = CRS("+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs"))
+# epsg32118_nad83 <- CRS("+proj=lcc +lat_1=41.03333333333333 +lat_2=40.66666666666666 +lat_0=40.16666666666666 +lon_0=-74 +x_0=300000 +y_0=0 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs")
+# nyc_hospitals_spdf <- SpatialPointsDataFrame(coords = nyc_hospitals_address_geocode, data = nyc_hospitals_address, proj4string = epsg32118_nad83)
 # writeOGR(obj=nyc_hospitals_spdf, dsn = "nyc_hospitals", layer = "nyc_hospitals", driver = "ESRI Shapefile", overwrite_layer = T)
 
 # calculating catchment area
+nyc_hospital_shp$area <- st_area(nyc_hospital_shp)*3861.02
+nyc_hospital_shp$area_sqmi <- substr(nyc_hospital_shp$area, 1,5)
 borough_list <- nyc_medicare_2017 %>%
   select(`Provider Name`, borough) %>%
   unique()
-catchment_area <- (nyc_hospital_shp$poly_area)/27878350.09766
+catchment_area <- substr(nyc_hospital_shp$area,1,5)
 catchment_area_df <- cbind(nyc_hospital_shp$hsptl_n,catchment_area) %>%
   as.data.frame() %>%
   arrange(desc(V1)) %>%
@@ -95,7 +111,34 @@ catchment_area_df <- cbind(nyc_hospital_shp$hsptl_n,catchment_area) %>%
 colnames(catchment_area_df) <- c("Provider Name", "Catchment Area (sq.mi)","Borough")
 datatable(catchment_area_df)
 ```
-Here we can see that the hospitals with the largest catchment areas are in Queens, SI, and the Bronx.   
+  
+Here we can see that the hospitals with the largest catchment areas are in Queens, SI, and the Bronx. Visualizing it in a map, we have the following:
+```{r hospital_map, eval = FALSE, echo = FALSE}
+## begin mapping
+## save map as an RDS object and then reload to enable offline mapping
+# nyc_map <- get_googlemap(center = nyc_lat_long, zoom = 10)
+# saveRDS(nyc_map, "data/nyc_map.rds")
+nyc_map_RDS <- readRDS("data/nyc_map.rds")
+
+nyc_hospital_shp_lat_long <- st_coordinates(nyc_hospital_shp) %>%
+  broom::tidy()
+ggmap(nyc_map_RDS) + 
+  geom_point(data = nyc_hospitals_address, aes(x = lon, y = lat)) + 
+  geom_polygon(data = nyc_hospital_shp_lat_long, 
+               aes(X, Y, group = L3), colour = "black", alpha = 0)
+```
+
+```{r, warning=FALSE}
+leaflet() %>%
+  addProviderTiles(providers$CartoDB.Positron) %>%
+  addPolygons(data = nyc_hospital_shp, label = ~area_sqmi,
+              fillOpacity = 0.5, stroke = T, color = "#8da0cb", weight = 2) %>%
+  addCircleMarkers(data = nyc_hospital_points, label = ~hsptl_n,
+                   weight = 3, radius = 3, color = "#ffa500")
+```
+
+
+
     
 #### Procedures Performed and Costs
   
@@ -106,7 +149,7 @@ procedures_count <- nyc_medicare_2017 %>%
   group_by(`DRG Definition`) %>%
   summarise(discharge_count = sum(`Total Discharges`)) %>%
   arrange(desc(discharge_count))
-head(procedures_count, n = 10)
+head(procedures_count, n = 5)
 ```
 
 So, if we look at the most common procedures by the total number of discharges, septicemia/sepsis treatments are leading the pack.  
@@ -227,4 +270,6 @@ hospital_non_medicare_payments_scatter <- ggplot(nyc_medicare_2017_q1_non_medica
 ggplotly(hospital_non_medicare_payments_scatter)
 ```
 Okay, so this presents a much more nuanced picture. Even though `Total Payments` might be high at NYC Health+ hospitals, the amount that is not covered by Medicare tends to be below average at NYC Health+ hospitals. Among boroughts, the hospitals in Manhattan tend to incur more non-Medicare covered charges. 
+  
+#### Time Series of Charges
 
