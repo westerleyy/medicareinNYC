@@ -13,15 +13,12 @@ library(tidyverse)
 library(ggplot2)
 library(DT)
 library(caret)
-library(randomForest)
 library(plotly)
-library(gridExtra)
-library(ggmap)
 library(sf)
 library(rgdal)
 library(sp)
-library(maptools)
 library(leaflet)
+library(ggmap)
 
 # data paths 
 path <- "./data/"
@@ -38,7 +35,16 @@ medicare_part_b_2017 <- read_csv(paste(path, medicare_folder, "MEDICARE_PROVIDER
 medicare_part_b_2016 <- read_csv(paste(path, medicare_folder, "MEDICARE_PROVIDER_CHARGE_INPATIENT_DRGALL_FY2016.CSV", sep = ""))
 medicare_part_b_2015 <- read_csv(paste(path, medicare_folder, "MEDICARE_PROVIDER_CHARGE_INPATIENT_DRGALL_FY2015.CSV", sep = ""))
 medicare_part_b_2014 <- read_csv(paste(path, medicare_folder, "MEDICARE_PROVIDER_CHARGE_INPATIENT_DRGALL_FY2014.CSV", sep = ""))
+
+# hospital shapefiles
+nyc_hospital_thiessen <- st_read(paste(path, nyc_hospital_folder,"hospitals_thiessen.shp",sep = ""), stringsAsFactors = F)
+nyc_hospital_points <- st_read(paste(path, "nyc_hospitals/nyc_hospitals.shp", sep = ""),stringsAsFactors = F)
+nyc_all_hospitals <- st_read(paste(path, "nyc_hospitals/nyc_all_hospitals.shp", sep =""), stringsAsFactors = F)
+
+# NYC zipcodes
 nyc_zip_codes <- c(10453, 10457, 10460, 10458, 10467, 10468, 10451, 10452, 10456, 10454, 10455, 10459, 10474, 10463, 10471, 10466, 10469, 10470, 10475, 10461, 10462,10464, 10465, 10472, 10473, 	11212, 11213, 11216, 11233, 11238, 	11209, 11214, 11228, 	11204, 11218, 11219, 11230, 11234, 11236, 11239, 11223, 11224, 11229, 11235, 	11201, 11205, 11215, 11217, 11231, 11203, 11210, 11225, 11226, 	11207, 11208, 	11211, 11222,	11220, 11232,	11206, 11221, 11237,	10026, 10027, 10030, 10037, 10039,	10001, 10011, 10018, 10019, 10020, 10036,	10029, 10035,	10010, 10016, 10017, 10022,	10012, 10013, 10014,	10004, 10005, 10006, 10007, 10038, 10280,	10002, 10003, 10009,	10021, 10028, 10044, 10065, 10075, 10128,	10023, 10024, 10025,10031, 10032, 10033, 10034, 10040,	11361, 11362, 11363, 11364,11354, 11355, 11356, 11357, 11358, 11359, 11360,11365, 11366, 11367,	11412, 11423, 11432, 11433, 11434, 11435, 11436, 	11101, 11102, 11103, 11104, 11105, 11106,	11374, 11375, 11379, 11385,11691, 11692, 11693, 11694, 11695, 11697,	11004, 11005, 11411, 11413, 11422, 11426, 11427, 11428, 11429,	11414, 11415, 11416, 11417, 11418, 11419, 11420, 11421,	11368, 11369, 11370, 11372, 11373, 11377, 11378,10302, 10303, 10310,	10306, 10307, 10308, 10309, 10312,10301, 10304, 10305,10314, 11040)
+
+# Hospital systems
 nyc_health_plus <- c("JACOBI MEDICAL CENTER", "LINCOLN MEDICAL & MENTAL HEALTH CENTER", "NORTH CENTRAL BRONX HOSPITAL", "CONEY ISLAND HOSPITAL", "KINGS COUNTY HOSPITAL CENTER", "WOODHULL MEDICAL AND MENTAL HEALTH CENTER", "BELLEVUE HOSPITAL CENTER", "HARLEM HOSPITAL CENTER", "METROPOLITAN HOSPITAL CENTER", "ELMHURST HOSPITAL CENTER", "QUEENS HOSPITAL CENTER")
 mount_sinai <- c("MOUNT SINAI BETH ISRAEL", "MOUNT SINAI HOSPITAL", "MOUNT SINAI WEST", "BRONX-LEBANON HOSPITAL CENTER", "RICHMOND UNIVERSITY MEDICAL CENTER")
 ny_pres <- c("NEW YORK-PRESBYTERIAN BROOKLYN METHODIST HOSPITAL", "NEW YORK-PRESBYTERIAN HOSPITAL", "NEW YORK-PRESBYTERIAN/QUEENS", "HOSPITAL FOR SPECIAL SURGERY", "NEW YORK COMMUNITY HOSPITAL OF BROOKLYN, INC.")
@@ -46,8 +52,6 @@ northwell <- c("LONG ISLAND JEWISH MEDICAL CENTER", "LENOX HILL HOSPITAL", "STAT
 nyu_langone <- c("NYU LANGONE HOSPITALS" )
 montefiore <- c("MONTEFIORE MEDICAL CENTER", "MAIMONIDES MEDICAL CENTER") 
 suny <- c("BROOKLYN HOSPITAL CENTER AT DOWNTOWN CAMPUS", "UNIVERSITY HOSPITAL OF BROOKLYN ( DOWNSTATE )", "KINGSBROOK JEWISH MEDICAL CENTER")
-nyc_hospital_shp <- st_read(paste(path, nyc_hospital_folder,"hospitals_thiessen.shp",sep = ""), stringsAsFactors = F)
-nyc_hospital_points <- st_read("./nyc_hospitals/nyc_hospitals.shp", stringsAsFactors = F)
 ```
 
 #### Hospitals in New York: Where
@@ -88,25 +92,26 @@ Okay so if we look at this `nyc_hospitals_borough`, we clearly see that there is
   
 ```{r geocoding}
 ## Geocoding Hospitals and NYC
-hospital_names <- unlist(unique(nyc_medicare_2017$`Provider Name`))
 hospital_systems <- nyc_medicare_2017 %>%
   select(`Provider Name`, system) %>%
   unique()
+
 ## Avoid geocoding everytime I knit
 # nyc_hospitals_address_geocode <- geocode(location = hospital_names, output = "latlon")
 # write_csv(nyc_hospitals_address_geocode, "data/hospitals_lat_long.csv")
-nyc_geocode <- geocode("New York City")
-nyc_lat_long <- nyc_geocode %>%
-  unlist() %>%
-  unname()
+# nyc_geocode <- geocode("New York City")
+# nyc_lat_long <- nyc_geocode %>%
+#   unlist() %>%
+#   unname()
+
 ## Load csv MAKE SURE
-nyc_hospitals_address_geocode <- read_csv(paste(path, "hospitals_lat_long.csv", sep = ""))
-nyc_hospitals_address <- cbind(hospital_systems, nyc_hospitals_address_geocode)
+# nyc_hospitals_address_geocode <- read_csv(paste(path, "hospitals_lat_long.csv", sep = ""))
+# nyc_hospitals_address <- cbind(hospital_systems, nyc_hospitals_address_geocode)
 
 ## Mount Sinai Hospital is always wrong 
 ## Must change both files or it will mess up the conversion to ESRI shapefile
-nyc_hospitals_address[4,3:4] <- c(-73.953143, 40.7877519)
-nyc_hospitals_address_geocode[4,1:2] <- c(-73.953143, 40.7877519)
+# nyc_hospitals_address[4,3:4] <- c(-73.953143, 40.7877519)
+# nyc_hospitals_address_geocode[4,1:2] <- c(-73.953143, 40.7877519)
 
 #write.csv(nyc_hospitals_address, paste(path,"nyc_hospitals_systems_lat_long.csv",sep = ""))
 
@@ -116,18 +121,21 @@ nyc_hospitals_address_geocode[4,1:2] <- c(-73.953143, 40.7877519)
 # writeOGR(obj=nyc_hospitals_spdf, dsn = "nyc_hospitals", layer = "nyc_hospitals", driver = "ESRI Shapefile", overwrite_layer = T)
 
 # calculating catchment area
-nyc_hospital_shp$area <- st_area(nyc_hospital_shp)*3861.02
-nyc_hospital_shp$area_sqmi <- substr(nyc_hospital_shp$area, 1,5)
-borough_list <- nyc_medicare_2017 %>%
-  select(`Provider Name`, borough) %>%
-  unique()
-catchment_area <- substr(nyc_hospital_shp$area,1,5)
-catchment_area_df <- cbind(nyc_hospital_shp$hsptl_n,catchment_area) %>%
-  as.data.frame() %>%
-  arrange(desc(V1)) %>%
-  inner_join(.,borough_list, by = c("V1" = "Provider Name"))
-colnames(catchment_area_df) <- c("Provider Name", "Catchment Area (sq.mi)","Borough")
-#write.csv(catchment_area_df, "./data/nyc_hospitals_thiessen_polygons/hospitals_catchment_area.csv")
+nyc_hospital_thiessen$area <- st_area(nyc_hospital_thiessen)*3861.02
+nyc_hospital_thiessen$area_sqmi <- substr(nyc_hospital_thiessen$area, 1,5)
+catchment_area_df <- nyc_hospital_thiessen %>%
+  select(Hospital.N, System, area_sqmi) %>%
+  st_drop_geometry()
+# borough_list <- nyc_medicare_2017 %>%
+#   select(`Provider Name`, borough) %>%
+#   unique()
+# catchment_area <- substr(nyc_hospital_shp$area,1,5)
+# catchment_area_df <- cbind(nyc_hospital_shp$hsptl_n,catchment_area) %>%
+#   as.data.frame() %>%
+#   arrange(desc(V1)) %>%
+#   inner_join(.,borough_list, by = c("V1" = "Provider Name"))
+# colnames(catchment_area_df) <- c("Provider Name", "Catchment Area (sq.mi)","Borough")
+# write.csv(catchment_area_df, "./data/nyc_hospitals_thiessen_polygons/hospitals_catchment_area.csv")
 datatable(catchment_area_df)
 ```
   
@@ -150,9 +158,9 @@ ggmap(nyc_map_RDS) +
 ```{r, warning=FALSE}
 leaflet() %>%
   addProviderTiles(providers$CartoDB.Positron) %>%
-  addPolygons(data = nyc_hospital_shp, label = ~area_sqmi,
+  addPolygons(data = nyc_hospital_thiessen, label = ~area_sqmi, 
               fillOpacity = 0.5, stroke = T, color = "#8da0cb", weight = 2) %>%
-  addCircleMarkers(data = nyc_hospital_points, label = ~hsptl_n,
+  addCircleMarkers(data = nyc_all_hospitals, label = ~Hospital.N,
                    weight = 3, radius = 3, color = "#ffa500")
 ```
 
@@ -357,7 +365,10 @@ provider_systems <- nyc_medicare_2017 %>%
 nyc_medicare_2014_2017_topfive_df_timeseries <- nyc_medicare_2014_2017_topfive_df_temp %>%
   pivot_longer(., cols = starts_with("YoY_"), names_to = "Variable", names_prefix = "YoY_", values_to = "YoY_Change") %>%
   mutate(Discharge_Year = lubridate::year(as.Date(Discharge_Year,format = "%Y")))
-nyc_medicare_2014_2017_topfive_df_timeseries <- left_join(nyc_medicare_2014_2017_topfive_df_timeseries, provider_systems, by = "Provider Name")
+nyc_medicare_2014_2017_topfive_df_timeseries <- left_join(nyc_medicare_2014_2017_topfive_df_timeseries, provider_systems, by = "Provider Name") 
+
+nyc_medicare_2014_2017_topfive_independent_df_timeseries <- nyc_medicare_2014_2017_topfive_df_timeseries %>%
+  filter(system == "Others")
 
 ggplot(nyc_medicare_2014_2017_topfive_df_timeseries, aes(x = Discharge_Year, y = YoY_Change, group = system, color = system)) + 
   geom_point() + 
@@ -375,5 +386,68 @@ write.csv(nyc_medicare_2014_2017_topfive_df_timeseries, paste(path, medicare_fol
 ## st luke's roosevelt hospital > mount sinai west
 ## new york hospital medical center of queens > new york - presbyterian/queens
 ## mount sinai beth israel/petrie > mount sinai beth israel
+```
+
+```{r system_wide, fig.height=11, fig.width=11}
+nyc_medicare_2014_2017_topfive_system_df <- nyc_medicare_2014_2017_topfive_df %>% 
+  filter(system != "Others") %>%
+  mutate(Total_Payments = `Average Total Payments`*`Total Discharges`,
+         Total_Medicare_Payments = `Average Medicare Payments`*`Total Discharges`,
+         Total_Covered_Charges = `Average Covered Charges`*`Total Discharges`,
+         Total_Non_Medicare_Payments = Average_Non_Medicare_Payments*`Total Discharges`) %>%
+  group_by(system, DRG_num, Year) %>%
+  summarize(`Total Discharges` = ifelse(n()==2,sum(`Total Discharges`), `Total Discharges`),
+            `Average Total Payments` = sum(Total_Payments)/`Total Discharges`,
+            `Average Medicare Payments`= sum(Total_Medicare_Payments)/`Total Discharges`,
+            `Average Covered Charges` = sum(Total_Covered_Charges)/`Total Discharges`,
+            Average_Non_Medicare_Payments = sum(Total_Non_Medicare_Payments)/`Total Discharges`)
+
+nyc_medicare_2014_2017_topfive_system_df_wider <- nyc_medicare_2014_2017_topfive_system_df %>%
+  pivot_wider(., names_from = Year, values_from = c(`Total Discharges`:Average_Non_Medicare_Payments))
+nyc_medicare_2014_2017_topfive_system_df_wider <- nyc_medicare_2014_2017_topfive_system_df_wider %>%
+  mutate(Discharges_2015 = round((`Total Discharges_2015` - `Total Discharges_2014`)/`Total Discharges_2014`*100, 1),
+         Medicare_Payments_2015 = round((`Average Medicare Payments_2015` - `Average Medicare Payments_2014`)/`Average Medicare Payments_2014`*100, 1),
+         Total_Payments_2015 = round((`Average Total Payments_2015` - `Average Total Payments_2014`)/`Average Total Payments_2014`*100, 1),
+         Non_Medicare_Payments_2015 = round((`Average_Non_Medicare_Payments_2015` - `Average_Non_Medicare_Payments_2014`)/`Average_Non_Medicare_Payments_2014`*100, 1),
+         Discharges_2016 = round((`Total Discharges_2016` - `Total Discharges_2015`)/`Total Discharges_2015`*100, 1),
+         Medicare_Payments_2016 = round((`Average Medicare Payments_2016` - `Average Medicare Payments_2015`)/`Average Medicare Payments_2015`*100, 1),
+         Total_Payments_2016 = round((`Average Total Payments_2016` - `Average Total Payments_2015`)/`Average Total Payments_2015`*100, 1),
+         Non_Medicare_Payments_2016 = round((`Average_Non_Medicare_Payments_2016` - `Average_Non_Medicare_Payments_2015`)/`Average_Non_Medicare_Payments_2015`*100, 1),
+         Discharges_2017 = round((`Total Discharges_2017` - `Total Discharges_2016`)/`Total Discharges_2016`*100, 1),
+         Medicare_Payments_2017 = round((`Average Medicare Payments_2017` - `Average Medicare Payments_2016`)/`Average Medicare Payments_2016`*100, 1),
+         Total_Payments_2017 = round((`Average Total Payments_2017` - `Average Total Payments_2016`)/`Average Total Payments_2016`*100, 1),
+         Non_Medicare_Payments_2017 = round((`Average_Non_Medicare_Payments_2017` - `Average_Non_Medicare_Payments_2016`)/`Average_Non_Medicare_Payments_2016`*100, 1))
+
+nyc_medicare_2014_2017_topfive_system_df_longer <- pivot_longer(nyc_medicare_2014_2017_topfive_system_df_wider[,c(1:2,23,27,31)], cols = starts_with("Discharges_"), 
+                                                         names_to = "Discharge_Year", names_prefix = "Discharges_", values_to =  "YoY_Discharges")
+nyc_medicare_2014_2017_topfive_system_df_longer2 <- pivot_longer(nyc_medicare_2014_2017_topfive_system_df_wider[,c(1:2,24,28,32)], cols = starts_with("Medicare_Payments_"),
+                                                         names_to = "Medicare_Payments_Year", names_prefix = "Medicare_Payments_", values_to =  "YoY_Medicare_Payments")
+nyc_medicare_2014_2017_topfive_system_df_longer3 <- pivot_longer(nyc_medicare_2014_2017_topfive_system_df_wider[,c(1:2,25,29,33)], cols = starts_with("Total_Payments_"),
+                                                         names_to = "Total_Payments_Year", names_prefix = "Total_Payments_", values_to =  "YoY_Total_Payments")
+nyc_medicare_2014_2017_topfive_system_df_longer4 <- pivot_longer(nyc_medicare_2014_2017_topfive_system_df_wider[,c(1:2,26,30,34)], cols = starts_with("Non_Medicare_Payments"), names_to = "Non_Medicare_Payments_", names_prefix = "Non_Medicare_Payments_", values_to =  "YoY_Non_Medicare_Payments")
+
+nyc_medicare_2014_2017_topfive_df_temp <- inner_join(nyc_medicare_2014_2017_topfive_system_df_longer, nyc_medicare_2014_2017_topfive_system_df_longer2, by = c("system", "DRG_num", "Discharge_Year" = "Medicare_Payments_Year"))
+nyc_medicare_2014_2017_topfive_df_temp <- inner_join(nyc_medicare_2014_2017_topfive_df_temp, nyc_medicare_2014_2017_topfive_system_df_longer3, by = c("system", "DRG_num", "Discharge_Year" = "Total_Payments_Year"))
+nyc_medicare_2014_2017_topfive_df_temp <- inner_join(nyc_medicare_2014_2017_topfive_df_temp, nyc_medicare_2014_2017_topfive_system_df_longer4, by = c("system", "DRG_num", "Discharge_Year" = "Non_Medicare_Payments_"))
+
+
+nyc_medicare_2014_2017_topfive_system_df_timeseries <- nyc_medicare_2014_2017_topfive_df_temp %>%
+  pivot_longer(., cols = starts_with("YoY_"), names_to = "Variable", names_prefix = "YoY_", values_to = "YoY_Change") %>%
+  mutate(Discharge_Year = lubridate::year(as.Date(Discharge_Year,format = "%Y"))) 
+
+nyc_medicare_2014_2017_topfive_independent_df_timeseries <- nyc_medicare_2014_2017_topfive_independent_df_timeseries[,2:6]
+nyc_medicare_2014_2017_topfive_independent_df_timeseries <- nyc_medicare_2014_2017_topfive_independent_df_timeseries[,c("system", "DRG_num", "Discharge_Year", "Variable","YoY_Change")]
+
+nyc_medicare_2014_2017_topfive_allsystem_df_timeseries <- bind_rows(nyc_medicare_2014_2017_topfive_system_df_timeseries, nyc_medicare_2014_2017_topfive_independent_df_timeseries)
+
+ggplot(nyc_medicare_2014_2017_topfive_allsystem_df_timeseries, aes(x = Discharge_Year, y = YoY_Change, group = system, color = system)) + 
+  geom_point() + 
+  geom_path(alpha = 0.5) + 
+  geom_hline(yintercept = 0, color = "red") + 
+  facet_grid(DRG_num ~ Variable) + 
+  coord_cartesian(ylim = c(-100,100)) + 
+  labs(subtitle = "Coords zoomed to (-100:100, 2015:2017) to eliminate anomalies")
+
+write.csv(nyc_medicare_2014_2017_topfive_df_timeseries, paste(path, medicare_folder, "nyc_medicare_2014_2017_topfive_timeseries.csv", sep = ""))
 ```
 
