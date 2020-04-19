@@ -448,6 +448,6 @@ ggplot(nyc_medicare_2014_2017_topfive_allsystem_df_timeseries, aes(x = Discharge
   coord_cartesian(ylim = c(-100,100)) + 
   labs(subtitle = "Coords zoomed to (-100:100, 2015:2017) to eliminate anomalies")
 
-write.csv(nyc_medicare_2014_2017_topfive_df_timeseries, paste(path, medicare_folder, "nyc_medicare_2014_2017_topfive_timeseries.csv", sep = ""))
+write.csv(nyc_medicare_2014_2017_topfive_allsystem_df_timeseries, paste(path, medicare_folder, "nyc_medicare_2014_2017_topfive_allsystem_timeseries.csv", sep = ""))
 ```
 
