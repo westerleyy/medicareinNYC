@@ -1,0 +1,2168 @@
+city,tract,county,Total,White,Black,Native,Asian,Pacific Islander,Other,Two or More
+ New York,429.02, Bronx County,4205,485,1387,179,198,0,1839,117
+ New York,330, Bronx County,5885,2941,897,0,0,0,2047,0
+ New York,358, Bronx County,8054,779,5958,0,180,0,883,254
+ New York,371, Bronx County,4322,1122,1474,13,18,0,1463,232
+ New York,385, Bronx County,4757,344,1521,35,0,0,2669,188
+ New York,421, Bronx County,5763,1698,1029,0,671,0,1853,512
+ New York,451.01, Bronx County,1544,1283,44,0,111,0,59,47
+ New York,118, Bronx County,5400,3949,293,0,291,7,660,200
+ New York,204, Bronx County,3091,732,340,0,556,0,1261,202
+ New York,248, Bronx County,3053,1805,421,36,330,0,431,30
+ New York,408, Bronx County,4595,693,2995,163,33,0,520,191
+ New York,484, Bronx County,4126,284,3303,165,9,0,285,80
+ New York,247, Bronx County,2037,93,1032,4,6,0,827,75
+ New York,266.02, Bronx County,5207,2997,491,55,110,0,1301,253
+ New York,364, Bronx County,2688,6,2189,123,0,0,321,49
+ New York,449.02, Bronx County,1876,1482,179,0,87,0,59,69
+ New York,223, Bronx County,5078,648,829,40,9,0,2850,702
+ New York,254, Bronx County,2097,1501,155,26,221,4,114,76
+ New York,296, Bronx County,1592,555,266,14,495,0,214,48
+ New York,376, Bronx County,2319,260,860,44,53,0,1097,5
+ New York,27.01, Bronx County,2868,243,987,0,0,0,1603,35
+ New York,65, Bronx County,5312,968,1845,0,103,0,2150,246
+ New York,157, Bronx County,4427,607,1011,0,109,0,2650,50
+ New York,1, Bronx County,7080,1773,4239,25,125,0,850,68
+ New York,67, Bronx County,7256,471,2269,0,0,96,4225,195
+ New York,407.02, Bronx County,6891,1514,870,7,295,0,3899,306
+ New York,380, Bronx County,5378,371,4223,0,117,0,611,56
+ New York,25, Bronx County,5887,903,1344,22,50,20,3389,159
+ New York,61, Bronx County,3697,255,2766,0,17,0,545,114
+ New York,227.01, Bronx County,5194,604,2107,32,102,0,2224,125
+ New York,79, Bronx County,7054,633,2361,0,0,54,3889,117
+ New York,167, Bronx County,3625,410,1929,18,0,0,1127,141
+ New York,224.01, Bronx County,2637,403,508,0,143,0,1511,72
+ New York,28, Bronx County,5269,675,3674,0,29,0,592,299
+ New York,158, Bronx County,1082,483,70,0,30,0,412,87
+ New York,218, Bronx County,7017,1227,2553,0,166,0,3037,34
+ New York,338, Bronx County,4176,696,1628,44,340,0,1299,169
+ New York,365.02, Bronx County,2328,239,764,0,0,0,1290,35
+ New York,72, Bronx County,5891,901,742,83,1893,0,1702,570
+ New York,121.01, Bronx County,2906,432,961,5,30,0,1324,154
+ New York,121.02, Bronx County,1509,241,288,0,0,0,906,74
+ New York,123, Bronx County,4095,308,1414,4,35,0,2134,200
+ New York,133, Bronx County,5995,798,2433,109,229,0,2312,114
+ New York,143, Bronx County,1399,61,945,39,0,0,337,17
+ New York,144, Bronx County,5513,1413,2214,0,222,0,1488,176
+ New York,213.01, Bronx County,1361,191,321,38,0,13,781,17
+ New York,145, Bronx County,8004,507,3803,46,6,0,3396,246
+ New York,166, Bronx County,2364,1162,249,0,120,0,689,144
+ New York,194, Bronx County,2334,869,239,51,69,3,931,172
+ New York,229.01, Bronx County,5866,683,2833,36,65,27,1908,314
+ New York,132, Bronx County,7191,3946,1921,0,139,0,1185,0
+ New York,201, Bronx County,4254,563,1587,0,18,0,2005,81
+ New York,89, Bronx County,3200,306,842,48,4,0,1886,114
+ New York,98, Bronx County,4824,2079,1428,0,238,0,975,104
+ New York,125, Bronx County,4195,383,1455,25,119,0,1973,240
+ New York,149, Bronx County,4769,637,1752,0,0,0,2103,277
+ New York,197, Bronx County,7165,973,1779,56,470,0,3761,126
+ New York,220, Bronx County,2243,240,545,0,175,1,1248,34
+ New York,227.02, Bronx County,1617,250,394,24,92,0,838,19
+ New York,231, Bronx County,1602,453,686,0,0,0,459,4
+ New York,235.01, Bronx County,3182,518,270,9,17,0,2316,52
+ New York,16, Bronx County,5917,2406,2434,0,13,0,907,157
+ New York,24, Bronx County,172,69,89,0,0,0,0,14
+ New York,31, Bronx County,1703,367,510,0,35,0,701,90
+ New York,38, Bronx County,1434,794,495,6,7,0,132,0
+ New York,41, Bronx County,5517,715,1385,0,41,0,3118,258
+ New York,119, Bronx County,5557,702,1622,37,32,0,2964,200
+ New York,115.02, Bronx County,4437,328,1899,0,9,43,1929,229
+ New York,141, Bronx County,5865,479,2677,28,14,0,2478,189
+ New York,151, Bronx County,5029,431,2436,0,0,0,2050,112
+ New York,153, Bronx County,4885,190,2784,0,111,0,1705,95
+ New York,155, Bronx County,2884,221,704,0,59,0,1806,94
+ New York,236, Bronx County,1904,734,245,0,110,0,727,88
+ New York,243, Bronx County,5630,453,1768,52,58,0,3249,50
+ New York,44, Bronx County,4607,567,1965,22,102,0,1792,159
+ New York,48, Bronx County,4680,484,1129,152,0,0,2523,392
+ New York,59.02, Bronx County,2532,513,675,0,39,0,1215,90
+ New York,83, Bronx County,6519,857,1634,28,362,0,3376,262
+ New York,84, Bronx County,2780,868,943,98,232,0,545,94
+ New York,163, Bronx County,0,0,0,0,0,0,0,0
+ New York,169, Bronx County,1513,223,794,0,4,0,478,14
+ New York,173, Bronx County,5689,561,2291,0,154,0,2340,343
+ New York,246, Bronx County,2082,1001,141,0,292,0,643,5
+ New York,249, Bronx County,0,0,0,0,0,0,0,0
+ New York,250, Bronx County,2582,1546,43,28,363,0,467,135
+ New York,252, Bronx County,2711,1329,178,69,371,0,581,183
+ New York,257, Bronx County,1969,209,360,14,6,0,1328,52
+ New York,277, Bronx County,4883,1058,701,138,149,0,2528,309
+ New York,285, Bronx County,3527,2303,214,13,461,0,318,218
+ New York,286, Bronx County,1116,699,21,0,226,0,136,34
+ New York,199, Bronx County,8462,1517,2934,0,0,0,3456,555
+ New York,289, Bronx County,4773,2266,387,0,155,0,1665,300
+ New York,312, Bronx County,1598,747,510,0,221,0,46,74
+ New York,189, Bronx County,8259,1485,2535,16,46,0,4016,161
+ New York,202, Bronx County,2252,551,342,7,312,0,897,143
+ New York,206.01, Bronx County,2336,527,236,0,650,0,833,90
+ New York,211, Bronx County,5138,255,2240,19,32,0,2359,233
+ New York,212, Bronx County,4960,722,2186,47,1014,0,768,223
+ New York,216.01, Bronx County,4356,908,1389,48,137,0,1728,146
+ New York,256, Bronx County,1688,727,368,0,188,0,310,95
+ New York,227.03, Bronx County,1736,283,473,0,113,0,766,101
+ New York,237.02, Bronx County,1143,110,252,0,3,0,778,0
+ New York,240, Bronx County,4234,764,1113,0,72,0,2161,124
+ New York,263, Bronx County,6015,1282,1270,217,0,0,2947,299
+ New York,265, Bronx County,7615,992,946,0,373,0,5081,223
+ New York,281, Bronx County,4236,2033,936,0,119,28,956,164
+ New York,283, Bronx County,2618,748,894,0,1,0,849,126
+ New York,314, Bronx County,2209,1062,311,0,256,0,570,10
+ New York,328, Bronx County,3982,1019,750,56,345,0,1550,262
+ New York,374, Bronx County,3838,477,2286,0,35,0,966,74
+ New York,382, Bronx County,2943,217,2244,0,66,0,411,5
+ New York,386, Bronx County,8737,132,7034,0,993,0,340,238
+ New York,4, Bronx County,5634,2623,1699,30,226,0,847,209
+ New York,2, Bronx County,4542,2165,1279,0,104,0,801,193
+ New York,35, Bronx County,3900,547,1425,82,0,0,1754,92
+ New York,40.01, Bronx County,1485,450,163,0,175,0,659,38
+ New York,43, Bronx County,6088,898,1924,39,42,0,2888,297
+ New York,52, Bronx County,2091,311,505,36,9,0,1134,96
+ New York,390, Bronx County,2766,217,2361,0,62,0,79,47
+ New York,393, Bronx County,8721,1193,2531,0,96,0,4415,486
+ New York,403.02, Bronx County,4300,443,631,89,175,0,2825,137
+ New York,404, Bronx County,3370,198,2984,8,0,0,180,0
+ New York,407.01, Bronx County,3259,539,402,0,40,0,2267,11
+ New York,415, Bronx County,6058,776,1260,39,38,0,3580,365
+ New York,436, Bronx County,2042,141,1418,0,118,0,358,7
+ New York,389, Bronx County,5453,1779,442,38,179,0,2958,57
+ New York,448, Bronx County,1917,99,1600,0,0,0,207,11
+ New York,516, Bronx County,4036,3266,4,0,226,0,375,165
+ New York,392, Bronx County,1655,123,1230,0,0,0,269,33
+ New York,391, Bronx County,7438,1677,1148,0,143,0,3861,609
+ New York,394, Bronx County,5308,594,3630,152,0,0,682,250
+ New York,398, Bronx County,3587,354,3139,0,33,0,61,0
+ New York,414, Bronx County,5163,738,3123,0,157,0,873,272
+ New York,418, Bronx County,3957,617,2249,0,532,0,257,302
+ New York,422, Bronx County,3292,142,2743,15,30,0,286,76
+ New York,430, Bronx County,3551,303,2463,10,194,0,372,209
+ New York,431, Bronx County,10627,2027,2312,16,1396,0,4025,851
+ New York,449.01, Bronx County,1631,1367,131,7,27,0,48,51
+ New York,462.01, Bronx County,28272,5503,17050,59,848,0,3358,1454
+ New York,462.02, Bronx County,9915,1011,6787,379,104,0,1255,379
+ New York,225, Bronx County,8271,906,2513,0,161,0,4248,443
+ New York,228, Bronx County,6096,1812,1253,0,760,0,1880,391
+ New York,232, Bronx County,2711,965,333,32,106,0,1207,68
+ New York,46, Bronx County,1817,817,655,0,0,0,232,113
+ New York,60, Bronx County,1451,367,310,0,43,0,711,20
+ New York,70, Bronx County,4584,1013,1165,0,571,0,1648,187
+ New York,73, Bronx County,4314,746,1142,0,0,102,2247,77
+ New York,74, Bronx County,3314,1456,1087,0,0,0,657,114
+ New York,75, Bronx County,6112,730,2765,142,40,0,2217,218
+ New York,77, Bronx County,2022,314,743,39,14,0,872,40
+ New York,92, Bronx County,6091,1212,1227,0,1088,0,2060,504
+ New York,127.01, Bronx County,1832,414,376,23,65,0,940,14
+ New York,135, Bronx County,3541,561,1506,12,0,130,1144,188
+ New York,138, Bronx County,2597,1807,195,0,159,0,390,46
+ New York,161, Bronx County,4361,317,1624,0,0,11,2337,72
+ New York,171, Bronx County,0,0,0,0,0,0,0,0
+ New York,195, Bronx County,7418,1025,2931,5,15,0,2796,646
+ New York,229.02, Bronx County,3578,563,1033,0,20,0,1786,176
+ New York,233.02, Bronx County,3627,894,952,22,80,0,1637,42
+ New York,244, Bronx County,2277,973,142,9,50,0,1008,95
+ New York,269, Bronx County,3364,432,660,41,149,0,1969,113
+ New York,273, Bronx County,7895,1247,2238,23,135,0,3554,698
+ New York,295, Bronx County,4649,2897,579,0,348,0,454,371
+ New York,297, Bronx County,3727,2855,220,0,216,0,301,135
+ New York,310, Bronx County,4776,2136,1114,191,505,0,688,142
+ New York,316, Bronx County,1910,910,181,0,233,0,504,82
+ New York,318, Bronx County,1987,977,503,29,179,63,227,9
+ New York,323, Bronx County,4400,2997,608,0,390,0,251,154
+ New York,324, Bronx County,3696,745,893,0,118,0,1842,98
+ New York,334, Bronx County,72,12,58,0,0,0,2,0
+ New York,363, Bronx County,7735,1572,1795,52,0,94,3919,303
+ New York,379, Bronx County,5268,461,2740,14,121,0,1788,144
+ New York,369.02, Bronx County,2156,554,691,67,0,0,805,39
+ New York,373, Bronx County,5908,850,3075,72,3,0,1741,167
+ New York,378, Bronx County,3033,237,1842,0,18,0,668,268
+ New York,387, Bronx County,3622,770,710,0,20,0,2017,105
+ New York,396, Bronx County,4741,252,3864,0,18,0,506,101
+ New York,401, Bronx County,4610,461,582,0,169,0,3293,105
+ New York,406, Bronx County,3845,590,2921,0,40,0,197,97
+ New York,423, Bronx County,4500,1108,645,20,453,0,2078,196
+ New York,425, Bronx County,6264,1399,797,33,448,8,3374,205
+ New York,429.01, Bronx County,4046,1261,397,0,998,0,1291,99
+ New York,442, Bronx County,3760,668,2896,0,0,0,129,67
+ New York,504, Bronx County,222,123,61,0,3,0,22,13
+ New York,451.02, Bronx County,1765,1468,114,0,28,0,115,40
+ New York,345, Bronx County,3357,1935,341,0,205,0,713,163
+ New York,356, Bronx County,2143,153,1328,24,166,0,362,110
+ New York,359, Bronx County,1975,250,505,39,47,0,1054,80
+ New York,368, Bronx County,1988,220,1499,0,0,0,244,25
+ New York,64, Bronx County,3612,460,1420,0,101,0,1474,157
+ New York,78, Bronx County,7025,1555,1925,0,638,0,2759,148
+ New York,85, Bronx County,5972,523,1854,49,8,0,3378,160
+ New York,131, Bronx County,5076,734,2214,13,8,0,2001,106
+ New York,164, Bronx County,993,829,38,0,0,0,112,14
+ New York,184, Bronx County,4018,2734,97,0,52,19,1015,101
+ New York,193, Bronx County,5942,640,2740,26,86,0,2367,83
+ New York,213.02, Bronx County,6040,460,3185,0,41,44,2198,112
+ New York,216.02, Bronx County,5635,1221,2071,56,1096,0,786,405
+ New York,219, Bronx County,1045,105,121,6,10,0,779,24
+ New York,372, Bronx County,2279,312,1254,0,50,0,508,155
+ New York,399.02, Bronx County,5346,624,970,71,79,31,3138,433
+ New York,426, Bronx County,6477,482,5288,0,570,0,137,0
+ New York,458, Bronx County,5605,1272,2557,0,62,15,1460,239
+ New York,460, Bronx County,3190,251,2397,18,28,0,414,82
+ New York,239, Bronx County,7684,672,2264,0,77,0,4321,350
+ New York,241, Bronx County,6635,676,2262,16,28,0,3608,45
+ New York,266.01, Bronx County,3352,1822,212,0,220,0,951,147
+ New York,284, Bronx County,598,245,179,0,0,0,149,25
+ New York,287, Bronx County,3000,1162,421,40,229,0,1044,104
+ New York,288, Bronx County,3288,2233,256,0,387,0,211,201
+ New York,351, Bronx County,3766,2783,303,19,263,0,280,118
+ New York,367, Bronx County,2440,352,715,3,79,0,1222,69
+ New York,399.01, Bronx County,5615,579,1117,0,267,0,3534,118
+ New York,381, Bronx County,6909,959,2732,0,0,0,2882,336
+ New York,388, Bronx County,2780,217,1997,0,46,0,467,53
+ New York,397, Bronx County,3881,2585,330,0,240,0,597,129
+ New York,409, Bronx County,3164,634,2102,0,71,0,310,47
+ New York,420, Bronx County,3799,501,2304,71,149,27,598,149
+ New York,424, Bronx County,2562,274,1919,7,72,0,282,8
+ New York,435, Bronx County,361,32,181,101,0,0,42,5
+ New York,428, Bronx County,2114,218,1751,0,24,0,63,58
+ New York,411, Bronx County,3766,728,804,16,184,0,2001,33
+ New York,413, Bronx County,8261,1305,1225,27,384,0,5057,263
+ New York,419, Bronx County,6822,2418,1315,0,378,0,2550,161
+ New York,233.01, Bronx County,3804,348,1258,36,60,0,2029,73
+ New York,235.02, Bronx County,4180,967,1136,9,64,0,1935,69
+ New York,335, Bronx County,2011,1577,143,0,113,0,80,98
+ New York,337, Bronx County,2381,1620,212,6,201,0,211,131
+ New York,348, Bronx County,6318,1209,3035,0,157,0,1437,480
+ New York,360, Bronx County,3149,588,1520,0,405,0,587,49
+ New York,375.04, Bronx County,3409,708,1320,12,0,34,1301,34
+ New York,383.01, Bronx County,4882,405,1407,8,8,0,2928,126
+ New York,383.02, Bronx County,6127,529,2636,8,0,0,2583,371
+ New York,395, Bronx County,4228,584,2072,52,31,0,1455,34
+ New York,403.03, Bronx County,5102,636,909,218,150,0,2973,216
+ New York,403.04, Bronx County,3903,349,361,12,210,0,2894,77
+ New York,405.01, Bronx County,4435,379,659,0,204,0,3089,104
+ New York,456, Bronx County,3344,982,2030,0,168,0,133,31
+ New York,405.02, Bronx County,7260,973,2543,12,515,0,3126,91
+ New York,434, Bronx County,3884,593,2243,0,238,0,751,59
+ New York,444, Bronx County,4177,335,3343,78,159,0,207,55
+ New York,301, Bronx County,1392,869,112,0,56,0,267,88
+ New York,276, Bronx County,4,4,0,0,0,0,0,0
+ New York,302, Bronx County,9213,1058,6159,0,135,0,1659,202
+ New York,342, Bronx County,1982,398,920,56,105,0,475,28
+ New York,370, Bronx County,2528,258,1814,0,37,0,379,40
+ New York,27.02, Bronx County,4702,480,2069,82,0,0,1878,193
+ New York,33, Bronx County,3534,457,1215,92,0,0,1655,115
+ New York,19, Bronx County,2765,585,1041,0,93,0,876,170
+ New York,42, Bronx County,7207,2296,3615,0,88,0,1005,203
+ New York,50.01, Bronx County,4979,518,1278,66,49,0,2901,167
+ New York,50.02, Bronx County,5519,681,1212,40,74,0,3319,193
+ New York,51, Bronx County,5588,547,1896,0,30,0,2913,202
+ New York,53, Bronx County,4483,414,2636,72,7,0,1206,148
+ New York,63, Bronx County,4497,991,1328,23,63,0,1879,213
+ New York,76, Bronx County,5458,1118,1318,13,335,0,2601,73
+ New York,90, Bronx County,3620,1524,1107,27,54,0,844,64
+ New York,93, Bronx County,6104,626,2275,12,1,0,3093,97
+ New York,96, Bronx County,2683,595,673,18,530,0,787,80
+ New York,117, Bronx County,1586,164,608,24,0,0,718,72
+ New York,147.01, Bronx County,7120,775,3349,0,3,0,2505,488
+ New York,147.02, Bronx County,5348,493,2238,48,0,0,2510,59
+ New York,152, Bronx County,2586,1217,191,0,121,0,1003,54
+ New York,159, Bronx County,1971,354,179,31,19,0,1351,37
+ New York,179.02, Bronx County,3701,485,1174,41,21,0,1916,64
+ New York,177.01, Bronx County,4812,599,2054,0,0,0,2128,31
+ New York,177.02, Bronx County,5786,664,2114,0,128,0,2574,306
+ New York,179.01, Bronx County,5006,618,1505,297,76,0,2404,106
+ New York,181.01, Bronx County,3107,157,1479,85,0,0,1351,35
+ New York,181.02, Bronx County,5791,836,2459,0,206,0,2236,54
+ New York,183.01, Bronx County,4022,394,1482,9,90,0,1890,157
+ New York,183.02, Bronx County,3814,402,1276,0,22,0,1971,143
+ New York,185, Bronx County,8625,756,4420,160,0,0,2928,361
+ New York,200, Bronx County,4548,555,511,52,1147,17,1906,360
+ New York,205.01, Bronx County,7041,480,2074,39,23,0,4093,332
+ New York,251, Bronx County,6636,593,1292,0,632,0,3952,167
+ New York,255, Bronx County,6905,1041,986,134,0,0,4435,309
+ New York,264, Bronx County,5398,2501,437,0,472,0,1731,257
+ New York,336, Bronx County,6697,1604,2970,24,157,0,1852,90
+ New York,343, Bronx County,1680,837,352,0,3,0,421,67
+ New York,20, Bronx County,9409,3185,4487,182,29,0,1217,309
+ New York,37, Bronx County,269,92,75,0,0,0,102,0
+ New York,69, Bronx County,8090,1075,3320,38,37,0,3338,282
+ New York,160, Bronx County,3870,2451,87,0,130,0,1156,46
+ New York,215.01, Bronx County,4716,428,1438,5,0,0,2710,135
+ New York,162, Bronx County,1966,1176,81,43,10,0,583,73
+ New York,165, Bronx County,965,176,459,0,6,0,269,55
+ New York,175, Bronx County,7223,669,2951,446,18,0,2985,154
+ New York,215.02, Bronx County,6349,332,1754,13,0,0,4173,77
+ New York,230, Bronx County,2832,734,358,127,191,0,1331,91
+ New York,253, Bronx County,6314,631,1171,95,206,8,3965,238
+ New York,261, Bronx County,1950,245,1089,3,53,0,434,126
+ New York,279, Bronx County,7035,2348,944,8,386,23,2998,328
+ New York,300, Bronx County,6003,2684,603,17,354,0,2223,122
+ New York,319, Bronx County,636,400,111,0,42,0,46,37
+ New York,340, Bronx County,5464,1000,2331,116,125,43,1434,415
+ New York,344, Bronx County,2127,280,756,29,313,0,655,94
+ New York,350, Bronx County,2078,166,1366,0,78,0,402,66
+ New York,361, Bronx County,5547,869,1981,0,2,0,2566,129
+ New York,365.01, Bronx County,3705,605,1824,13,0,0,1077,186
+ New York,23, Bronx County,4600,479,2122,68,0,0,1845,86
+ New York,39, Bronx County,6742,966,1384,46,0,0,4346,0
+ New York,54, Bronx County,6003,778,1610,419,81,0,2989,126
+ New York,62, Bronx County,7184,883,2750,65,192,0,3164,130
+ New York,68, Bronx County,3294,262,925,43,349,0,1564,151
+ New York,71, Bronx County,2722,340,1071,10,65,0,1132,104
+ New York,86, Bronx County,3982,1614,1556,0,19,0,643,150
+ New York,87, Bronx County,6150,649,1872,69,26,0,3426,108
+ New York,110, Bronx County,0,0,0,0,0,0,0,0
+ New York,129.01, Bronx County,4147,526,1589,0,39,30,1875,88
+ New York,130, Bronx County,1498,997,152,0,0,0,272,77
+ New York,369.01, Bronx County,2289,285,864,6,0,0,1118,16
+ New York,56, Bronx County,2384,289,714,32,12,0,1299,38
+ New York,205.02, Bronx County,2163,121,780,0,6,0,1181,75
+ New York,209, Bronx County,4499,482,1879,0,0,0,2018,120
+ New York,210.01, Bronx County,8825,1015,4707,87,679,19,1812,506
+ New York,210.02, Bronx County,7710,956,4123,0,1292,0,951,388
+ New York,217, Bronx County,5147,394,2698,32,43,0,1769,211
+ New York,221.01, Bronx County,3896,285,635,0,240,0,2485,251
+ New York,221.02, Bronx County,5528,703,1011,55,48,114,3291,306
+ New York,222, Bronx County,3242,623,412,110,882,0,1068,147
+ New York,224.03, Bronx County,3374,858,769,31,27,0,1487,202
+ New York,224.04, Bronx County,4209,1285,1065,79,204,0,1422,154
+ New York,237.03, Bronx County,5527,556,1482,23,19,0,3323,124
+ New York,237.04, Bronx County,3944,77,950,0,8,0,2865,44
+ New York,238, Bronx County,2288,527,501,13,221,0,873,153
+ New York,245.01, Bronx County,5009,288,1164,0,54,0,3410,93
+ New York,245.02, Bronx County,3752,488,1191,89,0,0,1982,2
+ New York,267.01, Bronx County,4237,285,801,87,609,0,2171,284
+ New York,267.02, Bronx County,7221,1105,1417,12,24,0,4472,191
+ New York,274.01, Bronx County,4829,4040,82,0,52,0,473,182
+ New York,274.02, Bronx County,3450,2805,44,0,54,0,485,62
+ New York,293.01, Bronx County,1842,1437,115,0,28,0,138,124
+ New York,293.02, Bronx County,5767,3802,448,0,100,0,686,731
+ New York,332.01, Bronx County,5305,2214,785,0,102,0,2016,188
+ New York,307.01, Bronx County,5617,4394,601,0,138,0,366,118
+ New York,309, Bronx County,3703,3077,304,11,145,0,102,64
+ New York,326, Bronx County,3859,1716,478,5,765,0,726,169
+ New York,332.02, Bronx County,4218,1443,1294,33,36,0,1104,308
+ New York,295, Kings County,4266,767,2921,0,158,0,135,285
+ New York,307, Kings County,5544,409,4418,0,31,0,597,89
+ New York,309, Kings County,2126,106,1721,0,140,0,40,119
+ New York,317.02, Kings County,3589,1178,1827,0,149,0,141,294
+ New York,327, Kings County,2465,629,1618,0,15,0,153,50
+ New York,336, Kings County,4479,3855,158,0,296,0,39,131
+ New York,340, Kings County,2210,1018,860,0,177,0,122,33
+ New York,343, Kings County,5235,495,3868,0,87,0,658,127
+ New York,388, Kings County,4040,2983,334,0,589,0,99,35
+ New York,395, Kings County,4076,1396,1365,0,404,0,753,158
+ New York,399, Kings County,3822,848,1782,13,24,13,1047,95
+ New York,402, Kings County,2857,1190,19,7,1250,0,269,122
+ New York,409, Kings County,3534,1209,900,20,15,0,1347,43
+ New York,416, Kings County,2304,1971,45,0,105,0,154,29
+ New York,400, Kings County,3325,1439,33,0,1463,0,390,0
+ New York,423, Kings County,4222,2168,338,24,178,0,1475,39
+ New York,424, Kings County,3641,2022,0,19,812,0,721,67
+ New York,442, Kings County,2950,2614,0,238,24,0,19,55
+ New York,452, Kings County,2658,2540,22,0,31,0,65,0
+ New York,462.02, Kings County,2041,1847,0,0,37,0,157,0
+ New York,478, Kings County,4538,3532,0,27,221,0,703,55
+ New York,480, Kings County,3883,2440,125,0,465,0,845,8
+ New York,481, Kings County,3066,2330,168,0,316,0,217,35
+ New York,506, Kings County,5653,1519,2390,12,491,0,1084,157
+ New York,517, Kings County,2529,2005,61,0,240,0,138,85
+ New York,518, Kings County,3188,1130,1528,0,191,0,230,109
+ New York,520, Kings County,4297,1593,902,0,1051,0,723,28
+ New York,532, Kings County,2740,1713,221,0,614,0,58,134
+ New York,546, Kings County,4730,3864,219,0,331,0,21,295
+ New York,142, Kings County,2755,1965,61,0,421,0,161,147
+ New York,437, Kings County,5795,2222,1777,7,71,0,1442,276
+ New York,439, Kings County,3706,1144,1213,90,179,0,884,196
+ New York,441, Kings County,5094,2250,586,24,699,0,1462,73
+ New York,444, Kings County,3310,2844,85,0,151,0,220,10
+ New York,454, Kings County,1645,1326,27,6,94,0,66,126
+ New York,462.01, Kings County,2399,2032,14,0,320,0,33,0
+ New York,464, Kings County,2768,2572,84,0,32,0,0,80
+ New York,500, Kings County,3918,2670,224,0,774,0,128,122
+ New York,772, Kings County,2896,1223,1299,32,21,0,285,36
+ New York,756, Kings County,1996,1664,57,15,207,0,48,5
+ New York,722, Kings County,3014,69,2770,0,50,0,30,95
+ New York,734, Kings County,2021,98,1828,0,6,0,80,9
+ New York,744, Kings County,2704,2373,217,0,60,0,23,31
+ New York,786, Kings County,4910,441,3543,0,283,0,544,99
+ New York,824, Kings County,4470,138,4015,0,121,0,171,25
+ New York,838, Kings County,2208,30,2043,0,12,0,31,92
+ New York,650, Kings County,1576,507,759,0,236,0,64,10
+ New York,588, Kings County,3411,2334,92,0,780,0,172,33
+ New York,593, Kings County,2194,1836,72,0,74,0,108,104
+ New York,640, Kings County,1794,1489,0,0,206,0,41,58
+ New York,688, Kings County,1647,533,870,9,152,0,76,7
+ New York,752, Kings County,1047,1034,7,0,6,0,0,0
+ New York,764, Kings County,3815,1390,1921,0,224,0,172,108
+ New York,774, Kings County,3620,583,2502,0,284,0,95,156
+ New York,782, Kings County,5030,81,4733,0,54,0,34,128
+ New York,790, Kings County,5257,152,4601,122,82,0,258,42
+ New York,792, Kings County,3338,480,2336,0,8,0,442,72
+ New York,794, Kings County,1669,172,1363,0,0,0,123,11
+ New York,836, Kings County,2202,10,2122,12,53,0,5,0
+ New York,858, Kings County,2317,24,2234,0,0,0,59,0
+ New York,862, Kings County,2753,147,2378,0,0,0,196,32
+ New York,880, Kings County,2790,109,2628,0,0,0,0,53
+ New York,938, Kings County,2390,19,2323,0,11,0,37,0
+ New York,898, Kings County,1614,95,1445,0,19,25,30,0
+ New York,918, Kings County,2201,122,1709,5,0,0,340,25
+ New York,920, Kings County,2677,76,2287,30,65,0,219,0
+ New York,982, Kings County,4431,255,3763,0,24,0,371,18
+ New York,944.01, Kings County,3761,87,3495,52,20,0,97,10
+ New York,966, Kings County,2680,117,2140,0,117,0,139,167
+ New York,1008, Kings County,2149,194,1714,0,108,0,120,13
+ New York,1164, Kings County,3495,519,2464,0,78,0,411,23
+ New York,1168, Kings County,2012,696,725,49,28,0,358,156
+ New York,1182.02, Kings County,3152,1493,831,0,158,0,522,148
+ New York,1190, Kings County,2526,714,1257,8,92,0,392,63
+ New York,1196, Kings County,4867,1127,2584,0,806,0,266,84
+ New York,1202, Kings County,1971,161,1234,0,502,0,29,45
+ New York,397, Kings County,3417,1054,1813,0,60,0,390,100
+ New York,398, Kings County,2737,1143,0,0,1179,0,355,60
+ New York,405, Kings County,1670,354,553,0,55,0,680,28
+ New York,407, Kings County,0,0,0,0,0,0,0,0
+ New York,410, Kings County,2096,1445,23,0,598,0,5,25
+ New York,426, Kings County,4282,1690,81,0,1816,0,559,136
+ New York,169, Kings County,5003,4004,37,0,446,0,317,199
+ New York,364, Kings County,2377,1555,43,5,465,0,227,82
+ New York,373, Kings County,4201,821,2885,45,97,0,335,18
+ New York,80, Kings County,3746,1893,99,0,284,0,1183,287
+ New York,88, Kings County,2636,1514,119,0,546,0,370,87
+ New York,92, Kings County,5668,1478,226,0,2673,0,1201,90
+ New York,98, Kings County,7012,1487,173,0,2765,0,2530,57
+ New York,101, Kings County,4057,1551,132,85,528,0,1374,387
+ New York,128.01, Kings County,2279,691,28,0,1492,0,61,7
+ New York,131, Kings County,4226,2763,318,0,352,10,363,420
+ New York,135, Kings County,3920,2925,90,0,455,0,200,250
+ New York,140, Kings County,1979,1422,67,0,341,0,78,71
+ New York,141, Kings County,3033,1976,159,0,370,0,292,236
+ New York,177, Kings County,0,0,0,0,0,0,0,0
+ New York,181, Kings County,3875,2116,1078,0,231,0,300,150
+ New York,186, Kings County,2249,1130,0,0,901,0,188,30
+ New York,193, Kings County,6010,2311,2739,0,607,8,125,220
+ New York,354, Kings County,5503,5380,53,0,0,0,0,70
+ New York,874.01, Kings County,3717,210,3335,0,0,0,76,96
+ New York,884, Kings County,4657,88,4450,0,63,0,14,42
+ New York,896, Kings County,3175,96,2876,0,116,0,51,36
+ New York,908, Kings County,6939,917,4695,16,158,0,950,203
+ New York,934, Kings County,2330,60,2202,0,20,0,42,6
+ New York,954, Kings County,4230,53,4025,0,62,0,90,0
+ New York,968, Kings County,1567,115,1214,0,60,0,60,118
+ New York,970, Kings County,2784,191,2425,0,11,0,108,49
+ New York,994, Kings County,1850,179,1507,0,121,0,13,30
+ New York,1004, Kings County,2645,123,2448,0,15,0,17,42
+ New York,201, Kings County,3808,2065,1205,0,186,0,82,270
+ New York,1180, Kings County,0,0,0,0,0,0,0,0
+ New York,1210, Kings County,4110,1138,2530,114,11,0,237,80
+ New York,197, Kings County,3615,1972,1252,0,236,0,49,106
+ New York,215, Kings County,5544,2264,2372,25,328,0,112,443
+ New York,272, Kings County,3738,1792,0,0,1207,0,712,27
+ New York,355, Kings County,5374,1097,4021,0,0,0,99,157
+ New York,365.02, Kings County,1288,103,880,0,10,0,276,19
+ New York,393, Kings County,3790,1704,1099,73,247,0,567,100
+ New York,1174, Kings County,4465,2279,1115,0,304,0,738,29
+ New York,1176.02, Kings County,3000,1277,709,0,43,0,861,110
+ New York,1220, Kings County,5495,299,4917,0,45,0,198,36
+ New York,313, Kings County,4675,832,3500,20,71,0,93,159
+ New York,1014, Kings County,2263,142,1855,0,124,0,126,16
+ New York,1118, Kings County,3336,565,2427,0,0,0,340,4
+ New York,1158, Kings County,2838,268,1952,21,1,0,534,62
+ New York,403, Kings County,3687,901,2282,0,87,0,390,27
+ New York,428, Kings County,3879,2359,72,0,1319,0,88,41
+ New York,470, Kings County,2708,2541,2,0,87,0,40,38
+ New York,198, Kings County,1791,837,7,41,767,0,61,78
+ New York,297, Kings County,4373,498,3549,0,71,0,25,230
+ New York,335, Kings County,3089,2134,809,0,39,0,54,53
+ New York,391, Kings County,2782,1267,769,0,125,0,500,121
+ New York,868, Kings County,3325,124,2771,36,74,0,258,62
+ New York,916, Kings County,3787,279,3155,0,0,0,252,101
+ New York,1012, Kings County,2235,162,1888,0,118,0,67,0
+ New York,72, Kings County,1890,682,56,7,369,0,649,127
+ New York,100, Kings County,6178,1668,41,92,3320,0,1000,57
+ New York,138, Kings County,3083,2197,100,0,424,0,217,145
+ New York,283, Kings County,3988,1273,2036,16,78,0,441,144
+ New York,369, Kings County,5907,675,4233,0,65,0,795,139
+ New York,1006, Kings County,2500,172,2154,0,50,0,36,88
+ New York,1160, Kings County,2235,210,1786,4,0,0,219,16
+ New York,1192, Kings County,2913,708,1411,11,114,0,598,71
+ New York,196, Kings County,3822,1897,35,0,1275,0,559,56
+ New York,234, Kings County,4578,4427,11,14,0,0,126,0
+ New York,265, Kings County,3991,1098,2202,28,80,0,356,227
+ New York,406, Kings County,3816,1263,24,0,1896,0,606,27
+ New York,476, Kings County,3800,3312,143,0,13,0,317,15
+ New York,542, Kings County,4480,3708,83,0,132,0,557,0
+ New York,219, Kings County,3568,967,2118,0,248,0,161,74
+ New York,401, Kings County,3169,854,1455,0,109,0,648,103
+ New York,253, Kings County,3383,1472,1618,0,225,0,36,32
+ New York,1162, Kings County,2299,94,1854,24,62,44,83,138
+ New York,1166, Kings County,2904,663,1661,0,0,60,427,93
+ New York,331, Kings County,4064,2487,1568,0,0,0,0,9
+ New York,357, Kings County,2440,142,2004,8,10,0,215,61
+ New York,1170, Kings County,1860,575,671,0,84,0,483,47
+ New York,1172.01, Kings County,2662,680,464,0,94,37,1260,127
+ New York,900, Kings County,4269,342,3324,0,8,0,422,173
+ New York,996, Kings County,3715,251,3311,0,103,0,50,0
+ New York,5.01, Kings County,4419,3376,208,0,476,10,100,249
+ New York,5.02, Kings County,2570,2164,127,0,202,0,14,63
+ New York,15, Kings County,8088,2988,2065,13,1615,21,908,478
+ New York,44, Kings County,2511,2107,19,0,289,0,13,83
+ New York,53, Kings County,2245,1515,293,7,55,0,242,133
+ New York,166, Kings County,1863,1650,0,3,184,0,13,13
+ New York,119, Kings County,1377,1023,61,0,71,0,129,93
+ New York,126, Kings County,2856,928,137,115,969,0,543,164
+ New York,152, Kings County,2382,1548,116,0,615,0,45,58
+ New York,211, Kings County,1893,594,731,0,109,0,397,62
+ New York,271, Kings County,2775,309,2185,0,186,0,47,48
+ New York,305, Kings County,6350,2871,2572,0,372,0,417,118
+ New York,348, Kings County,2819,1093,117,0,526,0,1061,22
+ New York,356.01, Kings County,3035,2761,204,0,0,4,0,66
+ New York,356.02, Kings County,5219,5032,2,0,139,0,0,46
+ New York,374.01, Kings County,4238,3101,240,0,452,0,238,207
+ New York,374.02, Kings County,5098,2934,224,0,908,0,647,385
+ New York,159, Kings County,5314,4300,193,0,377,0,312,132
+ New York,167, Kings County,5531,4857,99,0,356,0,35,184
+ New York,31, Kings County,3033,1393,860,0,565,0,15,200
+ New York,43, Kings County,3496,2398,374,0,332,27,80,285
+ New York,51, Kings County,2791,2047,127,0,163,0,223,231
+ New York,69, Kings County,3575,2979,164,0,168,0,135,129
+ New York,448, Kings County,1965,1515,0,0,130,0,130,190
+ New York,450, Kings County,537,519,0,0,14,0,4,0
+ New York,458, Kings County,1508,1452,36,20,0,0,0,0
+ New York,440, Kings County,2862,2508,71,0,98,0,134,51
+ New York,421, Kings County,4226,1657,640,58,210,0,1581,80
+ New York,425, Kings County,3104,1534,417,0,119,0,796,238
+ New York,432, Kings County,4323,1752,33,0,1935,0,397,206
+ New York,447, Kings County,2378,1102,454,0,90,4,648,80
+ New York,456, Kings County,2376,1631,21,0,441,0,10,273
+ New York,922, Kings County,2515,54,2426,0,0,0,0,35
+ New York,944.02, Kings County,3122,248,2685,0,70,0,111,8
+ New York,964, Kings County,1769,89,1538,0,127,0,15,0
+ New York,1016, Kings County,1802,58,1660,8,69,0,7,0
+ New York,1018, Kings County,2345,96,1857,0,199,0,74,119
+ New York,1020, Kings County,2325,286,1978,0,0,0,20,41
+ New York,1078, Kings County,4154,200,3488,0,0,0,408,58
+ New York,1106, Kings County,3993,260,2897,0,9,0,649,178
+ New York,382, Kings County,6188,659,2625,0,1032,0,1552,320
+ New York,389, Kings County,2994,1319,281,92,377,0,891,34
+ New York,434, Kings County,3389,1998,107,0,1207,0,33,44
+ New York,435, Kings County,4912,1287,1136,0,100,0,2203,186
+ New York,311, Kings County,2998,225,2430,0,15,0,175,153
+ New York,314, Kings County,5138,3854,22,20,1126,0,116,0
+ New York,341, Kings County,2937,415,2281,0,35,0,149,57
+ New York,1182.01, Kings County,2859,1437,704,48,102,0,510,58
+ New York,353, Kings County,5091,1141,3310,0,158,0,337,145
+ New York,646, Kings County,2297,2001,48,26,170,0,21,31
+ New York,654, Kings County,1486,1180,35,0,208,0,13,50
+ New York,956, Kings County,4539,446,3912,33,116,0,32,0
+ New York,960, Kings County,0,0,0,0,0,0,0,0
+ New York,986, Kings County,2961,88,2712,0,53,0,65,43
+ New York,1026, Kings County,2868,89,2649,12,41,0,56,21
+ New York,1034, Kings County,4145,252,3109,40,0,0,697,47
+ New York,1070, Kings County,1968,140,1538,0,93,0,157,40
+ New York,1142.01, Kings County,1700,526,397,0,32,0,622,123
+ New York,41, Kings County,3642,2659,398,0,305,0,165,115
+ New York,52.01, Kings County,1666,1316,11,12,286,0,41,0
+ New York,56.01, Kings County,2462,2075,163,0,100,0,67,57
+ New York,56.02, Kings County,1606,1209,31,0,228,0,100,38
+ New York,58, Kings County,3092,2166,53,0,503,0,270,100
+ New York,59, Kings County,1253,822,123,0,30,0,187,91
+ New York,64, Kings County,3062,2407,57,0,309,0,212,77
+ New York,94, Kings County,5253,979,96,0,3228,0,827,123
+ New York,104, Kings County,5362,489,61,0,4531,0,244,37
+ New York,130, Kings County,5028,2641,216,50,1097,0,610,414
+ New York,132, Kings County,2200,700,72,0,1161,0,261,6
+ New York,206, Kings County,2417,1657,11,0,655,0,94,0
+ New York,210, Kings County,4153,1360,47,0,2070,0,634,42
+ New York,222, Kings County,3943,3741,0,0,137,0,0,65
+ New York,227, Kings County,3654,1271,1934,0,147,10,65,227
+ New York,230, Kings County,4171,3543,117,0,340,0,116,55
+ New York,248, Kings County,2749,1170,37,18,1198,0,276,50
+ New York,252, Kings County,4921,2081,119,44,1770,0,731,176
+ New York,257, Kings County,2136,797,724,68,52,0,440,55
+ New York,262, Kings County,2550,958,42,0,1202,0,270,78
+ New York,267, Kings County,4095,1188,2419,0,95,0,186,207
+ New York,511, Kings County,4262,2285,557,0,824,0,373,223
+ New York,515, Kings County,2289,1627,164,0,196,0,232,70
+ New York,527, Kings County,6465,3080,532,48,366,0,2051,388
+ New York,529, Kings County,3721,3514,66,0,0,0,129,12
+ New York,547, Kings County,5444,4474,258,0,188,0,404,120
+ New York,556, Kings County,3678,3038,30,0,442,0,73,95
+ New York,564, Kings County,2519,1980,42,0,389,76,27,5
+ New York,570, Kings County,3494,2210,100,0,1011,0,155,18
+ New York,579, Kings County,1117,739,122,8,38,0,171,39
+ New York,584, Kings County,3415,2333,218,0,676,0,133,55
+ New York,586, Kings County,2901,703,22,0,1830,0,327,19
+ New York,2, Kings County,1243,561,48,0,62,0,510,62
+ New York,7, Kings County,4010,3241,59,0,365,0,68,277
+ New York,642, Kings County,2276,1829,89,0,184,0,72,102
+ New York,680, Kings County,2293,279,1690,0,113,0,99,112
+ New York,724, Kings County,1841,94,1703,0,1,0,0,43
+ New York,728, Kings County,3811,260,3382,0,99,0,55,15
+ New York,750, Kings County,2711,2161,311,0,88,0,79,72
+ New York,760, Kings County,3108,2768,127,0,110,0,50,53
+ New York,816, Kings County,2573,151,2004,0,149,0,207,62
+ New York,828, Kings County,4013,252,3438,22,8,0,230,63
+ New York,832, Kings County,2089,0,2019,0,50,0,8,12
+ New York,850, Kings County,1525,15,1502,8,0,0,0,0
+ New York,371, Kings County,4570,324,3713,0,90,0,348,95
+ New York,379, Kings County,3878,475,3133,0,42,0,181,47
+ New York,412, Kings County,3168,1875,0,25,1059,0,165,44
+ New York,413, Kings County,3965,1012,2010,0,127,0,686,130
+ New York,414.02, Kings County,1763,1613,0,0,0,0,150,0
+ New York,417, Kings County,3101,925,1200,17,111,0,714,134
+ New York,422, Kings County,3586,2483,90,83,160,0,235,535
+ New York,427, Kings County,5064,2666,396,14,294,0,1511,183
+ New York,436, Kings County,4678,2979,54,42,1108,0,343,152
+ New York,443, Kings County,5014,2052,357,0,910,0,1608,87
+ New York,446, Kings County,2171,1039,28,0,830,0,265,9
+ New York,608, Kings County,3424,2595,147,0,616,0,23,43
+ New York,54, Kings County,3177,2484,62,24,421,0,83,103
+ New York,62, Kings County,2700,1943,90,0,472,0,42,153
+ New York,243, Kings County,4165,1534,2081,0,150,0,212,188
+ New York,65, Kings County,5842,5145,90,0,251,0,76,280
+ New York,11, Kings County,1359,1004,72,0,185,0,27,71
+ New York,35, Kings County,1892,871,643,0,128,0,155,95
+ New York,259.02, Kings County,3558,667,1899,11,116,0,831,34
+ New York,270, Kings County,2158,1235,31,10,799,0,67,16
+ New York,273, Kings County,3317,344,2801,17,57,0,7,91
+ New York,632, Kings County,1604,1352,21,0,185,0,46,0
+ New York,644, Kings County,3021,2187,81,21,635,0,54,43
+ New York,658, Kings County,1963,1380,30,0,498,0,37,18
+ New York,660, Kings County,2231,1702,12,0,394,0,0,123
+ New York,670, Kings County,2888,770,1666,0,239,0,152,61
+ New York,690, Kings County,2146,398,1437,0,97,0,129,85
+ New York,692, Kings County,2918,259,2196,0,114,11,199,139
+ New York,1120, Kings County,3068,926,1992,0,0,0,92,58
+ New York,274, Kings County,3271,1842,36,0,1113,0,105,175
+ New York,275, Kings County,4439,840,3008,0,229,0,155,207
+ New York,287, Kings County,3003,848,1628,27,334,0,154,12
+ New York,1024, Kings County,2307,88,2068,0,129,0,11,11
+ New York,988, Kings County,3247,224,2761,0,104,0,119,39
+ New York,992, Kings County,2370,93,2195,0,30,0,28,24
+ New York,1010, Kings County,2247,83,1806,0,152,0,158,48
+ New York,1124, Kings County,3316,74,2870,0,0,0,349,23
+ New York,1128, Kings County,4012,507,3365,0,0,0,118,22
+ New York,235, Kings County,4316,2784,695,0,244,0,509,84
+ New York,240, Kings County,4562,4326,57,0,4,0,128,47
+ New York,241, Kings County,2707,1757,405,127,88,0,190,140
+ New York,250, Kings County,1755,345,0,25,1058,0,313,14
+ New York,254, Kings County,4083,1643,0,10,2259,0,39,132
+ New York,258, Kings County,4486,1876,2,0,1753,0,855,0
+ New York,259.01, Kings County,2228,837,965,0,13,0,334,79
+ New York,260, Kings County,3174,1246,19,0,1636,0,235,38
+ New York,538, Kings County,4640,3916,66,30,400,0,173,55
+ New York,525, Kings County,3451,2536,332,0,115,0,395,73
+ New York,526, Kings County,4658,2118,1034,154,613,0,634,105
+ New York,535, Kings County,4110,3821,188,20,0,0,81,0
+ New York,549, Kings County,3999,3047,57,0,289,0,260,346
+ New York,552, Kings County,3296,2543,19,0,393,0,2,339
+ New York,591, Kings County,3979,3417,280,0,110,0,23,149
+ New York,18, Kings County,1959,750,853,34,35,0,218,69
+ New York,23, Kings County,4352,317,2186,96,722,0,673,358
+ New York,29.01, Kings County,4533,365,2429,95,884,0,684,76
+ New York,34, Kings County,3056,1785,217,0,849,0,150,55
+ New York,38, Kings County,1436,1055,0,0,254,0,0,127
+ New York,45, Kings County,3546,2889,127,0,362,0,8,160
+ New York,52.02, Kings County,2299,2075,99,0,55,15,20,35
+ New York,63, Kings County,1922,1688,26,0,67,0,23,118
+ New York,68, Kings County,4932,2875,47,20,899,0,987,104
+ New York,71, Kings County,4890,1475,1835,0,201,0,1297,82
+ New York,77, Kings County,5172,3658,131,30,522,0,358,473
+ New York,492, Kings County,3038,1773,311,25,684,0,208,37
+ New York,502.02, Kings County,2360,2060,25,12,88,0,63,112
+ New York,503, Kings County,2591,1954,53,110,181,0,183,110
+ New York,519, Kings County,5217,4171,250,0,486,0,66,244
+ New York,530, Kings County,4098,2669,77,0,1092,0,218,42
+ New York,572, Kings County,5427,1398,2784,0,444,0,582,219
+ New York,555, Kings County,6877,4674,417,0,986,0,464,336
+ New York,557, Kings County,1933,1587,53,22,135,0,88,48
+ New York,569, Kings County,1580,1404,25,0,62,6,15,68
+ New York,573, Kings County,2410,1852,207,29,131,0,49,142
+ New York,575, Kings County,3702,3002,21,0,182,0,287,210
+ New York,1130, Kings County,3970,181,3479,27,0,0,170,113
+ New York,1132, Kings County,1972,79,1813,8,16,0,56,0
+ New York,1172.02, Kings County,3344,1328,1282,0,71,2,522,139
+ New York,1184, Kings County,5011,2119,1203,0,517,0,1164,8
+ New York,1186, Kings County,2727,1017,999,6,312,0,372,21
+ New York,1188, Kings County,4408,1396,1729,0,991,0,271,21
+ New York,1194, Kings County,4466,1093,2973,0,72,0,317,11
+ New York,1208, Kings County,9595,967,7968,61,232,0,165,202
+ New York,1214, Kings County,4716,691,3040,36,0,0,849,100
+ New York,172, Kings County,3282,1449,2,0,1365,9,290,167
+ New York,175, Kings County,0,0,0,0,0,0,0,0
+ New York,182, Kings County,3668,1431,65,0,1812,0,257,103
+ New York,188, Kings County,2702,1659,7,0,940,0,76,20
+ New York,216, Kings County,4769,4156,0,0,541,0,72,0
+ New York,226, Kings County,2040,1074,38,0,261,0,650,17
+ New York,232, Kings County,5406,4817,31,0,383,0,175,0
+ New York,238, Kings County,3857,3820,0,0,0,0,0,37
+ New York,548, Kings County,2046,1909,10,0,22,0,25,80
+ New York,375, Kings County,3221,843,1589,93,301,0,285,110
+ New York,846, Kings County,1973,121,1755,0,0,0,75,22
+ New York,902, Kings County,3140,456,2157,6,201,5,272,43
+ New York,906, Kings County,3288,346,2259,31,0,0,600,52
+ New York,160, Kings County,3965,2453,161,0,731,32,492,96
+ New York,180, Kings County,3352,1752,50,0,1186,0,354,10
+ New York,203, Kings County,1825,813,583,7,233,0,129,60
+ New York,205, Kings County,2918,1489,729,14,377,0,46,263
+ New York,214, Kings County,2252,1179,0,0,979,0,94,0
+ New York,217, Kings County,3962,979,1895,0,311,0,620,157
+ New York,242, Kings County,2872,2615,0,0,251,0,6,0
+ New York,244, Kings County,3829,3120,7,0,320,13,344,25
+ New York,261, Kings County,4781,1176,2465,68,115,10,636,311
+ New York,277, Kings County,4735,581,3591,37,45,0,187,294
+ New York,282, Kings County,3564,1554,2,10,1805,0,91,102
+ New York,288, Kings County,3566,1477,18,0,1389,0,664,18
+ New York,290, Kings County,4118,2721,0,0,1034,0,164,199
+ New York,302, Kings County,4608,1633,56,0,2707,0,118,94
+ New York,308, Kings County,1988,1525,22,0,401,0,40,0
+ New York,200, Kings County,2427,1214,11,0,884,0,311,7
+ New York,176, Kings County,2563,1373,22,0,784,0,332,52
+ New York,218, Kings County,3449,2988,39,0,114,0,295,13
+ New York,185.01, Kings County,4600,837,2959,32,243,0,446,83
+ New York,202, Kings County,1910,1282,0,33,581,0,0,14
+ New York,208, Kings County,3253,966,123,60,1780,0,0,324
+ New York,229, Kings County,3841,1526,1801,12,333,9,101,59
+ New York,233, Kings County,5252,1772,2549,0,256,0,310,365
+ New York,245, Kings County,4534,1266,2669,0,446,0,31,122
+ New York,582, Kings County,2759,1548,59,153,440,0,431,128
+ New York,598, Kings County,3541,2473,194,108,414,0,207,145
+ New York,251, Kings County,3534,765,2077,0,86,0,350,256
+ New York,255, Kings County,5865,1140,2761,71,114,0,1333,446
+ New York,264, Kings County,4776,1584,68,44,2201,0,847,32
+ New York,269, Kings County,3121,544,2291,0,215,0,29,42
+ New York,281, Kings County,4649,934,2453,8,129,0,858,267
+ New York,284, Kings County,3553,2068,60,14,1139,0,201,71
+ New York,293, Kings County,3315,558,2138,75,203,0,292,49
+ New York,303, Kings County,4795,162,3652,0,72,0,755,154
+ New York,315, Kings County,4787,1816,2409,0,163,0,129,270
+ New York,70, Kings County,2629,1568,149,71,450,0,336,55
+ New York,106, Kings County,4426,450,137,0,3396,0,314,129
+ New York,108, Kings County,3795,405,60,0,2852,0,461,17
+ New York,121, Kings County,2020,1371,90,0,185,0,296,78
+ New York,129.02, Kings County,2390,1681,254,6,136,0,217,96
+ New York,137, Kings County,3512,2400,377,0,290,0,210,235
+ New York,143, Kings County,3469,2189,211,10,213,0,492,354
+ New York,151, Kings County,4216,3291,127,0,246,0,75,477
+ New York,154, Kings County,0,0,0,0,0,0,0,0
+ New York,157, Kings County,4049,3085,301,0,425,0,26,212
+ New York,165, Kings County,6003,4890,166,14,554,0,114,265
+ New York,178, Kings County,3215,1297,86,0,1262,11,553,6
+ New York,179, Kings County,4318,1052,2309,0,261,0,208,488
+ New York,191, Kings County,2788,1715,522,0,253,0,161,137
+ New York,362, Kings County,3290,1765,65,32,443,0,864,121
+ New York,366, Kings County,4695,2334,104,0,1470,0,571,216
+ New York,359, Kings County,5410,168,4849,16,64,0,234,79
+ New York,360.01, Kings County,3152,3002,31,0,0,0,22,97
+ New York,361, Kings County,2830,219,2183,0,21,0,371,36
+ New York,363, Kings County,4716,224,3894,52,17,0,464,65
+ New York,505, Kings County,3817,1698,741,43,506,0,633,196
+ New York,468, Kings County,2220,2139,8,0,50,0,0,23
+ New York,484, Kings County,5711,4142,390,0,699,0,111,369
+ New York,495, Kings County,2654,1944,148,0,273,0,204,85
+ New York,537, Kings County,3710,3621,44,0,30,0,10,5
+ New York,543, Kings County,408,220,51,0,33,0,79,25
+ New York,558, Kings County,2398,1959,36,0,298,0,33,72
+ New York,628, Kings County,4588,4023,0,9,494,0,28,34
+ New York,565, Kings County,3081,2660,14,0,164,0,185,58
+ New York,568, Kings County,1548,955,0,0,373,0,110,110
+ New York,610.02, Kings County,4091,4034,0,0,0,0,40,17
+ New York,592, Kings County,4229,2510,328,0,951,0,259,181
+ New York,636, Kings County,1464,1244,0,0,179,0,10,31
+ New York,648, Kings County,2191,1456,562,0,72,0,75,26
+ New York,652, Kings County,1121,1041,30,0,25,0,0,25
+ New York,662, Kings County,1663,1374,21,0,145,0,104,19
+ New York,676, Kings County,1797,133,1517,0,90,0,57,0
+ New York,698, Kings County,1392,965,78,0,193,0,91,65
+ New York,720, Kings County,2141,137,1820,0,121,0,32,31
+ New York,736, Kings County,3478,349,2256,0,284,0,517,72
+ New York,742, Kings County,3359,1453,1580,0,71,0,188,67
+ New York,746, Kings County,2637,1866,542,0,70,0,99,60
+ New York,766, Kings County,2294,421,1554,0,67,0,206,46
+ New York,770, Kings County,3065,502,2056,0,250,0,141,116
+ New York,780, Kings County,2210,69,2088,0,5,0,28,20
+ New York,784, Kings County,2558,114,2210,0,55,0,153,26
+ New York,1142.02, Kings County,3013,1053,1191,0,0,1,635,133
+ New York,1176.01, Kings County,3231,1140,1177,0,94,0,762,58
+ New York,453, Kings County,2482,1131,668,0,98,0,545,40
+ New York,499, Kings County,1827,1564,14,0,134,0,62,53
+ New York,488, Kings County,3918,2120,231,0,940,0,293,334
+ New York,491, Kings County,6594,2214,1340,89,2233,22,589,107
+ New York,496, Kings County,4303,1877,126,138,1220,0,875,67
+ New York,504, Kings County,4534,2666,584,0,550,0,527,207
+ New York,533, Kings County,6766,6657,26,0,72,0,0,11
+ New York,553, Kings County,2953,2335,29,0,322,0,167,100
+ New York,563, Kings County,5071,3856,158,0,370,0,369,318
+ New York,594.01, Kings County,7457,4132,36,0,2985,0,207,97
+ New York,600, Kings County,6700,5748,51,0,668,0,90,143
+ New York,606, Kings County,2777,1990,23,12,470,0,183,99
+ New York,674, Kings County,1972,398,1351,0,87,0,100,36
+ New York,686, Kings County,1776,941,577,0,147,0,99,12
+ New York,321, Kings County,5582,1470,3510,0,140,0,402,60
+ New York,328, Kings County,2593,400,1150,31,845,0,148,19
+ New York,351, Kings County,4295,963,2565,12,39,0,474,242
+ New York,732, Kings County,2355,70,2003,0,211,0,71,0
+ New York,740, Kings County,3636,383,2324,0,587,0,297,45
+ New York,748, Kings County,1929,1372,403,0,123,0,31,0
+ New York,754, Kings County,1466,1460,3,0,0,0,3,0
+ New York,762, Kings County,4651,2726,655,0,891,0,379,0
+ New York,818, Kings County,4631,460,3925,0,170,0,63,13
+ New York,822, Kings County,7485,641,6148,0,86,0,372,238
+ New York,830, Kings County,6184,252,5509,0,166,0,183,74
+ New York,834, Kings County,1554,0,1406,0,93,0,0,55
+ New York,528, Kings County,1814,1162,70,0,412,0,88,82
+ New York,550, Kings County,3330,2630,111,0,352,0,192,45
+ New York,589, Kings County,1690,1432,75,0,106,0,34,43
+ New York,626, Kings County,2739,1366,239,0,792,0,167,175
+ New York,263, Kings County,1844,481,1147,32,41,3,117,23
+ New York,279, Kings County,3668,565,2854,0,23,0,38,188
+ New York,286, Kings County,4956,2619,134,102,1351,0,203,547
+ New York,612, Kings County,1029,1014,0,0,0,0,15,0
+ New York,445, Kings County,4796,1674,420,81,480,0,1948,193
+ New York,472, Kings County,2579,2532,31,0,16,0,0,0
+ New York,544, Kings County,3764,2779,0,0,854,0,49,82
+ New York,682, Kings County,3112,867,1945,0,181,0,67,52
+ New York,806, Kings County,3743,1428,2016,0,152,0,126,21
+ New York,854, Kings County,1998,91,1684,0,3,0,132,88
+ New York,910, Kings County,4250,300,3249,0,0,0,541,160
+ New York,170, Kings County,3578,1767,59,0,1556,0,196,0
+ New York,571, Kings County,3873,3537,60,0,107,0,34,135
+ New York,700, Kings County,1616,1492,85,7,32,0,0,0
+ New York,758, Kings County,1633,1582,9,0,18,0,7,17
+ New York,864, Kings County,2284,11,2251,0,0,0,15,7
+ New York,866, Kings County,3079,25,2699,37,129,0,75,114
+ New York,876, Kings County,1593,242,1252,0,62,0,33,4
+ New York,13, Kings County,2217,1461,212,0,242,0,214,88
+ New York,20, Kings County,1396,741,71,48,109,0,390,37
+ New York,36, Kings County,3775,2804,65,23,607,0,167,109
+ New York,39, Kings County,2364,1569,194,12,456,0,77,56
+ New York,75, Kings County,4925,3975,61,56,292,0,236,305
+ New York,76, Kings County,5146,2194,122,0,867,0,1505,458
+ New York,84, Kings County,3879,1817,117,0,219,0,1578,148
+ New York,998, Kings County,3537,264,3097,0,0,0,63,113
+ New York,1022, Kings County,2217,135,1694,0,235,0,88,65
+ New York,840, Kings County,2469,91,2276,0,38,0,20,44
+ New York,147, Kings County,2473,1764,110,0,122,0,365,112
+ New York,213, Kings County,4279,920,3089,0,59,0,95,116
+ New York,246, Kings County,2942,1746,2,7,1010,0,156,21
+ New York,301, Kings County,2924,181,2589,0,54,0,21,79
+ New York,330, Kings County,5267,1541,2750,0,251,0,508,217
+ New York,212, Kings County,4525,1085,0,0,2975,0,434,31
+ New York,381, Kings County,5342,558,4244,0,73,0,348,119
+ New York,404, Kings County,2391,1097,15,0,1133,5,118,23
+ New York,276, Kings County,3804,1559,9,0,1261,0,884,91
+ New York,386, Kings County,3498,1629,2,0,1262,0,365,240
+ New York,430, Kings County,3492,1645,0,0,1609,0,195,43
+ New York,486, Kings County,3292,1297,106,0,1314,0,544,31
+ New York,1028, Kings County,1691,67,1557,0,24,0,43,0
+ New York,1110, Kings County,3330,424,2418,10,0,0,270,208
+ New York,1122, Kings County,3428,374,2625,51,101,0,277,0
+ New York,1126, Kings County,3395,303,2677,0,82,0,323,10
+ New York,1146, Kings County,3066,757,876,12,226,0,1017,178
+ New York,1152, Kings County,3080,278,1911,0,88,0,644,159
+ New York,266, Kings County,3501,911,0,0,2177,0,405,8
+ New York,268, Kings County,3842,1947,2,0,1373,0,492,28
+ New York,280, Kings County,1805,859,33,0,741,0,158,14
+ New York,294, Kings County,2588,1418,182,0,761,0,135,92
+ New York,333, Kings County,4609,3369,1201,5,0,0,9,25
+ New York,360.02, Kings County,4341,3551,32,0,152,0,328,278
+ New York,383, Kings County,4592,482,3514,0,252,0,207,137
+ New York,385, Kings County,3788,606,2448,27,186,0,358,163
+ New York,820, Kings County,5193,228,4223,0,105,0,601,36
+ New York,390, Kings County,2261,2113,6,0,77,0,5,60
+ New York,411, Kings County,3041,943,1074,0,72,0,867,85
+ New York,420, Kings County,1640,1540,62,0,38,0,0,0
+ New York,702.03, Kings County,0,0,0,0,0,0,0,0
+ New York,706, Kings County,3104,2731,249,0,104,0,0,20
+ New York,800, Kings County,3907,864,2759,0,79,0,54,151
+ New York,848, Kings County,1733,2,1657,0,55,0,11,8
+ New York,860, Kings County,3485,12,3151,15,11,0,233,63
+ New York,872, Kings County,3045,185,2717,0,65,0,67,11
+ New York,892, Kings County,3042,143,2686,0,0,0,126,87
+ New York,928, Kings County,3140,65,2837,20,0,0,208,10
+ New York,936, Kings County,1728,0,1708,0,16,0,0,4
+ New York,958, Kings County,3670,183,3243,10,180,15,29,10
+ New York,974, Kings County,2873,437,2256,18,70,0,73,19
+ New York,990, Kings County,1740,176,1334,0,92,0,138,0
+ New York,1098, Kings County,2331,206,1731,0,40,0,345,9
+ New York,1150, Kings County,2812,435,1387,188,27,0,683,92
+ New York,1200, Kings County,2775,309,1774,6,508,0,80,98
+ New York,161, Kings County,3235,2191,412,3,222,0,265,142
+ New York,164, Kings County,1069,432,454,0,50,22,11,100
+ New York,168, Kings County,1734,1109,0,0,570,0,7,48
+ New York,394, Kings County,2408,2097,51,0,75,0,85,100
+ New York,317.01, Kings County,3401,1053,2007,10,156,0,33,142
+ New York,285.02, Kings County,3131,156,1882,12,128,0,772,181
+ New York,298, Kings County,3707,1692,103,0,1360,0,537,15
+ New York,300, Kings County,4196,1242,105,14,2176,0,612,47
+ New York,323, Kings County,3641,837,2527,0,43,0,58,176
+ New York,325, Kings County,6685,511,5697,0,178,0,158,141
+ New York,329, Kings County,6224,2652,3114,0,97,27,187,147
+ New York,339, Kings County,4711,908,3368,0,294,0,28,113
+ New York,345, Kings County,3085,365,2312,0,15,0,218,175
+ New York,678, Kings County,2681,322,2320,0,0,0,39,0
+ New York,702.02, Kings County,24,24,0,0,0,0,0,0
+ New York,726, Kings County,2251,67,1894,0,45,0,238,7
+ New York,738, Kings County,4203,1440,2105,0,259,0,392,7
+ New York,776, Kings County,3723,194,3082,0,305,0,28,114
+ New York,802, Kings County,4859,661,3696,29,115,0,136,222
+ New York,810, Kings County,2399,464,1682,0,18,0,64,171
+ New York,814, Kings County,2792,48,2535,0,133,0,67,9
+ New York,852, Kings County,0,0,0,0,0,0,0,0
+ New York,1, Kings County,4473,2920,678,32,399,0,264,180
+ New York,3.01, Kings County,4209,3537,120,0,240,0,75,237
+ New York,49, Kings County,2718,1793,392,0,256,0,66,211
+ New York,50, Kings County,2320,1891,28,0,279,0,5,117
+ New York,60, Kings County,3054,2214,0,22,470,0,278,70
+ New York,67, Kings County,3894,3394,76,20,138,0,114,152
+ New York,114, Kings County,4177,2236,300,0,1274,0,230,137
+ New York,118, Kings County,1967,108,0,9,1631,0,194,25
+ New York,127, Kings County,4800,1688,2034,25,327,0,626,100
+ New York,133, Kings County,4408,3333,197,11,425,0,51,391
+ New York,155, Kings County,4028,3162,415,30,177,0,32,212
+ New York,171, Kings County,4206,3664,29,0,267,0,159,87
+ New York,174, Kings County,2184,1230,0,5,743,0,143,63
+ New York,183, Kings County,2721,1926,373,0,168,0,64,190
+ New York,220, Kings County,4381,4034,125,0,222,0,0,0
+ New York,347, Kings County,3740,85,3371,0,71,0,202,11
+ New York,90, Kings County,2872,660,98,33,1018,0,991,72
+ New York,82, Kings County,3942,1335,200,83,502,0,1638,184
+ New York,85, Kings County,7555,1100,4130,124,415,268,1175,343
+ New York,86, Kings County,0,0,0,0,0,0,0,0
+ New York,116, Kings County,3414,597,15,15,2651,0,134,2
+ New York,117, Kings County,2608,1662,199,39,233,0,283,192
+ New York,122, Kings County,5756,1245,15,7,2609,0,1751,129
+ New York,129.01, Kings County,2641,1841,208,0,78,0,400,114
+ New York,139, Kings County,3420,2414,433,0,227,0,171,175
+ New York,145, Kings County,3848,2697,36,43,194,0,562,316
+ New York,148, Kings County,1320,1161,0,0,139,0,13,7
+ New York,162, Kings County,2204,1859,64,0,70,0,149,62
+ New York,292, Kings County,2787,1420,94,0,968,0,252,53
+ New York,296, Kings County,5898,2904,33,17,2203,0,363,378
+ New York,304, Kings County,4106,1899,67,0,1779,0,89,272
+ New York,306, Kings County,1702,772,7,0,767,0,131,25
+ New York,319, Kings County,3128,1294,1668,0,38,0,56,72
+ New York,349, Kings County,6113,604,4819,0,127,0,407,156
+ New York,326, Kings County,7507,2080,2569,37,529,0,1734,558
+ New York,337, Kings County,3920,1638,1792,63,133,0,116,178
+ New York,342, Kings County,6270,2341,2478,0,151,0,1220,80
+ New York,419, Kings County,3614,1430,877,42,75,0,1029,161
+ New York,429, Kings County,5326,2349,298,0,292,0,2093,294
+ New York,433, Kings County,4014,1235,871,31,172,19,1502,184
+ New York,493, Kings County,7471,3418,1803,0,334,0,1579,337
+ New York,494, Kings County,5607,3180,429,0,1216,0,390,392
+ New York,498, Kings County,4268,1983,99,0,1431,0,467,288
+ New York,507, Kings County,2867,2265,206,0,59,0,271,66
+ New York,509, Kings County,5024,4499,277,0,0,11,202,35
+ New York,512, Kings County,6103,1279,3565,0,61,0,899,299
+ New York,513, Kings County,5406,3861,281,0,348,0,583,333
+ New York,523, Kings County,5204,2990,339,182,363,8,1211,111
+ New York,531, Kings County,9155,8740,53,0,116,0,235,11
+ New York,534, Kings County,4577,2945,350,85,959,0,91,147
+ New York,539, Kings County,2513,2202,67,0,22,0,212,10
+ New York,545, Kings County,8529,6321,1180,0,58,0,577,393
+ New York,566, Kings County,2876,1348,350,0,919,0,43,216
+ New York,576, Kings County,3045,1440,77,0,1424,0,64,40
+ New York,580, Kings County,4129,1938,231,0,1613,0,283,64
+ New York,594.02, Kings County,5309,3791,75,0,1292,0,50,101
+ New York,596, Kings County,2309,1870,204,0,97,0,22,116
+ New York,622, Kings County,2842,2389,298,0,60,0,51,44
+ New York,638, Kings County,1966,1403,109,8,431,0,14,1
+ New York,350, Kings County,3017,2925,21,0,0,0,21,50
+ New York,666, Kings County,0,0,0,0,0,0,0,0
+ New York,377, Kings County,4482,464,3399,0,43,0,395,181
+ New York,396, Kings County,2038,1684,0,105,57,134,53,5
+ New York,408, Kings County,3548,1159,20,0,1736,0,585,48
+ New York,192, Kings County,3076,1304,28,24,1425,0,248,47
+ New York,194, Kings County,3889,1276,5,0,1969,0,631,8
+ New York,204, Kings County,2111,1476,0,0,580,22,0,33
+ New York,207, Kings County,4521,2705,1104,0,277,0,148,287
+ New York,228, Kings County,3687,2598,54,0,814,0,191,30
+ New York,1134, Kings County,3219,289,2398,0,41,0,478,13
+ New York,1156, Kings County,3835,331,2894,29,16,0,477,88
+ New York,1178, Kings County,1928,576,565,0,389,0,378,20
+ New York,878, Kings County,2524,27,2406,6,0,0,36,49
+ New York,882, Kings County,6365,458,5641,0,0,0,199,67
+ New York,890, Kings County,5587,496,4855,0,0,0,137,99
+ New York,894, Kings County,3082,167,2422,0,124,0,199,170
+ New York,930, Kings County,3030,19,2901,0,14,0,25,71
+ New York,962, Kings County,1864,102,1585,17,19,0,111,30
+ New York,984, Kings County,2086,168,1904,0,14,0,0,0
+ New York,414.01, Kings County,1612,1186,10,0,136,0,280,0
+ New York,415, Kings County,4192,1177,1715,36,131,0,878,255
+ New York,418, Kings County,2622,2129,77,0,113,0,238,65
+ New York,431, Kings County,4936,2648,306,142,416,0,1361,63
+ New York,438, Kings County,2716,2118,62,0,271,0,218,47
+ New York,474, Kings County,2513,2491,0,0,0,0,0,22
+ New York,477, Kings County,3761,2977,153,0,315,0,164,152
+ New York,482, Kings County,5314,2517,339,14,2150,0,204,90
+ New York,489, Kings County,3506,623,1618,94,35,0,990,146
+ New York,490, Kings County,5373,3166,467,60,1163,0,197,320
+ New York,497, Kings County,2882,2047,27,18,459,0,160,171
+ New York,501, Kings County,3174,2344,105,76,212,0,385,52
+ New York,514, Kings County,7942,1768,3315,95,863,0,1419,482
+ New York,788, Kings County,3198,85,2780,23,62,0,113,135
+ New York,352, Kings County,1114,745,207,0,49,0,105,8
+ New York,365.01, Kings County,3254,30,2961,0,33,0,230,0
+ New York,392, Kings County,3026,2582,35,0,282,0,127,0
+ New York,367, Kings County,1333,147,829,0,63,0,275,19
+ New York,370, Kings County,4322,2790,0,32,1432,0,53,15
+ New York,387, Kings County,3991,902,2755,18,38,0,81,197
+ New York,96, Kings County,6218,2553,230,0,1591,0,1672,172
+ New York,102, Kings County,5142,854,23,0,3672,0,562,31
+ New York,110, Kings County,2445,1203,34,0,778,0,349,81
+ New York,134, Kings County,3976,2842,88,23,681,0,126,216
+ New York,136, Kings County,3888,2941,37,0,619,0,165,126
+ New York,149, Kings County,5888,4879,96,0,380,0,225,308
+ New York,150, Kings County,1567,1197,3,0,297,0,55,15
+ New York,153, Kings County,2678,2168,131,0,195,0,80,104
+ New York,163, Kings County,3194,2294,411,0,232,0,101,156
+ New York,184, Kings County,2769,1230,0,0,1422,0,26,91
+ New York,187, Kings County,1623,723,331,0,129,0,192,248
+ New York,190, Kings County,4635,1983,65,46,2037,0,504,0
+ New York,195, Kings County,3787,2096,1308,18,173,0,83,109
+ New York,199, Kings County,3504,1976,996,0,154,0,195,183
+ New York,9, Kings County,4487,3332,323,0,554,0,25,253
+ New York,22, Kings County,4812,2270,249,0,646,0,1444,203
+ New York,37, Kings County,1681,1160,147,6,270,0,6,92
+ New York,46, Kings County,1306,1134,0,0,139,0,33,0
+ New York,47, Kings County,1903,1241,319,0,147,0,77,119
+ New York,66, Kings County,3645,2898,30,87,406,0,157,67
+ New York,74, Kings County,5280,1388,88,29,1370,0,2405,0
+ New York,78, Kings County,5240,2257,326,0,577,0,2044,36
+ New York,112, Kings County,6267,3884,173,52,1418,0,600,140
+ New York,120, Kings County,1107,103,0,0,863,0,141,0
+ New York,21, Kings County,5143,3986,212,0,577,0,8,360
+ New York,30, Kings County,1635,1063,83,0,299,0,93,97
+ New York,33, Kings County,3705,2014,927,0,292,0,103,369
+ New York,870, Kings County,3205,158,2992,0,0,0,15,40
+ New York,804, Kings County,3283,442,2515,20,146,0,102,58
+ New York,826, Kings County,5311,442,4408,40,20,0,277,124
+ New York,856, Kings County,3338,128,2851,0,65,0,170,124
+ New York,886, Kings County,4286,168,3683,0,47,0,259,129
+ New York,888, Kings County,4157,51,3582,0,79,0,319,126
+ New York,912, Kings County,5587,609,4069,80,154,0,495,180
+ New York,950, Kings County,2870,275,2533,0,0,0,24,38
+ New York,560, Kings County,3518,3043,68,17,378,0,3,9
+ New York,551, Kings County,5269,3243,571,23,43,0,1204,185
+ New York,554, Kings County,4444,3467,0,0,479,0,230,268
+ New York,562, Kings County,1713,1523,0,0,91,0,0,99
+ New York,574, Kings County,2907,1347,39,0,1468,0,32,21
+ New York,578, Kings County,3391,1972,61,0,927,0,280,151
+ New York,590, Kings County,1979,934,176,0,654,0,175,40
+ New York,616, Kings County,1465,1336,71,0,11,0,38,9
+ New York,656, Kings County,1774,1411,17,0,274,0,58,14
+ New York,672, Kings County,1685,192,1294,0,199,0,0,0
+ New York,702.01, Kings County,6073,5228,227,58,205,0,310,45
+ New York,730, Kings County,2302,186,1987,0,11,0,6,112
+ New York,299, Kings County,2968,195,2171,0,70,0,507,25
+ New York,221, Kings County,3991,1425,1985,0,207,0,284,90
+ New York,224, Kings County,5792,4403,11,0,1038,0,315,25
+ New York,231, Kings County,3607,1632,1485,0,166,0,120,204
+ New York,236, Kings County,6000,5579,14,48,280,14,54,11
+ New York,247, Kings County,2561,501,1627,14,130,0,204,85
+ New York,249, Kings County,4306,1294,2544,0,186,0,235,47
+ New York,256, Kings County,3008,740,57,0,1954,0,164,93
+ New York,278, Kings County,3285,1343,27,0,1702,0,213,0
+ New York,285.01, Kings County,462,221,13,0,27,0,201,0
+ New York,289, Kings County,3870,758,2308,48,60,0,265,431
+ New York,291, Kings County,2927,744,1925,0,9,0,204,45
+ New York,449, Kings County,3237,1058,1443,24,71,0,576,65
+ New York,460, Kings County,3568,1731,24,0,1531,0,108,174
+ New York,485, Kings County,2614,1620,277,59,95,0,402,161
+ New York,508.01, Kings County,4088,972,2636,0,60,0,392,28
+ New York,508.03, Kings County,2383,588,1319,6,86,0,330,54
+ New York,508.04, Kings County,6068,1406,2852,0,112,0,1423,275
+ New York,510.01, Kings County,4168,826,3132,0,65,0,92,53
+ New York,510.02, Kings County,4608,733,2809,0,80,0,815,171
+ New York,516.01, Kings County,5201,412,4024,0,239,0,507,19
+ New York,516.02, Kings County,4013,330,2930,0,143,0,409,201
+ New York,561, Kings County,3394,2797,213,35,200,0,42,107
+ New York,610.03, Kings County,1792,788,57,0,426,0,521,0
+ New York,610.04, Kings County,6371,5781,1,0,373,0,33,183
+ New York,620, Kings County,1817,1766,0,0,51,0,0,0
+ New York,696.01, Kings County,3704,1501,1794,0,216,0,117,76
+ New York,696.02, Kings County,6168,4083,886,0,390,0,672,137
+ New York,768, Kings County,3183,2652,56,0,222,0,207,46
+ New York,796.01, Kings County,4695,1071,3311,0,61,0,170,82
+ New York,796.02, Kings County,4650,652,3199,0,81,0,546,172
+ New York,798.01, Kings County,2784,1015,1421,0,100,0,79,169
+ New York,798.02, Kings County,5683,1506,3107,0,369,0,522,179
+ New York,808, Kings County,1117,123,781,0,121,0,81,11
+ New York,924, Kings County,2608,66,2153,0,0,0,385,4
+ New York,932, Kings County,1140,44,1083,0,0,0,6,7
+ New York,946, Kings County,1849,43,1732,0,40,0,0,34
+ New York,1116, Kings County,4078,494,3152,0,7,0,406,19
+ New York,1058.01, Kings County,5768,2091,3472,27,55,0,54,69
+ New York,1058.04, Kings County,7188,1945,4357,110,238,0,432,106
+ New York,1104, Kings County,4530,156,3900,0,2,0,451,21
+ New York,1144, Kings County,2394,521,1346,0,13,4,384,126
+ New York,1198, Kings County,3017,602,1393,12,0,0,972,38
+ New York,1237, Kings County,6325,5607,205,0,49,0,413,51
+ New York,1502, Kings County,2811,2349,82,0,173,0,140,67
+ New York,1522, Kings County,3737,1699,728,0,718,0,267,325
+ New York,9901, Kings County,0,0,0,0,0,0,0,0
+ New York,37, New York County,2579,2236,68,0,124,0,83,68
+ New York,86.01, New York County,3022,2186,72,15,688,0,9,52
+ New York,44, New York County,16684,12653,901,0,2102,0,307,721
+ New York,86.03, New York County,4313,3642,27,11,437,0,31,165
+ New York,86.02, New York County,0,0,0,0,0,0,0,0
+ New York,165, New York County,6323,5388,267,0,455,0,97,116
+ New York,279, New York County,11803,3605,805,343,239,0,5917,894
+ New York,112.03, New York County,1154,842,21,0,246,0,9,36
+ New York,184, New York County,7258,1233,3420,70,524,0,1890,121
+ New York,36.01, New York County,3190,1339,391,112,792,0,340,216
+ New York,45, New York County,1015,686,4,1,251,0,0,73
+ New York,55.02, New York County,2059,1735,115,0,67,0,66,76
+ New York,56, New York County,3783,2889,218,0,561,0,47,68
+ New York,62, New York County,4219,2155,910,6,917,0,48,183
+ New York,77, New York County,6117,5412,45,0,363,0,26,271
+ New York,80, New York County,5013,4131,121,10,583,0,66,102
+ New York,90, New York County,7500,5644,206,0,1447,0,35,168
+ New York,236, New York County,7530,466,5816,81,58,0,728,381
+ New York,169, New York County,8418,6878,123,0,900,0,471,46
+ New York,171, New York County,8974,8158,159,0,310,0,40,307
+ New York,179, New York County,8915,6507,225,540,666,0,724,253
+ New York,182, New York County,8326,1017,2781,38,540,0,3318,632
+ New York,183, New York County,7270,6086,274,35,313,0,240,322
+ New York,92, New York County,1602,1119,33,0,393,0,23,34
+ New York,104, New York County,919,647,22,0,179,14,57,0
+ New York,119, New York County,1097,416,565,0,42,12,51,11
+ New York,132, New York County,10850,8000,0,225,636,0,1500,489
+ New York,134, New York County,12076,10163,633,0,1152,0,0,128
+ New York,136, New York County,15959,14325,383,0,918,0,275,58
+ New York,144.02, New York County,6943,6117,83,0,472,0,130,141
+ New York,148.01, New York County,3135,2672,11,10,267,0,30,145
+ New York,157, New York County,9755,8150,275,31,1037,0,0,262
+ New York,158.01, New York County,5136,4422,20,0,548,0,60,86
+ New York,161, New York County,6204,5178,116,0,608,0,35,267
+ New York,164, New York County,7286,2536,1907,18,1189,21,1318,297
+ New York,196, New York County,3895,994,1628,0,210,4,771,288
+ New York,180, New York County,8212,2414,2967,53,237,0,2220,321
+ New York,185, New York County,4695,3570,487,0,468,0,59,111
+ New York,190, New York County,3504,758,1992,19,385,0,237,113
+ New York,224, New York County,7661,1145,4524,0,167,0,1680,145
+ New York,193, New York County,9761,3504,2511,15,933,0,1961,837
+ New York,194, New York County,6517,1118,2305,52,63,0,2763,216
+ New York,212, New York County,4324,532,3126,0,202,0,298,166
+ New York,232, New York County,9161,1213,5767,0,158,11,1829,183
+ New York,239, New York County,3190,692,1191,107,111,0,674,415
+ New York,241, New York County,8229,2632,2347,59,235,83,2010,863
+ New York,293, New York County,8869,2528,1004,79,110,0,4611,537
+ New York,297, New York County,20,0,14,0,2,0,4,0
+ New York,197.02, New York County,2602,877,931,26,394,0,154,220
+ New York,198, New York County,2852,692,1498,36,331,0,214,81
+ New York,109, New York County,182,123,10,1,43,0,0,5
+ New York,75, New York County,3689,3235,52,0,172,0,36,194
+ New York,83, New York County,3844,2256,700,56,267,0,268,297
+ New York,97, New York County,4965,3224,335,15,1030,0,101,260
+ New York,106.01, New York County,7144,6280,0,21,692,0,0,151
+ New York,126, New York County,13330,10927,207,133,1634,32,155,242
+ New York,113, New York County,110,17,26,0,62,0,0,5
+ New York,121, New York County,7920,5540,334,0,1004,0,753,289
+ New York,122, New York County,2553,2509,0,0,22,0,22,0
+ New York,129, New York County,7122,5088,284,15,1336,0,233,166
+ New York,137, New York County,6419,5065,176,17,809,26,124,202
+ New York,138, New York County,12201,10305,173,0,1508,0,6,209
+ New York,152, New York County,7414,4775,912,0,590,0,650,487
+ New York,101, New York County,1273,703,103,0,418,0,22,27
+ New York,127, New York County,6539,4505,313,98,981,0,599,43
+ New York,131, New York County,2696,1895,77,0,643,0,62,19
+ New York,133, New York County,5679,3438,258,14,1364,20,300,285
+ New York,142, New York County,4493,3977,5,0,384,0,5,122
+ New York,149, New York County,4973,4224,67,0,603,0,43,36
+ New York,150.01, New York County,2126,1832,0,0,271,0,0,23
+ New York,150.02, New York County,4999,4603,51,0,206,0,35,104
+ New York,154, New York County,13554,10510,593,0,1238,0,393,820
+ New York,163, New York County,6822,6073,59,0,553,0,13,124
+ New York,192, New York County,4023,385,1675,153,340,0,1164,306
+ New York,195, New York County,7133,4798,431,0,1047,0,481,376
+ New York,199, New York County,8724,6187,746,7,1371,14,61,338
+ New York,205, New York County,4950,3591,509,9,677,0,56,108
+ New York,230, New York County,8385,860,5942,0,192,123,787,481
+ New York,235.01, New York County,6776,1906,2555,0,159,0,1864,292
+ New York,66, New York County,10619,7949,166,35,2055,0,0,414
+ New York,68, New York County,7677,5529,604,6,1480,0,18,40
+ New York,82, New York County,3264,2207,0,0,814,19,127,97
+ New York,84, New York County,1956,1025,58,0,771,0,5,97
+ New York,89, New York County,5383,4178,639,0,322,0,168,76
+ New York,99, New York County,5759,3955,338,0,1140,0,130,196
+ New York,6, New York County,9731,1287,723,224,5582,0,1450,465
+ New York,8, New York County,8993,1081,5,67,7638,24,34,144
+ New York,24, New York County,4151,1025,653,7,397,0,1823,246
+ New York,25, New York County,5508,826,1523,0,2339,0,531,289
+ New York,29, New York County,6365,916,706,42,4147,0,258,296
+ New York,54, New York County,4635,3676,143,0,584,0,51,181
+ New York,71, New York County,5624,4619,178,0,524,5,42,256
+ New York,79, New York County,4379,4130,38,0,148,0,10,53
+ New York,94, New York County,54,50,0,0,4,0,0,0
+ New York,108, New York County,9192,7787,124,0,1191,0,0,90
+ New York,110, New York County,6909,5694,297,0,744,0,38,136
+ New York,112.01, New York County,824,682,23,6,93,14,0,6
+ New York,116, New York County,3331,2493,92,29,587,0,60,70
+ New York,124, New York County,10052,7685,131,25,973,8,989,241
+ New York,115, New York County,3779,1974,307,24,1252,0,99,123
+ New York,117, New York County,4242,2624,361,0,799,0,397,61
+ New York,130, New York County,3466,3203,13,0,157,0,20,73
+ New York,135, New York County,8254,5180,898,14,1214,0,701,247
+ New York,144.01, New York County,5018,4369,34,0,481,0,23,111
+ New York,146.02, New York County,7560,6883,27,0,515,0,25,110
+ New York,148.02, New York County,6786,5531,16,0,677,0,120,442
+ New York,158.02, New York County,4519,2796,431,0,901,0,134,257
+ New York,102, New York County,100,64,0,23,2,0,0,11
+ New York,160.02, New York County,3574,2747,77,1,534,0,141,74
+ New York,96, New York County,141,95,0,0,43,0,0,3
+ New York,100, New York County,1768,1401,35,0,304,0,0,28
+ New York,106.02, New York County,4562,3826,109,0,552,0,23,52
+ New York,114.01, New York County,1137,1064,8,0,45,0,0,20
+ New York,128, New York County,5683,5128,0,0,185,0,162,208
+ New York,153, New York County,10061,8465,60,17,1166,0,74,279
+ New York,170, New York County,7677,3093,1607,129,1299,0,1299,250
+ New York,9, New York County,1731,1207,71,0,283,17,60,93
+ New York,10.01, New York County,1455,1125,32,0,157,0,59,82
+ New York,7, New York County,8809,6419,185,0,1767,0,146,292
+ New York,103, New York County,1990,1177,138,0,551,20,13,91
+ New York,118, New York County,8767,7848,2,0,836,0,0,81
+ New York,159, New York County,9342,7868,337,0,734,0,271,132
+ New York,245, New York County,15456,3712,1687,0,348,0,6403,3306
+ New York,20, New York County,4590,915,1082,0,897,0,1614,82
+ New York,39, New York County,6090,5136,254,0,249,0,130,321
+ New York,1, New York County,0,0,0,0,0,0,0,0
+ New York,191, New York County,9492,6854,1356,0,690,0,179,413
+ New York,197.01, New York County,514,286,38,0,151,0,26,13
+ New York,223.01, New York County,8037,2930,1238,0,227,0,2069,1573
+ New York,206, New York County,3664,756,2219,0,131,0,336,222
+ New York,218, New York County,6865,1328,4199,0,185,29,798,326
+ New York,220, New York County,6026,1607,3523,0,355,0,365,176
+ New York,233, New York County,7014,2285,2020,0,410,0,1450,849
+ New York,234, New York County,5058,886,3323,0,63,0,699,87
+ New York,247, New York County,7680,2996,1572,24,348,0,2214,526
+ New York,249, New York County,1083,220,357,0,56,0,305,145
+ New York,261, New York County,13220,3356,1852,477,75,0,6265,1195
+ New York,263, New York County,9487,2189,1133,57,261,0,5028,819
+ New York,275, New York County,3475,2642,253,25,129,0,246,180
+ New York,285, New York County,7997,1911,620,33,151,0,4436,846
+ New York,59, New York County,5475,4696,128,32,537,0,13,69
+ New York,67, New York County,5262,4623,41,25,324,0,90,159
+ New York,69, New York County,2523,2040,30,0,340,0,63,50
+ New York,70, New York County,8232,5817,691,0,1394,0,274,56
+ New York,73, New York County,5887,5275,69,0,334,0,91,118
+ New York,76, New York County,1991,871,76,0,976,0,43,25
+ New York,81, New York County,7762,6573,243,0,665,0,61,220
+ New York,91, New York County,6247,4483,413,0,1210,0,47,94
+ New York,93, New York County,9260,6301,700,0,1632,0,399,228
+ New York,177, New York County,9421,6090,1425,41,434,0,735,696
+ New York,156.01, New York County,5324,3780,338,0,1043,0,66,97
+ New York,160.01, New York County,3755,3300,11,0,229,0,63,152
+ New York,162, New York County,9906,2271,4791,43,992,0,1708,101
+ New York,186, New York County,7380,1510,3833,0,323,0,1218,496
+ New York,200, New York County,3656,998,2024,0,65,0,434,135
+ New York,201.02, New York County,4441,1504,2440,0,224,0,152,121
+ New York,214, New York County,3596,397,2702,5,94,26,255,117
+ New York,221.02, New York County,2559,637,1260,0,75,0,184,403
+ New York,228, New York County,5772,1006,3892,21,105,0,424,324
+ New York,229, New York County,9021,2935,2205,13,302,0,2093,1473
+ New York,235.02, New York County,1986,306,1451,0,24,0,172,33
+ New York,41, New York County,8051,2810,189,38,4618,0,165,231
+ New York,226, New York County,4816,1421,2596,2,151,0,352,294
+ New York,265, New York County,8146,4024,1239,21,129,0,2435,298
+ New York,38, New York County,8864,5594,1398,5,1035,0,748,84
+ New York,58, New York County,3521,2464,0,0,788,0,90,179
+ New York,88, New York County,7285,5050,103,0,1807,0,91,234
+ New York,120, New York County,3056,2776,216,0,53,0,11,0
+ New York,155, New York County,9991,8442,115,0,1116,0,148,170
+ New York,166, New York County,6747,3445,1093,57,277,0,1734,141
+ New York,167, New York County,6303,5073,119,0,635,0,96,380
+ New York,253, New York County,13389,4627,1362,0,420,0,6030,950
+ New York,181, New York County,9554,6771,1506,0,566,0,588,123
+ New York,209.01, New York County,3510,481,1530,0,179,0,1175,145
+ New York,223.02, New York County,3407,937,892,35,473,0,367,703
+ New York,240, New York County,1862,602,1059,12,58,32,60,39
+ New York,12, New York County,4010,2491,96,17,653,0,570,183
+ New York,14.01, New York County,3166,2447,110,0,412,0,61,136
+ New York,15.01, New York County,6993,4461,406,38,1718,0,143,227
+ New York,43, New York County,3931,2698,29,0,1013,0,32,159
+ New York,49, New York County,4410,3616,128,17,489,0,43,117
+ New York,52, New York County,3448,2624,96,27,618,0,23,60
+ New York,33, New York County,5241,4145,133,0,654,0,88,221
+ New York,36.02, New York County,3082,2181,303,24,334,0,81,159
+ New York,48, New York County,6249,4727,300,0,874,47,119,182
+ New York,55.01, New York County,4597,3123,211,17,900,0,15,331
+ New York,60, New York County,5348,4515,152,0,543,0,84,54
+ New York,61, New York County,4962,4086,222,0,556,0,21,77
+ New York,72, New York County,7463,5494,41,0,1765,0,10,153
+ New York,74, New York County,4175,3239,102,0,615,0,165,54
+ New York,2.01, New York County,2835,455,342,0,1317,0,713,8
+ New York,2.02, New York County,7764,2794,1713,43,1748,0,1031,435
+ New York,15.02, New York County,7926,5889,199,0,1469,0,9,360
+ New York,22.02, New York County,1901,1173,196,10,260,0,177,85
+ New York,27, New York County,1431,247,0,0,1100,0,33,51
+ New York,47, New York County,2236,1769,12,0,348,0,50,57
+ New York,50, New York County,5202,4212,54,0,847,0,14,75
+ New York,95, New York County,3168,2555,102,21,411,0,12,67
+ New York,26.01, New York County,3675,1585,516,16,520,0,807,231
+ New York,26.02, New York County,3845,2616,180,37,502,0,349,161
+ New York,269, New York County,9073,1850,978,121,260,0,4529,1335
+ New York,281, New York County,3298,2534,305,0,237,0,41,181
+ New York,283, New York County,7781,2714,902,40,385,0,3186,554
+ New York,291, New York County,12654,3232,1757,59,529,58,6744,275
+ New York,295, New York County,8298,4345,548,0,334,0,2474,597
+ New York,255, New York County,6086,2742,533,233,1230,0,1051,297
+ New York,222, New York County,3450,1149,1656,8,237,0,228,172
+ New York,16, New York County,7133,1535,131,0,5339,0,108,20
+ New York,21, New York County,6486,5370,65,0,760,0,24,267
+ New York,28, New York County,6690,2976,1356,0,789,0,1288,281
+ New York,13, New York County,4639,3130,52,0,1029,0,175,253
+ New York,14.02, New York County,2748,1049,169,25,810,0,499,196
+ New York,22.01, New York County,6471,2124,900,60,1518,0,1588,281
+ New York,30.01, New York County,3952,2519,148,0,656,0,347,282
+ New York,31, New York County,2659,1626,237,0,667,0,51,78
+ New York,34, New York County,6410,4744,207,0,922,0,348,189
+ New York,42, New York County,5202,3616,266,0,1106,0,16,198
+ New York,303, New York County,4581,2102,415,0,145,0,1545,374
+ New York,57, New York County,2769,2349,98,0,186,0,67,69
+ New York,87, New York County,7186,6077,129,0,572,0,236,172
+ New York,271, New York County,9609,4412,591,86,263,0,2750,1507
+ New York,307, New York County,3785,2529,360,6,169,45,503,173
+ New York,10.02, New York County,5372,1156,858,0,871,0,2361,126
+ New York,18, New York County,7490,2631,351,132,3546,0,512,318
+ New York,211, New York County,10240,4116,1469,0,2249,0,1978,428
+ New York,216, New York County,8503,2439,4464,41,453,0,808,298
+ New York,219, New York County,6220,888,2951,74,168,0,1742,397
+ New York,237, New York County,7292,1819,2133,14,288,74,850,2114
+ New York,251, New York County,2735,958,478,20,112,0,969,198
+ New York,267, New York County,2056,1438,49,54,32,0,467,16
+ New York,172, New York County,5783,1860,1525,0,306,0,1896,196
+ New York,213.03, New York County,6001,1122,3398,54,421,0,678,328
+ New York,215, New York County,4469,740,2743,0,93,0,867,26
+ New York,217.03, New York County,8,8,0,0,0,0,0,0
+ New York,227, New York County,5201,1800,2187,0,206,0,492,516
+ New York,231, New York County,6901,1595,2582,93,94,0,1254,1283
+ New York,238.01, New York County,8533,3851,792,0,3273,0,218,399
+ New York,238.02, New York County,3149,1469,628,0,690,0,283,79
+ New York,242, New York County,4658,563,2521,4,200,0,1195,175
+ New York,257, New York County,4637,1671,1853,0,306,0,599,208
+ New York,259, New York County,3773,1056,1700,0,142,0,562,313
+ New York,299, New York County,4072,1124,867,47,9,0,1836,189
+ New York,317.03, New York County,5593,4153,61,0,1163,0,13,203
+ New York,317.04, New York County,9989,7662,184,0,1764,0,77,302
+ New York,98, New York County,7200,5983,144,7,916,0,73,77
+ New York,208, New York County,5580,1062,3734,50,161,0,154,419
+ New York,174.02, New York County,2412,777,956,0,217,0,389,73
+ New York,187, New York County,8534,6605,574,0,951,0,181,223
+ New York,189, New York County,11800,4423,2965,0,725,0,3011,676
+ New York,210, New York County,7581,459,5709,0,163,0,816,434
+ New York,225, New York County,10495,2547,3285,13,452,0,2184,2014
+ New York,243.01, New York County,4962,935,1835,33,179,0,1486,494
+ New York,243.02, New York County,7783,789,3905,77,90,0,2381,541
+ New York,273, New York County,7070,5028,492,57,190,0,839,464
+ New York,287, New York County,4090,2232,240,20,93,0,1395,110
+ New York,309, New York County,10663,2177,2366,161,88,0,5187,684
+ New York,311, New York County,0,0,0,0,0,0,0,0
+ New York,40, New York County,8234,6418,265,0,1176,8,90,277
+ New York,114.02, New York County,1795,1492,9,8,150,0,38,98
+ New York,277, New York County,6800,2039,1248,107,157,0,2895,354
+ New York,319, New York County,0,0,0,0,0,0,0,0
+ New York,111, New York County,4838,2951,295,0,1318,0,153,121
+ New York,140, New York County,7529,6791,78,0,443,0,49,168
+ New York,151, New York County,9253,4334,1606,0,1666,0,1409,238
+ New York,156.02, New York County,2458,1128,636,0,290,59,273,72
+ New York,168, New York County,4941,1939,1704,46,354,0,804,94
+ New York,173, New York County,8974,7006,310,0,773,0,468,417
+ New York,175, New York County,10756,9414,460,132,647,0,55,48
+ New York,5, New York County,0,0,0,0,0,0,0,0
+ New York,30.02, New York County,2915,1909,289,0,293,0,400,24
+ New York,63, New York County,6492,5565,75,0,551,0,32,269
+ New York,178, New York County,3684,1320,854,34,242,17,1099,118
+ New York,188, New York County,5804,1749,1273,15,191,0,2239,337
+ New York,203, New York County,3423,2025,408,27,637,5,182,139
+ New York,139, New York County,10465,6910,613,311,1606,0,518,507
+ New York,145, New York County,5960,4361,395,0,911,0,74,219
+ New York,147, New York County,3350,2166,48,0,943,0,20,173
+ New York,64, New York County,7800,6041,185,224,1028,0,203,119
+ New York,65, New York County,6423,5222,175,0,673,0,56,297
+ New York,125, New York County,2407,1429,48,0,709,0,105,116
+ New York,201.01, New York County,1803,1172,228,46,258,0,48,51
+ New York,78, New York County,8965,5785,451,0,2017,0,0,712
+ New York,112.02, New York County,363,294,11,0,58,0,0,0
+ New York,143, New York County,3,1,2,0,0,0,0,0
+ New York,174.01, New York County,4566,805,2013,42,421,0,1201,84
+ New York,207.01, New York County,3036,1546,358,0,751,0,255,126
+ New York,32, New York County,7822,6356,365,1,955,0,79,66
+ New York,146.01, New York County,4268,3279,6,0,723,0,195,65
+ New York,138, Queens County,3759,1508,132,76,1172,0,732,139
+ New York,143, Queens County,3870,2595,105,15,729,0,292,134
+ New York,159, Queens County,3752,2702,27,10,429,0,445,139
+ New York,168, Queens County,3235,394,656,0,1057,0,648,480
+ New York,169, Queens County,5856,3871,128,0,1420,0,215,222
+ New York,171, Queens County,0,0,0,0,0,0,0,0
+ New York,184.01, Queens County,2168,20,1618,0,47,0,381,102
+ New York,42, Queens County,4377,526,249,0,1946,0,1398,258
+ New York,45, Queens County,3456,2089,84,0,776,0,210,297
+ New York,47, Queens County,3743,1732,825,33,600,0,406,147
+ New York,61, Queens County,5574,3781,141,0,1115,0,386,151
+ New York,77, Queens County,1798,924,13,18,449,0,319,75
+ New York,69, Queens County,3627,2195,197,0,711,0,418,106
+ New York,75, Queens County,4101,2847,60,0,789,0,300,105
+ New York,262, Queens County,1157,6,968,0,8,0,171,4
+ New York,593, Queens County,4298,3703,32,9,242,0,312,0
+ New York,598, Queens County,1731,30,1574,0,6,0,67,54
+ New York,600, Queens County,1140,15,1078,18,4,0,5,20
+ New York,616.01, Queens County,2342,75,2180,0,13,0,0,74
+ New York,620, Queens County,1370,57,1243,57,0,0,13,0
+ New York,625, Queens County,2760,2530,55,0,81,0,77,17
+ New York,635, Queens County,2761,2480,7,7,43,0,209,15
+ New York,656, Queens County,5033,200,4226,0,112,0,348,147
+ New York,660, Queens County,3586,346,2871,264,29,0,44,32
+ New York,683, Queens County,4091,1029,443,0,1726,0,839,54
+ New York,716, Queens County,0,0,0,0,0,0,0,0
+ New York,657.02, Queens County,1764,1488,0,18,47,0,204,7
+ New York,680, Queens County,5300,52,5118,0,79,0,31,20
+ New York,721, Queens County,4672,3210,105,4,934,0,224,195
+ New York,779.03, Queens County,3330,2135,79,0,638,0,247,231
+ New York,846.02, Queens County,962,149,261,0,262,0,187,103
+ New York,166, Queens County,4011,403,832,85,933,0,1499,259
+ New York,150, Queens County,2610,160,224,0,1023,19,1111,73
+ New York,153, Queens County,1976,1210,66,0,429,45,112,114
+ New York,157, Queens County,1294,610,61,0,375,0,186,62
+ New York,170, Queens County,2665,208,589,130,1073,0,533,132
+ New York,645, Queens County,2072,1200,83,5,563,0,175,46
+ New York,661, Queens County,1545,1400,42,0,64,0,20,19
+ New York,664, Queens County,9252,454,7981,0,224,0,421,172
+ New York,690, Queens County,3499,97,3224,0,40,51,0,87
+ New York,697.02, Queens County,3436,1793,23,0,1489,0,20,111
+ New York,719, Queens County,2287,1486,127,0,517,0,57,100
+ New York,769.02, Queens County,1251,805,29,0,319,0,60,38
+ New York,790, Queens County,2864,67,1713,21,413,0,485,165
+ New York,818, Queens County,4547,658,1001,9,913,0,1648,318
+ New York,925, Queens County,3926,1207,127,0,1340,0,1043,209
+ New York,838, Queens County,5617,1707,462,61,2378,0,750,259
+ New York,840, Queens County,6399,782,1115,20,2721,0,1314,447
+ New York,918, Queens County,12,12,0,0,0,0,0,0
+ New York,87, Queens County,4470,1427,1956,0,75,0,839,173
+ New York,94, Queens County,2810,415,288,20,1371,0,561,155
+ New York,99, Queens County,0,0,0,0,0,0,0,0
+ New York,101, Queens County,2461,1977,84,26,223,0,83,68
+ New York,295, Queens County,3537,1996,53,14,1083,0,269,122
+ New York,580, Queens County,3724,178,2925,10,53,59,312,187
+ New York,548, Queens County,2309,289,334,65,1069,0,322,230
+ New York,552, Queens County,2999,563,845,0,529,0,675,387
+ New York,566, Queens County,1528,207,412,0,442,0,308,159
+ New York,590, Queens County,1623,103,1347,126,31,0,5,11
+ New York,33, Queens County,3129,1318,59,85,1092,41,329,205
+ New York,62.01, Queens County,6238,4525,78,0,419,0,753,463
+ New York,62.02, Queens County,7051,4161,315,0,650,0,1110,815
+ New York,65.01, Queens County,3422,2609,108,0,411,0,235,59
+ New York,65.02, Queens County,3587,2304,123,0,548,0,437,175
+ New York,85, Queens County,915,477,89,0,184,0,159,6
+ New York,107.01, Queens County,0,0,0,0,0,0,0,0
+ New York,123.01, Queens County,2888,2095,98,184,194,0,266,51
+ New York,125, Queens County,1777,1274,81,0,212,0,183,27
+ New York,158.01, Queens County,3507,191,915,66,1034,0,1003,298
+ New York,158.02, Queens County,4925,298,998,42,1277,0,1980,330
+ New York,181.01, Queens County,3576,2172,48,35,737,0,502,82
+ New York,181.02, Queens County,3449,2458,79,0,651,0,186,75
+ New York,185.01, Queens County,3318,2144,142,21,717,0,212,82
+ New York,185.02, Queens County,3679,2491,111,0,691,0,290,96
+ New York,194, Queens County,2965,91,1623,0,332,0,618,301
+ New York,199, Queens County,773,238,222,0,65,0,231,17
+ New York,205, Queens County,1205,729,79,0,100,0,297,0
+ New York,253.01, Queens County,4201,2673,35,13,1089,0,311,80
+ New York,253.02, Queens County,2998,2106,27,125,413,0,188,139
+ New York,254, Queens County,10071,453,5622,0,1299,0,2173,524
+ New York,269.01, Queens County,4885,1335,49,48,1587,0,1768,98
+ New York,269.02, Queens County,3527,649,42,0,2157,0,588,91
+ New York,294, Queens County,7162,64,6469,0,339,0,181,109
+ New York,306, Queens County,4828,335,4130,0,158,0,133,72
+ New York,309.03, Queens County,6005,1821,189,39,2423,0,1339,194
+ New York,309.04, Queens County,3594,1703,15,60,1100,0,633,83
+ New York,357, Queens County,3940,1091,1369,0,585,0,693,202
+ New York,383.01, Queens County,0,0,0,0,0,0,0,0
+ New York,383.02, Queens County,0,0,0,0,0,0,0,0
+ New York,424, Queens County,2515,14,2337,0,40,0,46,78
+ New York,437.01, Queens County,2934,1620,294,14,125,0,826,55
+ New York,437.02, Queens County,6493,2773,996,94,914,0,1485,231
+ New York,443.01, Queens County,3751,1461,343,142,848,0,777,180
+ New York,443.02, Queens County,4317,982,562,11,1720,0,1029,13
+ New York,444, Queens County,3505,365,517,0,743,0,1690,190
+ New York,531, Queens County,3409,2619,52,38,167,0,533,0
+ New York,534.01, Queens County,2210,255,1804,0,0,0,145,6
+ New York,536.01, Queens County,1988,102,1505,6,110,0,240,25
+ New York,582, Queens County,4636,109,3842,9,64,0,473,139
+ New York,607.01, Queens County,36,36,0,0,0,0,0,0
+ New York,655.01, Queens County,0,0,0,0,0,0,0,0
+ New York,613.01, Queens County,6111,4995,72,44,383,0,265,352
+ New York,613.02, Queens County,0,0,0,0,0,0,0,0
+ New York,622, Queens County,1971,103,1760,0,13,0,5,90
+ New York,657.03, Queens County,2986,2662,13,0,92,0,141,78
+ New York,665.01, Queens County,4042,3437,8,0,88,0,283,226
+ New York,667.01, Queens County,2522,2150,11,0,104,0,184,73
+ New York,671, Queens County,2394,1662,0,7,627,0,50,48
+ New York,713.03, Queens County,5367,3935,102,0,902,0,157,271
+ New York,713.04, Queens County,5825,3766,232,0,1464,0,92,271
+ New York,713.05, Queens County,5117,2881,125,0,1534,0,482,95
+ New York,713.06, Queens County,6596,3343,160,0,2016,0,416,661
+ New York,717.01, Queens County,5026,2890,241,0,1591,0,179,125
+ New York,717.02, Queens County,3803,1261,382,0,1675,0,253,232
+ New York,723, Queens County,2006,1177,71,0,687,0,39,32
+ New York,749, Queens County,1505,1136,0,0,300,0,0,69
+ New York,757.01, Queens County,5139,2954,92,0,1872,0,16,205
+ New York,757.02, Queens County,4545,2860,54,14,1358,0,18,241
+ New York,779.06, Queens County,3507,2164,115,0,1045,0,116,67
+ New York,779.07, Queens County,3278,2785,112,69,109,0,181,22
+ New York,779.08, Queens County,3797,1763,845,0,721,0,162,306
+ New York,797.01, Queens County,6807,648,268,0,5435,8,258,190
+ New York,797.02, Queens County,5006,656,24,0,3891,0,312,123
+ New York,849, Queens County,7045,205,484,80,5769,0,468,39
+ New York,869, Queens County,1954,88,5,9,1625,0,227,0
+ New York,934.01, Queens County,3763,3447,87,0,71,0,152,6
+ New York,934.02, Queens County,4506,3482,197,0,292,0,359,176
+ New York,954, Queens County,5793,1322,3766,59,252,0,227,167
+ New York,972.03, Queens County,7331,1367,4397,70,502,0,995,0
+ New York,972.04, Queens County,3682,962,2067,0,50,0,454,149
+ New York,997.03, Queens County,3619,1917,71,25,1420,0,44,142
+ New York,997.04, Queens County,7367,5092,84,0,1822,0,265,104
+ New York,997.05, Queens County,2684,1397,0,0,1174,0,103,10
+ New York,998.01, Queens County,8666,1237,6062,0,170,0,671,526
+ New York,998.02, Queens County,6029,1813,3691,0,228,35,262,0
+ New York,1008.01, Queens County,2301,1069,934,0,144,0,112,42
+ New York,1008.02, Queens County,9077,3943,4207,0,374,0,553,0
+ New York,1085, Queens County,2309,1270,23,0,855,0,127,34
+ New York,1093, Queens County,3027,1693,43,0,1241,0,19,31
+ New York,1277, Queens County,3226,2482,335,0,406,0,3,0
+ New York,1291.03, Queens County,3933,2618,104,0,1093,0,42,76
+ New York,238, Queens County,4743,283,633,0,1574,0,2199,54
+ New York,198, Queens County,3197,53,1596,0,471,0,856,221
+ New York,216, Queens County,4009,2114,353,0,747,0,547,248
+ New York,219, Queens County,0,0,0,0,0,0,0,0
+ New York,240, Queens County,6179,537,1050,43,1882,0,2468,199
+ New York,246, Queens County,0,0,0,0,0,0,0,0
+ New York,247, Queens County,1464,433,19,12,759,0,208,33
+ New York,257, Queens County,1545,750,38,21,666,0,62,8
+ New York,260, Queens County,2379,76,1333,6,353,0,596,15
+ New York,261, Queens County,6644,2569,180,0,3038,0,699,158
+ New York,279, Queens County,6210,3965,227,0,641,0,1187,190
+ New York,280, Queens County,1759,0,1563,0,0,0,149,47
+ New York,287, Queens County,6226,3927,77,35,1319,0,720,148
+ New York,329, Queens County,3515,1679,184,20,612,0,955,65
+ New York,353, Queens County,2564,718,357,0,149,0,1274,66
+ New York,375, Queens County,4139,1636,268,53,202,0,1944,36
+ New York,448, Queens County,2869,248,125,35,1501,0,619,341
+ New York,455, Queens County,14918,4260,5689,0,2594,0,1983,392
+ New York,475, Queens County,4052,616,48,24,2454,0,738,172
+ New York,489, Queens County,1475,285,2,3,777,0,408,0
+ New York,507, Queens County,4162,2373,101,0,1190,0,468,30
+ New York,528, Queens County,1321,0,1165,0,23,14,103,16
+ New York,535, Queens County,1294,930,0,9,0,0,355,0
+ New York,907, Queens County,1453,554,0,0,603,0,243,53
+ New York,916.02, Queens County,0,0,0,0,0,0,0,0
+ New York,919, Queens County,5503,1533,199,0,2036,49,1380,306
+ New York,947, Queens County,2234,901,27,0,432,0,796,78
+ New York,992, Queens County,4191,1250,2341,12,53,0,405,130
+ New York,1010.01, Queens County,11565,4908,4914,0,214,0,1009,520
+ New York,729, Queens County,1419,824,44,0,492,0,6,53
+ New York,707, Queens County,2474,1372,16,22,774,0,112,178
+ New York,709, Queens County,2729,1417,60,0,983,0,58,211
+ New York,775, Queens County,2390,1906,72,0,220,0,108,84
+ New York,792, Queens County,2435,21,1215,0,524,0,532,143
+ New York,793, Queens County,0,0,0,0,0,0,0,0
+ New York,803.01, Queens County,3872,624,116,9,2411,0,613,99
+ New York,861, Queens County,2038,367,72,0,1400,0,149,50
+ New York,864, Queens County,2734,782,265,2,787,0,770,128
+ New York,928, Queens County,3502,3429,0,0,61,0,12,0
+ New York,939, Queens County,5148,2254,162,71,1406,0,1155,100
+ New York,945, Queens County,3774,2201,14,0,925,0,473,161
+ New York,987, Queens County,2361,1940,50,0,295,0,33,43
+ New York,999, Queens County,0,0,0,0,0,0,0,0
+ New York,1113, Queens County,2530,1386,12,0,855,0,222,55
+ New York,1141, Queens County,2546,1267,71,0,1064,0,96,48
+ New York,1155, Queens County,2260,453,77,61,1092,0,547,30
+ New York,1157, Queens County,3273,487,91,0,2465,0,146,84
+ New York,1185, Queens County,2130,325,30,0,1320,0,403,52
+ New York,1187, Queens County,2409,692,7,0,1405,0,286,19
+ New York,1195, Queens County,1354,572,2,114,461,0,174,31
+ New York,1227.01, Queens County,12144,4654,1318,19,3528,0,2296,329
+ New York,1283, Queens County,0,0,0,0,0,0,0,0
+ New York,1385.01, Queens County,4760,1624,96,24,2982,0,7,27
+ New York,1429, Queens County,3506,1400,0,9,1815,0,192,90
+ New York,1435, Queens County,2303,848,0,0,1301,0,107,47
+ New York,1451.01, Queens County,1212,541,0,0,625,0,34,12
+ New York,1467, Queens County,2642,1575,2,0,995,0,22,48
+ New York,276, Queens County,1533,26,1232,0,97,0,162,16
+ New York,282, Queens County,1950,50,1517,0,67,0,266,50
+ New York,283, Queens County,7601,4616,89,39,1248,36,1321,252
+ New York,285, Queens County,4911,2823,101,64,966,0,517,440
+ New York,289, Queens County,5180,2442,84,0,1827,0,471,356
+ New York,1133, Queens County,1758,1062,18,0,510,0,62,106
+ New York,1072.01, Queens County,2254,2085,43,0,18,0,16,92
+ New York,103, Queens County,4018,3055,140,0,592,0,164,67
+ New York,119, Queens County,1428,1099,0,16,114,0,124,75
+ New York,135, Queens County,1500,1397,7,0,44,0,21,31
+ New York,161, Queens County,2281,1287,60,0,459,0,450,25
+ New York,136, Queens County,1945,1528,130,0,140,19,66,62
+ New York,141, Queens County,1783,1163,28,0,186,0,331,75
+ New York,145, Queens County,2289,1888,44,38,164,0,122,33
+ New York,163, Queens County,3504,1798,917,0,314,0,410,65
+ New York,180, Queens County,1210,192,441,130,204,0,183,60
+ New York,206, Queens County,2002,304,364,7,354,0,959,14
+ New York,232, Queens County,5599,1010,1055,0,2147,7,1013,367
+ New York,126.01, Queens County,2909,1143,282,18,403,0,901,162
+ New York,132, Queens County,2183,1313,127,87,407,0,182,67
+ New York,1072.02, Queens County,0,0,0,0,0,0,0,0
+ New York,1151, Queens County,1075,619,0,0,316,0,75,65
+ New York,1201, Queens County,1549,240,65,0,1112,0,104,28
+ New York,1203, Queens County,1554,368,15,0,1123,0,25,23
+ New York,1211, Queens County,0,0,0,0,0,0,0,0
+ New York,1215, Queens County,4426,1027,171,0,2848,0,315,65
+ New York,1247, Queens County,3490,1938,14,0,1477,0,27,34
+ New York,1367, Queens County,5985,2253,28,0,3149,0,488,67
+ New York,1385.02, Queens County,40,40,0,0,0,0,0,0
+ New York,1471, Queens County,3117,1377,23,0,1470,0,139,108
+ New York,1529.02, Queens County,5113,2435,74,0,2272,0,0,332
+ New York,1617, Queens County,4978,2656,548,61,1239,0,321,153
+ New York,265, Queens County,3917,1075,46,0,2555,0,199,42
+ New York,275, Queens County,6205,4398,279,0,546,0,871,111
+ New York,1032.02, Queens County,8076,5728,1325,91,87,0,728,117
+ New York,1175, Queens County,4727,2123,21,0,2345,0,181,57
+ New York,152, Queens County,2820,447,390,0,1024,0,848,111
+ New York,164, Queens County,3965,153,1092,18,963,0,1412,327
+ New York,115, Queens County,2513,1738,40,12,361,0,194,168
+ New York,151, Queens County,2434,1920,54,0,333,0,108,19
+ New York,178, Queens County,2365,220,1097,19,352,76,345,256
+ New York,202, Queens County,1728,50,980,0,229,0,369,100
+ New York,204, Queens County,2513,149,831,6,551,0,852,124
+ New York,499, Queens County,5313,1179,46,241,3146,0,656,45
+ New York,460, Queens County,6199,500,1059,60,2877,0,1402,301
+ New York,479, Queens County,5270,912,80,0,3635,0,562,81
+ New York,506, Queens County,1490,36,1205,0,173,0,62,14
+ New York,511, Queens County,2188,1652,6,6,248,0,193,83
+ New York,517, Queens County,1969,1653,1,0,49,0,202,64
+ New York,522, Queens County,1758,0,1615,70,49,0,24,0
+ New York,530, Queens County,2510,18,2410,20,0,0,27,35
+ New York,539, Queens County,4528,3293,135,0,729,0,265,106
+ New York,545, Queens County,4185,3355,104,0,186,0,320,220
+ New York,601, Queens County,2160,1585,45,0,80,0,404,46
+ New York,612, Queens County,1965,4,1932,0,0,0,24,5
+ New York,630, Queens County,1558,14,1490,0,0,0,24,30
+ New York,637, Queens County,3462,2966,176,0,230,0,46,44
+ New York,646, Queens County,3242,31,3043,9,0,0,97,62
+ New York,650, Queens County,2813,75,2632,12,0,0,35,59
+ New York,711, Queens County,6400,3810,98,31,1916,0,122,423
+ New York,769.01, Queens County,4127,2207,181,0,1260,0,203,276
+ New York,779.05, Queens County,2526,1523,298,0,478,0,130,97
+ New York,803.02, Queens County,3440,995,53,0,2250,0,142,0
+ New York,845, Queens County,5096,615,548,116,3159,0,493,165
+ New York,846.01, Queens County,3017,753,202,42,1119,0,749,152
+ New York,929, Queens County,6531,2285,50,0,1564,0,2295,337
+ New York,938, Queens County,5024,3884,516,0,254,0,340,30
+ New York,855, Queens County,6936,1027,346,0,4305,37,1021,200
+ New York,174, Queens County,2455,312,1009,38,479,0,506,111
+ New York,837, Queens County,5513,824,27,31,4291,0,93,247
+ New York,857, Queens County,5332,673,101,112,4039,0,337,70
+ New York,863, Queens County,6461,953,94,0,4758,33,606,17
+ New York,871, Queens County,2554,264,555,0,1226,0,362,147
+ New York,916.01, Queens County,3540,3378,21,0,20,0,121,0
+ New York,942.01, Queens County,3280,1462,977,208,39,0,561,33
+ New York,1033, Queens County,4264,2705,47,26,1355,0,45,86
+ New York,102, Queens County,2877,384,438,0,955,0,866,234
+ New York,113, Queens County,4453,3204,68,0,677,0,423,81
+ New York,114, Queens County,1382,557,209,0,341,0,213,62
+ New York,126.02, Queens County,2720,1007,72,35,671,0,856,79
+ New York,128, Queens County,2372,1469,164,0,342,0,278,119
+ New York,130, Queens County,1521,780,52,0,376,0,264,49
+ New York,144, Queens County,1970,613,182,9,835,0,117,214
+ New York,148, Queens County,1896,267,237,0,795,0,560,37
+ New York,176, Queens County,2170,202,1140,0,411,0,300,117
+ New York,179, Queens County,1081,544,47,0,417,0,62,11
+ New York,184.02, Queens County,2286,197,1601,7,96,0,259,126
+ New York,196, Queens County,2900,69,1578,55,218,0,750,230
+ New York,229, Queens County,47,0,0,0,0,0,23,24
+ New York,230, Queens County,1968,951,100,0,550,0,349,18
+ New York,1029, Queens County,3966,2901,70,0,671,14,236,74
+ New York,997.01, Queens County,3014,2511,11,8,418,0,0,66
+ New York,1403, Queens County,2318,906,5,0,1321,0,86,0
+ New York,1191, Queens County,2987,455,0,0,1880,0,596,56
+ New York,1193, Queens County,1997,452,35,0,1337,0,153,20
+ New York,1291.02, Queens County,4142,2475,25,182,1226,0,95,139
+ New York,220.01, Queens County,6124,2468,1002,0,1354,0,1127,173
+ New York,243, Queens County,5545,3167,37,8,2093,0,100,140
+ New York,270, Queens County,2071,145,1635,0,45,0,200,46
+ New York,278, Queens County,2348,55,1985,0,12,0,168,128
+ New York,281, Queens County,4819,3243,51,17,760,19,390,339
+ New York,334.01, Queens County,3486,77,2994,0,122,0,273,20
+ New York,347, Queens County,3123,1062,439,51,420,0,1102,49
+ New York,376, Queens County,6094,72,5540,13,213,0,199,57
+ New York,399, Queens County,4196,2232,383,68,137,0,1292,84
+ New York,404, Queens County,4103,68,3523,7,185,0,221,99
+ New York,439, Queens County,3834,2284,67,69,560,0,762,92
+ New York,456, Queens County,1322,142,38,0,937,0,156,49
+ New York,458, Queens County,2291,339,215,61,1431,0,159,86
+ New York,467, Queens County,5982,2555,33,34,1532,0,1747,81
+ New York,478, Queens County,5295,1167,1233,11,1644,0,861,379
+ New York,495, Queens County,1571,1239,142,2,118,0,43,27
+ New York,512, Queens County,2763,20,1949,0,119,0,647,28
+ New York,1139, Queens County,3320,1615,68,10,1299,0,216,112
+ New York,1147, Queens County,1712,1065,0,0,527,0,77,43
+ New York,731, Queens County,1535,995,23,0,448,0,44,25
+ New York,747, Queens County,3580,1663,87,35,1452,0,166,177
+ New York,773, Queens County,2091,1394,72,0,347,0,135,143
+ New York,788, Queens County,1982,75,1216,0,224,0,442,25
+ New York,814, Queens County,3709,559,1845,0,967,0,293,45
+ New York,884, Queens County,8248,7065,92,0,161,0,595,335
+ New York,922, Queens County,2025,1984,0,6,35,0,0,0
+ New York,964, Queens County,6021,1204,3496,0,630,0,546,145
+ New York,8, Queens County,3136,1276,135,35,767,0,781,142
+ New York,972.02, Queens County,3170,487,2350,25,12,0,227,69
+ New York,973, Queens County,1730,1486,0,0,143,0,46,55
+ New York,1017, Queens County,6016,4113,72,0,1380,0,243,208
+ New York,14, Queens County,4152,1846,140,0,743,0,829,594
+ New York,16, Queens County,2644,863,270,0,534,0,665,312
+ New York,19, Queens County,3374,1681,94,9,1231,0,134,225
+ New York,26, Queens County,2411,1098,127,0,409,0,707,70
+ New York,28, Queens County,3382,1381,209,52,701,0,705,334
+ New York,40.01, Queens County,2358,1113,53,0,452,5,642,93
+ New York,54, Queens County,6029,1935,362,0,1726,0,1472,534
+ New York,58, Queens County,6182,3007,737,0,830,0,1360,248
+ New York,63, Queens County,5185,3558,103,25,906,0,335,258
+ New York,88, Queens County,3845,2506,245,0,368,0,658,68
+ New York,97, Queens County,3718,2784,77,0,582,0,129,146
+ New York,106, Queens County,3963,267,703,0,1624,0,1023,346
+ New York,235, Queens County,8065,4212,171,0,2447,0,1095,140
+ New York,284, Queens County,4157,88,3540,0,76,0,336,117
+ New York,291, Queens County,6299,1787,115,57,3763,0,415,162
+ New York,384, Queens County,2272,48,2203,0,16,0,0,5
+ New York,401, Queens County,7779,3096,162,19,971,0,3398,133
+ New York,411, Queens County,3902,1361,127,59,731,0,1601,23
+ New York,414, Queens County,4409,198,3314,0,151,0,699,47
+ New York,432, Queens County,1302,9,1210,0,58,0,10,15
+ New York,446.01, Queens County,3144,259,950,53,663,8,1195,16
+ New York,457, Queens County,3058,350,0,0,2130,0,578,0
+ New York,459, Queens County,3485,547,72,0,1789,0,972,105
+ New York,1181, Queens County,1612,730,38,0,709,0,117,18
+ New York,1205, Queens County,2748,209,126,22,2337,0,0,54
+ New York,1463, Queens County,3043,1611,98,0,1070,0,264,0
+ New York,1265, Queens County,1713,745,61,0,703,0,30,174
+ New York,1267, Queens County,4666,1823,772,15,1170,22,500,364
+ New York,1339, Queens County,1315,867,2,0,375,0,71,0
+ New York,1, Queens County,8830,5656,494,0,2014,0,182,484
+ New York,10, Queens County,4230,1870,189,0,699,0,1326,146
+ New York,32, Queens County,1788,635,170,0,555,0,382,46
+ New York,1571.01, Queens County,8458,2519,252,0,4989,0,533,165
+ New York,1507.02, Queens County,3243,1919,39,0,982,0,282,21
+ New York,1551.01, Queens County,1749,1726,0,0,0,0,0,23
+ New York,1571.02, Queens County,2306,574,81,37,1433,0,149,32
+ New York,461, Queens County,2535,692,33,4,918,0,762,126
+ New York,464, Queens County,1714,412,548,0,431,0,192,131
+ New York,492, Queens County,5249,672,2375,138,1494,0,460,110
+ New York,513, Queens County,2309,1476,31,0,556,0,229,17
+ New York,484, Queens County,5235,325,1850,0,1752,0,1079,229
+ New York,493.01, Queens County,2116,1112,24,0,667,0,288,25
+ New York,497, Queens County,3054,1411,27,0,1176,32,162,246
+ New York,502.01, Queens County,1503,31,1136,0,85,0,187,64
+ New York,510, Queens County,1720,114,1545,0,28,0,15,18
+ New York,520, Queens County,1394,37,1251,0,4,0,22,80
+ New York,551, Queens County,4334,3399,220,79,344,0,260,32
+ New York,562, Queens County,1803,542,215,8,397,0,328,313
+ New York,565, Queens County,1410,1071,21,20,41,0,204,53
+ New York,567, Queens County,5143,3835,172,70,327,0,530,209
+ New York,568, Queens County,4876,290,3298,0,453,0,631,204
+ New York,585, Queens County,4243,3296,142,0,557,0,239,9
+ New York,587, Queens County,3535,3042,22,0,119,0,263,89
+ New York,618, Queens County,1801,76,1677,0,0,0,30,18
+ New York,626, Queens County,2846,53,2537,18,7,0,176,55
+ New York,4, Queens County,4583,1527,225,13,1061,0,1364,393
+ New York,22, Queens County,2231,1036,171,28,288,0,605,103
+ New York,31, Queens County,986,434,24,0,125,0,389,14
+ New York,39, Queens County,1424,757,111,2,180,0,238,136
+ New York,43, Queens County,2626,561,977,0,261,0,549,278
+ New York,51, Queens County,1921,560,66,21,1102,8,142,22
+ New York,182, Queens County,2510,143,1332,30,395,0,456,154
+ New York,186, Queens County,2062,191,1366,0,187,0,298,20
+ New York,208, Queens County,2678,453,551,0,275,0,1194,205
+ New York,236, Queens County,3198,822,281,11,1279,0,720,85
+ New York,249, Queens County,4711,1814,118,64,2385,0,207,123
+ New York,272, Queens County,2189,14,1756,0,123,0,230,66
+ New York,258, Queens County,2398,70,1674,0,46,0,608,0
+ New York,264, Queens County,2653,11,1941,0,117,0,535,49
+ New York,267, Queens County,5894,1395,63,88,2478,0,1580,290
+ New York,274, Queens County,1571,0,1288,0,59,0,209,15
+ New York,277, Queens County,8030,4262,315,16,1316,86,1774,261
+ New York,330, Queens County,7207,152,6594,9,45,0,280,127
+ New York,351, Queens County,4021,1435,385,0,462,0,1551,188
+ New York,358, Queens County,4202,182,3884,0,23,0,33,80
+ New York,366, Queens County,2891,76,2632,0,107,0,20,56
+ New York,373, Queens County,2174,410,329,0,355,0,966,114
+ New York,381, Queens County,7004,3007,951,18,337,0,2227,464
+ New York,398, Queens County,1748,24,1663,0,33,0,14,14
+ New York,427, Queens County,5234,2572,19,0,571,0,2072,0
+ New York,440, Queens County,3828,74,2711,0,304,0,581,158
+ New York,446.02, Queens County,4633,427,917,52,1981,78,986,192
+ New York,454, Queens County,4507,357,722,39,2834,0,410,145
+ New York,739, Queens County,5968,3624,301,0,1583,0,107,353
+ New York,741, Queens County,3053,2064,114,71,646,0,45,113
+ New York,743, Queens County,4356,2627,107,25,1127,0,237,233
+ New York,745, Queens County,4357,2833,191,0,790,0,356,187
+ New York,779.04, Queens County,5827,3891,158,19,1485,0,116,158
+ New York,809, Queens County,7196,3603,581,0,2429,0,239,344
+ New York,853, Queens County,5103,435,94,33,4349,0,103,89
+ New York,859, Queens County,5422,829,166,157,3885,0,31,354
+ New York,865, Queens County,4392,446,31,0,3583,0,201,131
+ New York,942.02, Queens County,4590,1648,2012,0,421,0,356,153
+ New York,942.03, Queens County,6692,4842,686,0,192,0,500,472
+ New York,981, Queens County,2351,1676,0,41,516,0,118,0
+ New York,71, Queens County,3288,2341,69,0,519,0,168,191
+ New York,117, Queens County,3774,3069,105,0,365,0,201,34
+ New York,147, Queens County,2985,2269,129,35,373,0,72,107
+ New York,297, Queens County,1888,1068,21,0,458,0,269,72
+ New York,309.02, Queens County,6833,3140,195,128,2640,0,466,264
+ New York,317, Queens County,6014,4989,287,94,335,0,240,69
+ New York,327, Queens County,3611,935,80,18,975,0,1560,43
+ New York,328, Queens County,2612,48,2296,0,126,0,30,112
+ New York,337, Queens County,3120,1074,0,0,681,0,1365,0
+ New York,394, Queens County,3061,35,2738,0,54,0,110,124
+ New York,405, Queens County,3230,1450,187,14,212,0,1337,30
+ New York,407, Queens County,9272,2218,423,65,330,0,6040,196
+ New York,469, Queens County,8167,1552,338,103,2464,0,3519,191
+ New York,480, Queens County,2479,361,341,49,1085,0,558,85
+ New York,485, Queens County,4190,603,38,0,2901,0,640,8
+ New York,496, Queens County,3199,526,652,14,890,67,646,404
+ New York,500, Queens County,4518,342,3099,0,405,0,566,106
+ New York,508, Queens County,2039,73,1670,0,18,0,210,68
+ New York,361, Queens County,2471,410,511,0,242,0,1231,77
+ New York,363, Queens County,1711,202,390,0,144,0,887,88
+ New York,371, Queens County,1301,162,345,2,195,0,511,86
+ New York,377, Queens County,3691,954,436,18,35,0,2202,46
+ New York,379, Queens County,6432,2944,355,0,643,13,2462,15
+ New York,413, Queens County,4867,1574,57,16,836,0,2165,219
+ New York,415, Queens County,4052,2313,70,0,430,0,1239,0
+ New York,426, Queens County,488,223,247,0,18,0,0,0
+ New York,434, Queens County,1815,33,1463,0,99,9,148,63
+ New York,450, Queens County,2193,400,172,0,1270,0,210,141
+ New York,452, Queens County,1204,275,166,21,592,0,107,43
+ New York,462, Queens County,7012,475,902,10,2845,0,2362,418
+ New York,468, Queens County,3221,197,285,24,2211,0,236,268
+ New York,470, Queens County,3300,185,390,106,1643,0,853,123
+ New York,471, Queens County,4309,510,25,64,2972,0,738,0
+ New York,472, Queens County,3671,924,1018,0,1202,0,411,116
+ New York,1010.02, Queens County,4492,3454,910,0,106,0,11,11
+ New York,1039, Queens County,6507,3853,0,0,2090,0,310,254
+ New York,192, Queens County,2090,180,1641,0,108,0,97,64
+ New York,183, Queens County,6597,4601,189,0,1344,0,242,221
+ New York,188, Queens County,1391,134,863,15,123,0,214,42
+ New York,189, Queens County,3319,1396,44,23,1234,0,515,107
+ New York,259, Queens County,3675,1809,11,0,1514,0,201,140
+ New York,266, Queens County,1682,9,1457,0,51,0,165,0
+ New York,273, Queens County,6710,3840,563,0,680,0,1583,44
+ New York,293, Queens County,1118,184,0,0,897,0,26,11
+ New York,36, Queens County,3624,1231,32,11,1172,0,977,201
+ New York,44.01, Queens County,3865,614,222,29,2251,0,593,156
+ New York,53, Queens County,4726,2541,129,27,1095,0,580,354
+ New York,57, Queens County,4445,2093,211,10,1199,0,797,135
+ New York,73, Queens County,3973,2459,103,24,934,0,365,88
+ New York,81, Queens County,1393,782,35,0,185,0,334,57
+ New York,38, Queens County,2756,931,197,1,393,0,977,257
+ New York,299, Queens County,0,0,0,0,0,0,0,0
+ New York,263, Queens County,6402,2382,0,0,3498,0,231,291
+ New York,271, Queens County,8311,1853,184,123,3678,0,2244,229
+ New York,288, Queens County,5028,217,3899,0,239,0,525,148
+ New York,320, Queens County,5072,358,4282,0,88,0,203,141
+ New York,331, Queens County,0,0,0,0,0,0,0,0
+ New York,599, Queens County,1268,1102,14,0,46,0,55,51
+ New York,619, Queens County,2890,2530,16,0,96,0,93,155
+ New York,623, Queens County,2133,1992,25,0,18,0,98,0
+ New York,629, Queens County,2951,2311,54,0,188,0,326,72
+ New York,639, Queens County,2965,2345,75,0,219,0,206,120
+ New York,641.02, Queens County,0,0,0,0,0,0,0,0
+ New York,669, Queens County,1656,1484,0,0,130,0,42,0
+ New York,682, Queens County,1016,18,896,0,24,0,70,8
+ New York,695, Queens County,2041,1282,16,0,607,0,96,40
+ New York,703, Queens County,1919,1107,64,0,501,0,165,82
+ New York,473, Queens County,4356,849,69,17,2901,0,506,14
+ New York,482, Queens County,1584,116,587,0,556,0,218,107
+ New York,483, Queens County,3837,859,37,80,2076,11,723,51
+ New York,493.02, Queens County,2927,1943,88,0,423,0,363,110
+ New York,504, Queens County,1960,93,1728,1,12,0,53,73
+ New York,505, Queens County,1502,722,53,0,544,0,158,25
+ New York,540, Queens County,4537,128,3058,38,238,0,973,102
+ New York,542, Queens County,4891,1241,1398,0,901,0,772,579
+ New York,549, Queens County,5999,4677,91,0,751,0,403,77
+ New York,1567, Queens County,1601,506,428,0,593,0,58,16
+ New York,555, Queens County,2290,1716,30,0,114,0,298,132
+ New York,581, Queens County,3027,2759,68,0,67,0,83,50
+ New York,1479, Queens County,4430,2278,105,0,1532,0,437,78
+ New York,518, Queens County,2079,3,2002,0,7,0,21,46
+ New York,524, Queens County,1685,79,1494,0,42,0,55,15
+ New York,30, Queens County,1529,708,83,0,255,0,265,218
+ New York,7, Queens County,6079,3653,66,0,1548,0,380,432
+ New York,79, Queens County,2886,1548,26,0,691,0,579,42
+ New York,55, Queens County,860,330,20,7,258,0,241,4
+ New York,40.02, Queens County,1666,435,106,0,600,0,434,91
+ New York,463, Queens County,3855,963,41,0,1259,0,1343,249
+ New York,465, Queens County,3539,923,10,0,1104,0,1447,55
+ New York,737, Queens County,1933,1355,12,0,439,0,66,61
+ New York,779.02, Queens County,4879,4034,58,0,561,0,0,226
+ New York,187, Queens County,2895,1565,70,0,964,0,247,49
+ New York,214, Queens County,7405,749,516,18,3723,15,2150,234
+ New York,583, Queens County,3548,2656,175,0,228,0,437,52
+ New York,466, Queens County,3602,590,920,0,1531,0,458,103
+ New York,502.02, Queens County,1399,13,1021,0,155,0,65,145
+ New York,560, Queens County,1716,467,165,4,595,0,263,222
+ New York,6, Queens County,3690,1406,148,49,756,0,1161,170
+ New York,142.01, Queens County,4277,1283,430,25,1484,0,862,193
+ New York,621, Queens County,2549,2200,10,0,30,0,207,102
+ New York,591, Queens County,5606,4406,213,0,299,0,472,216
+ New York,892, Queens County,7682,7010,71,0,288,0,167,146
+ New York,1579.02, Queens County,4210,1467,76,64,2318,42,0,243
+ New York,52, Queens County,2721,473,203,0,1399,0,501,145
+ New York,120, Queens County,2314,382,158,0,1159,0,545,70
+ New York,156, Queens County,2852,285,388,62,1256,0,718,143
+ New York,1227.02, Queens County,7547,2401,2665,0,797,0,1008,676
+ New York,83, Queens County,2594,1213,252,0,410,16,579,124
+ New York,889.01, Queens County,10226,1832,216,0,6074,0,2060,44
+ New York,1451.02, Queens County,2578,658,149,0,1648,0,66,57
+ New York,86, Queens County,2823,1321,22,24,453,5,858,140
+ New York,142.02, Queens County,2767,927,298,23,757,0,576,186
+ New York,190, Queens County,2589,164,1407,60,100,0,787,71
+ New York,251, Queens County,6240,3714,94,0,1903,0,427,102
+ New York,367, Queens County,2387,508,741,0,300,0,716,122
+ New York,409, Queens County,5533,1739,238,73,332,0,3071,80
+ New York,476, Queens County,1469,519,284,45,520,0,101,0
+ New York,50, Queens County,101,27,0,0,0,0,74,0
+ New York,96, Queens County,3730,782,457,14,1017,0,1205,255
+ New York,111, Queens County,3153,2236,81,0,641,0,40,155
+ New York,116, Queens County,2108,374,138,0,900,0,568,128
+ New York,121, Queens County,2130,1659,97,5,183,0,121,65
+ New York,137, Queens County,1664,1355,18,0,169,0,75,47
+ New York,149, Queens County,1917,1675,38,9,140,0,55,0
+ New York,154, Queens County,2293,154,277,0,835,0,924,103
+ New York,212, Queens County,2324,426,281,6,129,0,1438,44
+ New York,220.02, Queens County,7087,2551,1195,0,1371,0,1647,323
+ New York,245, Queens County,5178,3208,34,32,1110,0,260,534
+ New York,1189, Queens County,2157,502,15,0,1515,0,125,0
+ New York,1159, Queens County,4097,589,11,12,3087,0,194,204
+ New York,1167, Queens County,1731,142,26,29,1304,0,206,24
+ New York,1171, Queens County,2440,816,52,0,1082,0,465,25
+ New York,1199, Queens County,1585,256,2,0,1055,0,259,13
+ New York,1207, Queens County,3169,1363,36,22,1569,0,67,112
+ New York,1223, Queens County,3514,1436,28,0,1678,0,278,94
+ New York,1301, Queens County,3932,1831,678,76,754,0,418,175
+ New York,1333, Queens County,3775,2040,71,0,1497,0,95,72
+ New York,1347, Queens County,10028,2622,1023,131,5085,0,838,329
+ New York,1409.02, Queens County,2952,753,4,0,2071,21,18,85
+ New York,1459, Queens County,2903,1547,6,7,1177,0,99,67
+ New York,577, Queens County,4194,3598,52,0,160,0,315,69
+ New York,525, Queens County,2288,1657,58,0,165,0,311,97
+ New York,556, Queens County,2236,474,304,0,879,0,401,178
+ New York,606, Queens County,1380,11,1222,0,6,0,135,6
+ New York,687, Queens County,4638,1917,129,0,2130,0,318,144
+ New York,638, Queens County,3641,190,3185,0,21,0,207,38
+ New York,654, Queens County,3396,275,2517,32,189,0,238,145
+ New York,663, Queens County,2650,2108,5,7,413,0,65,52
+ New York,694, Queens County,3681,169,3199,0,56,0,128,129
+ New York,34, Queens County,2606,846,182,0,582,0,842,154
+ New York,1129, Queens County,2077,1330,83,0,583,0,70,11
+ New York,553, Queens County,2675,1608,99,12,427,0,350,179
+ New York,627, Queens County,2918,2710,7,0,65,0,92,44
+ New York,677, Queens County,1792,1611,0,0,169,0,12,0
+ New York,799, Queens County,3018,705,0,24,1969,0,320,0
+ New York,991, Queens County,7018,5704,0,0,1136,0,112,66
+ New York,100, Queens County,3895,847,714,20,1023,0,1072,219
+ New York,608, Queens County,1740,69,1671,0,0,0,0,0
+ New York,24, Queens County,2433,700,176,21,611,0,759,166
+ New York,59, Queens County,4181,2893,79,0,434,0,623,152
+ New York,91, Queens County,2501,1817,104,0,327,0,253,0
+ New York,140, Queens County,3869,2260,214,0,711,0,590,94
+ New York,255, Queens County,1439,694,0,0,613,0,132,0
+ New York,352, Queens County,2913,185,2546,0,53,0,51,78
+ New York,403, Queens County,7066,2237,237,22,884,0,3583,103
+ New York,481, Queens County,6386,1228,234,0,3288,0,1480,156
+ New York,521, Queens County,2366,1911,44,0,141,0,129,141
+ New York,594, Queens County,1835,6,1758,0,4,0,32,35
+ New York,1099, Queens County,3032,1345,23,0,1457,0,132,75
+ New York,104, Queens County,3319,270,808,0,645,0,1268,328
+ New York,108, Queens County,3448,177,367,0,1333,0,1314,257
+ New York,118, Queens County,2625,452,146,27,1093,0,773,134
+ New York,12, Queens County,3928,1722,232,0,707,0,921,346
+ New York,20, Queens County,1873,652,27,41,644,0,503,6
+ New York,25, Queens County,7367,1172,3820,78,861,0,1170,266
+ New York,37, Queens County,0,0,0,0,0,0,0,0
+ New York,616.02, Queens County,1209,41,1051,9,34,0,62,12
+ New York,624, Queens County,0,0,0,0,0,0,0,0
+ New York,2, Queens County,3208,1851,83,0,549,0,539,186
+ New York,18, Queens County,2899,1206,176,33,660,0,726,98
+ New York,515, Queens County,3260,2528,25,0,158,0,373,176
+ New York,532, Queens County,1903,15,1531,161,1,9,154,32
+ New York,516, Queens County,2017,150,1764,7,0,0,60,36
+ New York,526, Queens County,1970,51,1716,0,42,0,90,71
+ New York,554, Queens County,2361,676,380,17,884,20,371,13
+ New York,538, Queens County,1841,0,1582,13,69,0,177,0
+ New York,547, Queens County,5221,4014,186,0,596,0,380,45
+ New York,557, Queens County,4400,3723,101,0,273,0,197,106
+ New York,558, Queens County,1683,305,326,0,410,0,452,190
+ New York,559, Queens County,1113,670,50,0,88,0,273,32
+ New York,561, Queens County,60,43,0,0,17,0,0,0
+ New York,579, Queens County,1853,1588,12,20,75,0,109,49
+ New York,589, Queens County,5021,4440,34,42,194,0,293,18
+ New York,596, Queens County,1333,23,1271,0,1,0,20,18
+ New York,603, Queens County,2094,1766,13,0,101,0,180,34
+ New York,659, Queens County,1784,1499,0,0,183,0,92,10
+ New York,679, Queens County,4067,2639,69,0,272,0,739,348
+ New York,697.01, Queens County,3833,1945,339,0,1319,0,140,90
+ New York,98, Queens County,2704,250,422,0,795,0,1138,99
+ New York,1047, Queens County,6682,2866,6,33,3180,0,469,128
+ New York,1059, Queens County,4016,2449,2,0,1424,0,10,131
+ New York,155, Queens County,2464,1668,96,0,422,0,124,154
+ New York,172, Queens County,2140,65,743,0,683,0,516,133
+ New York,334.02, Queens County,13280,260,12526,22,184,0,186,102
+ New York,339, Queens County,2715,1116,65,0,432,0,959,143
+ New York,365, Queens County,3242,632,449,22,247,0,1881,11
+ New York,368, Queens County,2588,23,2388,0,0,0,75,102
+ New York,400, Queens County,1510,13,1435,0,0,0,14,48
+ New York,402, Queens County,1737,0,1655,6,64,0,0,12
+ New York,595, Queens County,5303,3879,56,29,319,0,848,172
+ New York,564, Queens County,1246,393,143,0,296,0,290,124
+ New York,592, Queens County,1442,18,1383,0,0,0,18,23
+ New York,610, Queens County,1475,5,1470,0,0,0,0,0
+ New York,614, Queens County,1362,9,1206,0,23,0,92,32
+ New York,632, Queens County,2742,53,2625,0,5,0,54,5
+ New York,633.01, Queens County,1597,1451,44,0,70,0,32,0
+ New York,641.01, Queens County,2239,1856,15,0,273,0,59,36
+ New York,1483, Queens County,2893,1930,19,0,802,0,81,61
+ New York,1579.03, Queens County,4318,1687,185,32,2260,0,128,26
+ New York,1621, Queens County,6458,2174,416,0,2594,0,775,499
+ New York,1123, Queens County,1950,984,101,0,621,0,239,5
+ New York,1161, Queens County,4346,623,115,0,3101,0,405,102
+ New York,1163, Queens County,9211,1478,515,0,5909,7,1014,288
+ New York,1257, Queens County,3244,630,479,0,1753,0,290,92
+ New York,1399, Queens County,1745,778,3,0,904,0,0,60
+ New York,1409.01, Queens County,989,336,18,0,606,9,0,20
+ New York,1441, Queens County,3108,1047,85,0,1835,0,105,36
+ New York,1447, Queens County,2957,615,470,0,1689,0,150,33
+ New York,1529.01, Queens County,6764,2814,47,0,3809,0,41,53
+ New York,1579.01, Queens County,5301,1696,219,0,2837,0,257,292
+ New York,1032.01, Queens County,6316,1383,3249,29,605,55,886,109
+ New York,1097, Queens County,1729,1001,12,0,662,0,21,33
+ New York,1507.01, Queens County,3190,2016,16,0,965,0,62,131
+ New York,1241, Queens County,3901,1275,179,0,2233,0,60,154
+ New York,1341, Queens County,3581,1157,0,0,2318,0,40,66
+ New York,1377, Queens County,7129,2248,578,109,3793,0,211,190
+ New York,1551.02, Queens County,8787,4869,846,0,2473,0,422,177
+ New York,105, Queens County,4358,2809,145,0,554,0,655,195
+ New York,95, Queens County,2386,1816,107,0,323,0,62,78
+ New York,110, Queens County,3233,555,313,144,1040,0,899,282
+ New York,112, Queens County,2104,628,116,0,958,0,253,149
+ New York,122, Queens County,3398,973,149,13,1189,0,696,378
+ New York,124, Queens County,3040,928,359,0,635,0,860,258
+ New York,134, Queens County,5103,3034,295,0,824,0,739,211
+ New York,633.02, Queens County,1429,1347,8,0,5,0,46,23
+ New York,693, Queens County,3043,1292,369,43,1003,0,288,48
+ New York,1291.04, Queens County,4367,2151,89,0,2020,0,14,93
+ New York,1417, Queens County,5083,1622,191,0,2645,0,50,575
+ New York,9901, Queens County,0,0,0,0,0,0,0,0
+ New York,239, Richmond County,3765,2137,684,11,217,0,498,218
+ New York,248, Richmond County,4985,4697,23,19,113,0,133,0
+ New York,21, Richmond County,4061,1912,1365,0,277,0,318,189
+ New York,170.09, Richmond County,4598,4288,0,0,108,0,36,166
+ New York,207, Richmond County,5372,2829,1896,0,122,0,471,54
+ New York,208.03, Richmond County,7115,6426,14,0,262,0,344,69
+ New York,223, Richmond County,2571,1121,1083,80,100,0,129,58
+ New York,247, Richmond County,2781,1391,645,0,348,1,322,74
+ New York,251, Richmond County,6310,5304,126,0,623,0,95,162
+ New York,291.04, Richmond County,7331,5219,823,0,698,0,426,165
+ New York,47, Richmond County,2712,2266,119,0,308,0,2,17
+ New York,50, Richmond County,4118,2762,365,0,658,14,308,11
+ New York,74, Richmond County,4782,3380,210,0,743,0,394,55
+ New York,96.01, Richmond County,4222,3489,98,99,325,0,89,122
+ New York,96.02, Richmond County,3262,2678,60,0,372,0,101,51
+ New York,122, Richmond County,3823,3536,1,0,194,0,79,13
+ New York,187.02, Richmond County,7703,4398,213,19,2842,0,72,159
+ New York,132.03, Richmond County,5604,4847,304,0,275,0,155,23
+ New York,156.01, Richmond County,6423,5937,4,33,375,24,22,28
+ New York,187.01, Richmond County,1808,1405,44,0,207,0,73,79
+ New York,189.01, Richmond County,5421,4165,273,0,812,0,76,95
+ New York,213, Richmond County,5082,3336,824,212,292,0,138,280
+ New York,7, Richmond County,5182,1898,2156,0,168,0,147,813
+ New York,3, Richmond County,1967,1144,226,16,365,0,131,85
+ New York,9, Richmond County,1826,620,861,0,224,0,7,114
+ New York,27, Richmond County,2025,934,505,0,81,0,286,219
+ New York,81, Richmond County,4802,1828,1997,23,183,11,419,341
+ New York,146.04, Richmond County,6985,5970,17,17,596,0,209,176
+ New York,146.06, Richmond County,6174,5915,0,0,103,0,156,0
+ New York,170.05, Richmond County,5255,4717,4,0,503,0,31,0
+ New York,173, Richmond County,2282,1158,468,0,462,0,107,87
+ New York,176, Richmond County,4770,4568,81,0,72,20,0,29
+ New York,208.01, Richmond County,9166,8822,1,0,296,0,17,30
+ New York,226, Richmond County,8505,7719,241,28,382,0,135,0
+ New York,231, Richmond County,4927,2466,1393,0,721,0,227,120
+ New York,319.02, Richmond County,5167,1548,2907,35,43,0,385,249
+ New York,132.01, Richmond County,1497,1318,29,0,150,0,0,0
+ New York,141, Richmond County,2213,1185,345,0,330,0,316,37
+ New York,6, Richmond County,2351,1641,244,0,318,0,57,91
+ New York,18, Richmond County,603,453,54,9,18,0,13,56
+ New York,112.01, Richmond County,6045,5367,60,0,618,0,0,0
+ New York,33, Richmond County,3674,1866,1090,0,306,0,360,52
+ New York,70, Richmond County,9011,6747,634,126,1059,0,329,116
+ New York,105, Richmond County,4358,2469,524,0,408,0,790,167
+ New York,156.02, Richmond County,3342,3246,24,0,47,0,0,25
+ New York,177, Richmond County,6246,5522,7,0,629,12,0,76
+ New York,273.01, Richmond County,3913,2767,93,0,800,0,83,170
+ New York,277.04, Richmond County,4555,3587,11,15,654,0,225,63
+ New York,323, Richmond County,1138,455,580,0,7,0,82,14
+ New York,40, Richmond County,12897,3555,5811,0,1688,0,1401,442
+ New York,128.04, Richmond County,4001,3476,35,0,359,0,79,52
+ New York,133.02, Richmond County,2985,1242,1223,0,146,0,282,92
+ New York,154, Richmond County,0,0,0,0,0,0,0,0
+ New York,169.01, Richmond County,3114,2672,68,0,258,0,67,49
+ New York,170.07, Richmond County,5561,4345,324,0,689,0,97,106
+ New York,273.02, Richmond County,3755,3125,39,0,560,0,0,31
+ New York,277.02, Richmond County,6913,5246,99,62,1137,0,336,33
+ New York,279, Richmond County,2203,1973,49,9,151,0,15,6
+ New York,303.02, Richmond County,6504,3623,952,0,917,0,777,235
+ New York,146.05, Richmond County,3970,3759,8,0,203,0,0,0
+ New York,170.08, Richmond County,7608,7187,49,0,304,0,39,29
+ New York,29, Richmond County,4674,1364,2313,0,145,0,695,157
+ New York,59, Richmond County,3058,2615,119,0,216,0,95,13
+ New York,75, Richmond County,3989,2492,769,0,183,0,229,316
+ New York,97, Richmond County,4232,1982,1573,0,94,0,418,165
+ New York,114.02, Richmond County,3496,3186,46,0,212,0,13,39
+ New York,121, Richmond County,3205,2626,43,11,44,0,345,136
+ New York,20.02, Richmond County,3463,2836,59,0,405,0,10,153
+ New York,36, Richmond County,2657,1693,280,0,527,0,101,56
+ New York,112.02, Richmond County,5479,3845,634,27,463,0,205,305
+ New York,291.03, Richmond County,8588,6586,142,0,1081,76,531,172
+ New York,11, Richmond County,3402,1194,1625,0,65,0,363,155
+ New York,77, Richmond County,1356,621,520,0,77,0,115,23
+ New York,170.10, Richmond County,9215,8371,104,0,539,23,58,120
+ New York,319.01, Richmond County,2725,815,1499,0,156,0,255,0
+ New York,17, Richmond County,1425,663,329,0,134,0,223,76
+ New York,133.01, Richmond County,1255,371,659,5,32,0,47,141
+ New York,151, Richmond County,5199,4461,50,0,442,0,96,150
+ New York,156.03, Richmond County,4750,4596,0,0,90,0,64,0
+ New York,189.02, Richmond County,5378,3484,129,0,1233,0,183,349
+ New York,201, Richmond County,3441,2423,449,0,332,0,121,116
+ New York,291.02, Richmond County,2974,2206,48,0,488,0,190,42
+ New York,303.01, Richmond County,5110,2959,615,13,1069,0,224,230
+ New York,8, Richmond County,5433,3404,455,0,1077,0,304,193
+ New York,39, Richmond County,2424,1620,508,0,132,0,46,118
+ New York,125, Richmond County,2952,2211,466,0,126,0,90,59
+ New York,134, Richmond County,4134,3606,19,0,183,0,289,37
+ New York,20.01, Richmond County,2721,2056,169,54,234,0,82,126
+ New York,64, Richmond County,3326,2281,555,0,275,0,186,29
+ New York,114.01, Richmond County,2913,1670,562,0,267,0,148,266
+ New York,132.04, Richmond County,4793,4634,2,0,57,0,52,48
+ New York,138, Richmond County,6054,5551,0,0,309,0,0,194
+ New York,147, Richmond County,3301,2995,111,0,84,0,15,96
+ New York,197, Richmond County,1827,1648,4,0,117,0,16,42
+ New York,208.04, Richmond County,5916,5310,14,127,234,0,109,122
+ New York,181, Richmond County,3068,2756,21,0,255,0,7,29
+ New York,198, Richmond County,6538,5869,138,30,227,0,220,54
+ New York,228, Richmond County,12,12,0,0,0,0,0,0
+ New York,244.01, Richmond County,6131,5654,0,0,126,0,222,129
+ New York,67, Richmond County,2495,2206,60,0,165,0,15,49
+ New York,128.05, Richmond County,2591,2513,7,0,71,0,0,0
+ New York,128.06, Richmond County,5574,4254,372,0,270,0,242,436
+ New York,146.07, Richmond County,4552,3898,71,0,532,0,0,51
+ New York,146.08, Richmond County,3848,3702,29,0,61,0,0,56
+ New York,170.11, Richmond County,4627,4461,2,0,104,0,0,60
+ New York,170.12, Richmond County,4444,4136,17,0,172,16,52,51
+ New York,244.02, Richmond County,4654,4431,33,0,179,0,11,0
+ New York,277.05, Richmond County,5843,4139,156,0,1238,0,54,256
+ New York,277.06, Richmond County,3520,2197,432,0,679,0,130,82
+ New York,9901, Richmond County,0,0,0,0,0,0,0,0

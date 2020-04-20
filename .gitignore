@@ -3,3 +3,5 @@
 .RData
 .Ruserdata
 google_places_api_key.txt
+.ipynb_checkpoints/
+./*/.ipynb_checkpoints/
