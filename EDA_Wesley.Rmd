@@ -488,6 +488,7 @@ comprehensive_hospital_data <- inner_join(catchment_area_df_grouped, comprehensi
 comprehensive_hospital_data <- comprehensive_hospital_data[c(1:8, 10:12,14:16),] %>%
   arrange(desc(System))
 comprehensive_hospital_data <- cbind(comprehensive_hospital_data,nyc_medicare_2014_2017_topfive_allsystem_df_timeseries_wider[,2:61])
+comprehensive_hospital_data[is.na(comprehensive_hospital_data)] <- 0
 write.csv(comprehensive_hospital_data, paste(path, medicare_folder, "comprehensive_hospital_medicare_data.csv", sep = ""))
 
 ```
