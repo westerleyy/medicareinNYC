@@ -136,6 +136,18 @@ catchment_area_df <- nyc_hospital_thiessen %>%
 #   inner_join(.,borough_list, by = c("V1" = "Provider Name"))
 # colnames(catchment_area_df) <- c("Provider Name", "Catchment Area (sq.mi)","Borough")
 # write.csv(catchment_area_df, "./data/nyc_hospitals_thiessen_polygons/hospitals_catchment_area.csv")
+
+# grouping catchment area for export
+catchment_area_df_grouped <- catchment_area_df %>%
+  filter(System != "Others") %>%
+  group_by(System) %>%
+  summarise(catchment_area_sqmi = sum(as.numeric(area_sqmi)))
+catchment_area_df_grouped2 <- catchment_area_df %>%
+  filter(System == "Others") %>%
+  select(Hospital.N, area_sqmi)
+colnames(catchment_area_df_grouped2) <- c("System", "catchment_area_sqmi")
+catchment_area_df_grouped <- rbind(catchment_area_df_grouped, catchment_area_df_grouped2)
+
 datatable(catchment_area_df)
 ```
   
@@ -318,6 +330,13 @@ nyc_medicare_2015_topfive <- top_n_drg(nyc_medicare_2015, 5, 2015)
 nyc_medicare_2014_topfive <- top_n_drg(nyc_medicare_2014, 5, 2014)
 nyc_medicare_2014_2017_topfive_df <- rbind(nyc_medicare_2017_topfive, nyc_medicare_2016_topfive, nyc_medicare_2015_topfive, nyc_medicare_2014_topfive)
 
+#system mapping
+updated_system_data <- read_csv("./data/nyc_hospitals/nyc_hospitals_systems_lat_long.csv")
+updated_system_data <- updated_system_data[,2:3]
+nyc_medicare_2014_2017_topfive_df <- inner_join(nyc_medicare_2014_2017_topfive_df, updated_system_data, by = "Provider Name")
+nyc_medicare_2014_2017_topfive_df <- nyc_medicare_2014_2017_topfive_df[,-8]
+colnames(nyc_medicare_2014_2017_topfive_df)[10] <- "system"
+
 nyc_medicare_2014_2017_topfive_df2 <- nyc_medicare_2014_2017_topfive_df %>%
   mutate(Total_Payments = `Average Total Payments`*`Total Discharges`,
          Total_Medicare_Payments = `Average Medicare Payments`*`Total Discharges`,
@@ -435,10 +454,13 @@ nyc_medicare_2014_2017_topfive_system_df_timeseries <- nyc_medicare_2014_2017_to
   pivot_longer(., cols = starts_with("YoY_"), names_to = "Variable", names_prefix = "YoY_", values_to = "YoY_Change") %>%
   mutate(Discharge_Year = lubridate::year(as.Date(Discharge_Year,format = "%Y"))) 
 
-nyc_medicare_2014_2017_topfive_independent_df_timeseries <- nyc_medicare_2014_2017_topfive_independent_df_timeseries[,2:6]
-nyc_medicare_2014_2017_topfive_independent_df_timeseries <- nyc_medicare_2014_2017_topfive_independent_df_timeseries[,c("system", "DRG_num", "Discharge_Year", "Variable","YoY_Change")]
+nyc_medicare_2014_2017_topfive_independent_df_timeseries <- nyc_medicare_2014_2017_topfive_independent_df_timeseries[,1:5]
+colnames(nyc_medicare_2014_2017_topfive_independent_df_timeseries)[1] <- "system" 
 
 nyc_medicare_2014_2017_topfive_allsystem_df_timeseries <- bind_rows(nyc_medicare_2014_2017_topfive_system_df_timeseries, nyc_medicare_2014_2017_topfive_independent_df_timeseries)
+nyc_medicare_2014_2017_topfive_allsystem_df_timeseries_wider <- pivot_wider(nyc_medicare_2014_2017_topfive_allsystem_df_timeseries, values_from = YoY_Change, names_from = DRG_num:Variable)
+nyc_medicare_2014_2017_topfive_allsystem_df_timeseries_wider <- nyc_medicare_2014_2017_topfive_allsystem_df_timeseries_wider %>%
+  arrange(desc(system))
 
 ggplot(nyc_medicare_2014_2017_topfive_allsystem_df_timeseries, aes(x = Discharge_Year, y = YoY_Change, group = system, color = system)) + 
   geom_point() + 
@@ -449,5 +471,25 @@ ggplot(nyc_medicare_2014_2017_topfive_allsystem_df_timeseries, aes(x = Discharge
   labs(subtitle = "Coords zoomed to (-100:100, 2015:2017) to eliminate anomalies")
 
 write.csv(nyc_medicare_2014_2017_topfive_allsystem_df_timeseries, paste(path, medicare_folder, "nyc_medicare_2014_2017_topfive_allsystem_timeseries.csv", sep = ""))
+
+
+
+```
+
+
+```{r mergers, warning=FALSE, message=FALSE, echo=FALSE}
+hospital_race <- read_csv("./data/census_tracts/hospitals_race.csv")
+hospital_race<- hospital_race[, c(1,10,2:9)]
+hospital_income <- read_csv("./data/census_tracts/hospitals_income.csv")
+
+comprehensive_hospital_data <- inner_join(hospital_race, hospital_income, by = "X1")
+comprehensive_hospital_data <- inner_join(catchment_area_df_grouped, comprehensive_hospital_data, by = c("System" = "X1"))
+# dropping calvary, rockefeller, and memorial bec they dont have medicare patients
+comprehensive_hospital_data <- comprehensive_hospital_data[c(1:8, 10:12,14:16),] %>%
+  arrange(desc(System))
+comprehensive_hospital_data <- cbind(comprehensive_hospital_data,nyc_medicare_2014_2017_topfive_allsystem_df_timeseries_wider[,2:61])
+comprehensive_hospital_data[is.na(comprehensive_hospital_data)] <- 0
+write.csv(comprehensive_hospital_data, paste(path, medicare_folder, "comprehensive_hospital_medicare_data.csv", sep = ""))
+
 ```
 
