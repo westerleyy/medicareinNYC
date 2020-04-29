@@ -1,6 +1,6 @@
 Hospital Name,Addresss,System,Number of Beds, GFA ,Year built,Latitude,Longitude
 Bellevue Hospital Center,"462 First Avenue, New York, NY 10016",Health+,912,"2,124,441",1910,40.7390888,-73.9837713
-BronxCare Hospital Center,"1650 Grand Concourse, Bronx, NY 10457",Mount Sinai,415,"480,769",1941,40.8434715,-73.9132685
+Bronx-Lebanon Hospital Center - Concourse Division,"1650 Grand Concourse, Bronx, NY 10457",Mount Sinai,415,"480,769",1941,40.8434715,-73.9132685
 BronxCare Hospital Center (Fulton Division),"1276 Fulton Avenue, Bronx, NY 10456",Mount Sinai,170,"331,624",1927,40.8313797,-73.9049973
 Brookdale Hospital Medical Center,"1 Brookdale Plaza, Brooklyn, NY 11212",Others,530,"511,776",1961,40.6549172,-73.9148858
 Brooklyn Hospital Center - Downtown Campus,"121 Dekalb Avenue, Brooklyn, NY 11201",SUNY,464,"335,000",1982,40.691269,-73.979963
@@ -52,10 +52,12 @@ Queens Hospital Center,"82-68 164th Street, Jamaica, NY 11432",Health+,269,"1,25
 Richmond University Medical Center,"355 Bard Avenue, Staten Island, NY 10310",Mount Sinai,448,"538,240",1903,40.6356742,-74.1080157
 Rockefeller University Hospital,"1230 York Avenue, New York, NY 10021",Others,40,"1,200,000",1940,40.7625038,-73.9577278
 RUMC-Bayley Seton,"75 Vanderbilt Avenue, Staten Island, NY 10304",Mount Sinai,25,"502,197",1930,40.622619,-74.0776843
-St. Barnabas Hospital Health System,"4422 Third Avenue, Bronx, NY 10457",Others,422,"421,234",1943,40.853918,-73.8925801
+SBH Health System,"4422 Third Avenue, Bronx, NY 10457",Others,422,"421,234",1943,40.853918,-73.8925801
 St. Johns Episcopal Hospital So Shore,"327 Beach 19th Street, Far Rockaway, NY 11691",Others,257,"119,788",1982,40.598603,-73.7557663
 Staten Island University Hosp-North,"475 Seaview Avenue, Staten Island, NY 10305",Northwell,472,"567,517",1978,40.5847127,-74.0883127
 Staten Island University Hosp-South,"375 Seguine Avenue, Staten Island, NY 10309",Northwell,194,"220,420",1967,40.5167619,-74.1985678
-University Hospital of Brooklyn (Downstate),"445 Lenox Road, Brooklyn, NY 11203",SUNY,342,"1,061,288",1956,40.6550074,-73.9464406
+University Hospital of Brooklyn,"445 Lenox Road, Brooklyn, NY 11203",SUNY,342,"1,061,288",1956,40.6550074,-73.9464406
 Woodhull Medical & Mental Health Center,"760 Broadway, Brooklyn, NY 11206",Health+,364,"835,231",1972,40.6996988,-73.9447003
 Wyckoff Heights Medical Center,"374 Stockholm Street, Brooklyn, NY 11237",Others,324,"360,000",1931,40.704086,-73.919938
+NYU Hospitals Center,"550 First Avenue, New York, NY 10016",NYU Langone,844,"1,153,372",1900,40.7421265,-73.9761529
+NYU Lutheran Medical Center,"150 55th Street, Brooklyn, NY 11220",NYU Langone,444,"460,000",1931,40.6466674,-74.0231122
