@@ -33,27 +33,57 @@ sparcs_2016_NYC <- sparcs_function("https://health.data.ny.gov/resource/gnzp-eka
 sparcs_2015_NYC <- sparcs_function("https://health.data.ny.gov/resource/82xm-y6g8.csv", 2015)
 
 # summarizing
+# sparcs_2017_NYC_summary <- sparcs_2017_NYC %>%
+#   drop_na() %>%
+#   group_by(apr_drg_code, facility_name, race, ethnicity, payment_typology_1, apr_severity_of_illness, age_group) %>%
+#   summarise(patients = n(),
+#             mean_length_of_stay = mean(length_of_stay),
+#             mean_total_charges_day = mean(total_charges_day)) 
+# sparcs_2017_NYC_summary <- inner_join(sparcs_2017_NYC_summary, hospital_info, by = c("facility_name" = "Hospital.N"))
+# sparcs_2016_NYC_summary <- sparcs_2016_NYC %>%
+#   drop_na() %>%
+#   group_by(apr_drg_code, facility_name, race, ethnicity, payment_typology_1, apr_severity_of_illness_description, age_group) %>%
+#   summarise(patients = n(),
+#             mean_length_of_stay = mean(length_of_stay),
+#             mean_total_charges_day = mean(total_charges_day)) 
+# sparcs_2016_NYC_summary <- inner_join(sparcs_2016_NYC_summary, hospital_info, by = c("facility_name" = "Hospital.N"))
+# sparcs_2015_NYC_summary <- sparcs_2015_NYC %>%
+#   drop_na() %>%
+#   group_by(apr_drg_code, facility_name, race, ethnicity, payment_typology_1, apr_severity_of_illness_description, age_group) %>%
+#   summarise(patients = n(),
+#             mean_length_of_stay = mean(length_of_stay),
+#             mean_total_charges_day = mean(total_charges_day))
+# sparcs_2015_NYC_summary <- inner_join(sparcs_2015_NYC_summary, hospital_info, by = c("facility_name" = "Hospital.N"))
+
+# summarizing
 sparcs_2017_NYC_summary <- sparcs_2017_NYC %>%
   drop_na() %>%
-  group_by(apr_drg_code, facility_name, race, ethnicity, payment_typology_1, apr_severity_of_illness, age_group) %>%
-  summarise(patients = n(),
+  mutate(race = ifelse(ethnicity == "Spanish/Hispanic", "Spanish/Hispanic", race)) %>%
+  select(hospital_county:age_group, race,length_of_stay:apr_drg_code,apr_severity_of_illness,payment_typology_1,total_charges_day) %>%
+  group_by(apr_drg_code, facility_name, payment_typology_1, apr_severity_of_illness) %>%
+  summarize(patients = n(),
             mean_length_of_stay = mean(length_of_stay),
-            mean_total_charges_day = mean(total_charges_day)) 
-sparcs_2017_NYC_summary <- inner_join(sparcs_2017_NYC_summary, hospital_info, by = c("facility_name" = "Hospital.N"))
+            mean_total_charges_day = mean(total_charges_day))%>%
+  inner_join(., hospital_info, by = c("facility_name" = "Hospital.N"))
 sparcs_2016_NYC_summary <- sparcs_2016_NYC %>%
   drop_na() %>%
-  group_by(apr_drg_code, facility_name, race, ethnicity, payment_typology_1, apr_severity_of_illness_description, age_group) %>%
-  summarise(patients = n(),
+  mutate(race = ifelse(ethnicity == "Spanish/Hispanic", "Spanish/Hispanic", race)) %>%
+  select(hospital_county:age_group, race,length_of_stay:apr_drg_code,apr_severity_of_illness_description,payment_typology_1,total_charges_day) %>%
+  group_by(apr_drg_code, facility_name, payment_typology_1, apr_severity_of_illness_description) %>%
+  summarize(patients = n(),
             mean_length_of_stay = mean(length_of_stay),
-            mean_total_charges_day = mean(total_charges_day)) 
-sparcs_2016_NYC_summary <- inner_join(sparcs_2016_NYC_summary, hospital_info, by = c("facility_name" = "Hospital.N"))
+            mean_total_charges_day = mean(total_charges_day))%>%
+  inner_join(., hospital_info, by = c("facility_name" = "Hospital.N"))
 sparcs_2015_NYC_summary <- sparcs_2015_NYC %>%
   drop_na() %>%
-  group_by(apr_drg_code, facility_name, race, ethnicity, payment_typology_1, apr_severity_of_illness_description, age_group) %>%
-  summarise(patients = n(),
+  mutate(race = ifelse(ethnicity == "Spanish/Hispanic", "Spanish/Hispanic", race)) %>%
+  select(hospital_county:age_group, race,length_of_stay:apr_drg_code,apr_severity_of_illness_description,payment_typology_1,total_charges_day) %>%
+  group_by(apr_drg_code, facility_name, payment_typology_1, apr_severity_of_illness_description) %>%
+  summarize(patients = n(),
             mean_length_of_stay = mean(length_of_stay),
-            mean_total_charges_day = mean(total_charges_day))
-sparcs_2015_NYC_summary <- inner_join(sparcs_2015_NYC_summary, hospital_info, by = c("facility_name" = "Hospital.N"))
+            mean_total_charges_day = mean(total_charges_day))%>%
+  inner_join(., hospital_info, by = c("facility_name" = "Hospital.N"))
+
 
 # Septicemia
 sparcs_2017_NYC_720_summary <- sparcs_2017_NYC_summary %>%
