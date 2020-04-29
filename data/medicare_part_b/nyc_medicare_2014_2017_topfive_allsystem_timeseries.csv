@@ -120,225 +120,225 @@
 "119","Montefiore","871",2017,"Total_Payments",0.1
 "120","Montefiore","871",2017,"Non_Medicare_Payments",8.5
 "121","Mount Sinai","291",2015,"Discharges",-13
-"122","Mount Sinai","291",2015,"Medicare_Payments",33.5
-"123","Mount Sinai","291",2015,"Total_Payments",35.1
-"124","Mount Sinai","291",2015,"Non_Medicare_Payments",44
+"122","Mount Sinai","291",2015,"Medicare_Payments",26
+"123","Mount Sinai","291",2015,"Total_Payments",27.4
+"124","Mount Sinai","291",2015,"Non_Medicare_Payments",34.6
 "125","Mount Sinai","291",2016,"Discharges",5
-"126","Mount Sinai","291",2016,"Medicare_Payments",-6.3
-"127","Mount Sinai","291",2016,"Total_Payments",-6.9
-"128","Mount Sinai","291",2016,"Non_Medicare_Payments",-9.9
+"126","Mount Sinai","291",2016,"Medicare_Payments",36.1
+"127","Mount Sinai","291",2016,"Total_Payments",32.7
+"128","Mount Sinai","291",2016,"Non_Medicare_Payments",16.8
 "129","Mount Sinai","291",2017,"Discharges",104.8
-"130","Mount Sinai","291",2017,"Medicare_Payments",-16.6
-"131","Mount Sinai","291",2017,"Total_Payments",-15.6
-"132","Mount Sinai","291",2017,"Non_Medicare_Payments",-10
+"130","Mount Sinai","291",2017,"Medicare_Payments",10.3
+"131","Mount Sinai","291",2017,"Total_Payments",11.4
+"132","Mount Sinai","291",2017,"Non_Medicare_Payments",18
 "133","Mount Sinai","312",2015,"Discharges",22.4
-"134","Mount Sinai","312",2015,"Medicare_Payments",-37
-"135","Mount Sinai","312",2015,"Total_Payments",-36.5
-"136","Mount Sinai","312",2015,"Non_Medicare_Payments",-34
+"134","Mount Sinai","312",2015,"Medicare_Payments",-21.2
+"135","Mount Sinai","312",2015,"Total_Payments",-22.2
+"136","Mount Sinai","312",2015,"Non_Medicare_Payments",-26.4
 "137","Mount Sinai","312",2016,"Discharges",-20
-"138","Mount Sinai","312",2016,"Medicare_Payments",14.9
-"139","Mount Sinai","312",2016,"Total_Payments",16.5
-"140","Mount Sinai","312",2016,"Non_Medicare_Payments",23.7
+"138","Mount Sinai","312",2016,"Medicare_Payments",27.6
+"139","Mount Sinai","312",2016,"Total_Payments",30.9
+"140","Mount Sinai","312",2016,"Non_Medicare_Payments",46.4
 "141","Mount Sinai","312",2017,"Discharges",-20.8
-"142","Mount Sinai","312",2017,"Medicare_Payments",4.5
-"143","Mount Sinai","312",2017,"Total_Payments",6
-"144","Mount Sinai","312",2017,"Non_Medicare_Payments",12.2
+"142","Mount Sinai","312",2017,"Medicare_Payments",68.4
+"143","Mount Sinai","312",2017,"Total_Payments",70.9
+"144","Mount Sinai","312",2017,"Non_Medicare_Payments",80.9
 "145","Mount Sinai","392",2015,"Discharges",-13.6
-"146","Mount Sinai","392",2015,"Medicare_Payments",-18.3
-"147","Mount Sinai","392",2015,"Total_Payments",-17.1
-"148","Mount Sinai","392",2015,"Non_Medicare_Payments",-11.8
+"146","Mount Sinai","392",2015,"Medicare_Payments",-14.3
+"147","Mount Sinai","392",2015,"Total_Payments",-15.2
+"148","Mount Sinai","392",2015,"Non_Medicare_Payments",-18.8
 "149","Mount Sinai","392",2016,"Discharges",15.8
-"150","Mount Sinai","392",2016,"Medicare_Payments",-18.6
-"151","Mount Sinai","392",2016,"Total_Payments",-20
-"152","Mount Sinai","392",2016,"Non_Medicare_Payments",-25.1
+"150","Mount Sinai","392",2016,"Medicare_Payments",8
+"151","Mount Sinai","392",2016,"Total_Payments",7.7
+"152","Mount Sinai","392",2016,"Non_Medicare_Payments",6.3
 "153","Mount Sinai","392",2017,"Discharges",-19.7
-"154","Mount Sinai","392",2017,"Medicare_Payments",7.7
-"155","Mount Sinai","392",2017,"Total_Payments",11
-"156","Mount Sinai","392",2017,"Non_Medicare_Payments",24.9
+"154","Mount Sinai","392",2017,"Medicare_Payments",61.1
+"155","Mount Sinai","392",2017,"Total_Payments",65.7
+"156","Mount Sinai","392",2017,"Non_Medicare_Payments",85.3
 "157","Mount Sinai","470",2015,"Discharges",-4.8
-"158","Mount Sinai","470",2015,"Medicare_Payments",-4
-"159","Mount Sinai","470",2015,"Total_Payments",-0.3
-"160","Mount Sinai","470",2015,"Non_Medicare_Payments",17.7
+"158","Mount Sinai","470",2015,"Medicare_Payments",-18.9
+"159","Mount Sinai","470",2015,"Total_Payments",-17.4
+"160","Mount Sinai","470",2015,"Non_Medicare_Payments",-11.6
 "161","Mount Sinai","470",2016,"Discharges",-10
-"162","Mount Sinai","470",2016,"Medicare_Payments",4
-"163","Mount Sinai","470",2016,"Total_Payments",3.2
-"164","Mount Sinai","470",2016,"Non_Medicare_Payments",0.1
+"162","Mount Sinai","470",2016,"Medicare_Payments",64.5
+"163","Mount Sinai","470",2016,"Total_Payments",61.4
+"164","Mount Sinai","470",2016,"Non_Medicare_Payments",49.9
 "165","Mount Sinai","470",2017,"Discharges",938.9
-"166","Mount Sinai","470",2017,"Medicare_Payments",-90.4
-"167","Mount Sinai","470",2017,"Total_Payments",-90
-"168","Mount Sinai","470",2017,"Non_Medicare_Payments",-88.6
+"166","Mount Sinai","470",2017,"Medicare_Payments",-85.9
+"167","Mount Sinai","470",2017,"Total_Payments",-85.4
+"168","Mount Sinai","470",2017,"Non_Medicare_Payments",-83.5
 "169","Mount Sinai","871",2015,"Discharges",7.1
-"170","Mount Sinai","871",2015,"Medicare_Payments",16.9
-"171","Mount Sinai","871",2015,"Total_Payments",17.5
-"172","Mount Sinai","871",2015,"Non_Medicare_Payments",20.8
+"170","Mount Sinai","871",2015,"Medicare_Payments",7.9
+"171","Mount Sinai","871",2015,"Total_Payments",8.8
+"172","Mount Sinai","871",2015,"Non_Medicare_Payments",13.6
 "173","Mount Sinai","871",2016,"Discharges",-5.6
-"174","Mount Sinai","871",2016,"Medicare_Payments",7.2
-"175","Mount Sinai","871",2016,"Total_Payments",7.4
-"176","Mount Sinai","871",2016,"Non_Medicare_Payments",8.8
+"174","Mount Sinai","871",2016,"Medicare_Payments",52.9
+"175","Mount Sinai","871",2016,"Total_Payments",51.2
+"176","Mount Sinai","871",2016,"Non_Medicare_Payments",42.5
 "177","Mount Sinai","871",2017,"Discharges",-17.6
-"178","Mount Sinai","871",2017,"Medicare_Payments",54.3
-"179","Mount Sinai","871",2017,"Total_Payments",57.4
-"180","Mount Sinai","871",2017,"Non_Medicare_Payments",74.7
-"181","NewYork-Presbyterian","291",2015,"Discharges",28.8
-"182","NewYork-Presbyterian","291",2015,"Medicare_Payments",-19.4
-"183","NewYork-Presbyterian","291",2015,"Total_Payments",-19.7
-"184","NewYork-Presbyterian","291",2015,"Non_Medicare_Payments",-21.1
-"185","NewYork-Presbyterian","291",2016,"Discharges",-1.8
-"186","NewYork-Presbyterian","291",2016,"Medicare_Payments",8.7
-"187","NewYork-Presbyterian","291",2016,"Total_Payments",9.3
-"188","NewYork-Presbyterian","291",2016,"Non_Medicare_Payments",13
-"189","NewYork-Presbyterian","291",2017,"Discharges",61.6
-"190","NewYork-Presbyterian","291",2017,"Medicare_Payments",-13.7
-"191","NewYork-Presbyterian","291",2017,"Total_Payments",-15.3
-"192","NewYork-Presbyterian","291",2017,"Non_Medicare_Payments",-24.4
-"193","NewYork-Presbyterian","312",2015,"Discharges",-6
-"194","NewYork-Presbyterian","312",2015,"Medicare_Payments",5.8
-"195","NewYork-Presbyterian","312",2015,"Total_Payments",5.3
-"196","NewYork-Presbyterian","312",2015,"Non_Medicare_Payments",3.4
-"197","NewYork-Presbyterian","312",2016,"Discharges",5.7
-"198","NewYork-Presbyterian","312",2016,"Medicare_Payments",-10.2
-"199","NewYork-Presbyterian","312",2016,"Total_Payments",-9.9
-"200","NewYork-Presbyterian","312",2016,"Non_Medicare_Payments",-8.7
-"201","NewYork-Presbyterian","312",2017,"Discharges",-40.5
-"202","NewYork-Presbyterian","312",2017,"Medicare_Payments",71.4
-"203","NewYork-Presbyterian","312",2017,"Total_Payments",66
-"204","NewYork-Presbyterian","312",2017,"Non_Medicare_Payments",44.3
-"205","NewYork-Presbyterian","392",2015,"Discharges",-0.9
-"206","NewYork-Presbyterian","392",2015,"Medicare_Payments",-12.7
-"207","NewYork-Presbyterian","392",2015,"Total_Payments",-12.8
-"208","NewYork-Presbyterian","392",2015,"Non_Medicare_Payments",-13
-"209","NewYork-Presbyterian","392",2016,"Discharges",-21.3
-"210","NewYork-Presbyterian","392",2016,"Medicare_Payments",12.5
-"211","NewYork-Presbyterian","392",2016,"Total_Payments",13.6
-"212","NewYork-Presbyterian","392",2016,"Non_Medicare_Payments",18.1
-"213","NewYork-Presbyterian","392",2017,"Discharges",-22.1
-"214","NewYork-Presbyterian","392",2017,"Medicare_Payments",23.5
-"215","NewYork-Presbyterian","392",2017,"Total_Payments",22.9
-"216","NewYork-Presbyterian","392",2017,"Non_Medicare_Payments",20.8
-"217","NewYork-Presbyterian","470",2015,"Discharges",3.1
-"218","NewYork-Presbyterian","470",2015,"Medicare_Payments",-0.7
-"219","NewYork-Presbyterian","470",2015,"Total_Payments",-2.1
-"220","NewYork-Presbyterian","470",2015,"Non_Medicare_Payments",-5.7
-"221","NewYork-Presbyterian","470",2016,"Discharges",30.8
+"178","Mount Sinai","871",2017,"Medicare_Payments",116.6
+"179","Mount Sinai","871",2017,"Total_Payments",119.4
+"180","Mount Sinai","871",2017,"Non_Medicare_Payments",134.2
+"181","NewYork-Presbyterian","291",2015,"Discharges",-77.8
+"182","NewYork-Presbyterian","291",2015,"Medicare_Payments",454.4
+"183","NewYork-Presbyterian","291",2015,"Total_Payments",444.1
+"184","NewYork-Presbyterian","291",2015,"Non_Medicare_Payments",391.4
+"185","NewYork-Presbyterian","291",2016,"Discharges",-24.8
+"186","NewYork-Presbyterian","291",2016,"Medicare_Payments",45.5
+"187","NewYork-Presbyterian","291",2016,"Total_Payments",47.4
+"188","NewYork-Presbyterian","291",2016,"Non_Medicare_Payments",58.7
+"189","NewYork-Presbyterian","291",2017,"Discharges",358.2
+"190","NewYork-Presbyterian","291",2017,"Medicare_Payments",-61.3
+"191","NewYork-Presbyterian","291",2017,"Total_Payments",-62.5
+"192","NewYork-Presbyterian","291",2017,"Non_Medicare_Payments",-68.7
+"193","NewYork-Presbyterian","312",2015,"Discharges",-79.5
+"194","NewYork-Presbyterian","312",2015,"Medicare_Payments",474.8
+"195","NewYork-Presbyterian","312",2015,"Total_Payments",465.9
+"196","NewYork-Presbyterian","312",2015,"Non_Medicare_Payments",433.6
+"197","NewYork-Presbyterian","312",2016,"Discharges",-12
+"198","NewYork-Presbyterian","312",2016,"Medicare_Payments",5
+"199","NewYork-Presbyterian","312",2016,"Total_Payments",4.8
+"200","NewYork-Presbyterian","312",2016,"Non_Medicare_Payments",4.1
+"201","NewYork-Presbyterian","312",2017,"Discharges",0
+"202","NewYork-Presbyterian","312",2017,"Medicare_Payments",29.8
+"203","NewYork-Presbyterian","312",2017,"Total_Payments",25.4
+"204","NewYork-Presbyterian","312",2017,"Non_Medicare_Payments",8.1
+"205","NewYork-Presbyterian","392",2015,"Discharges",-79
+"206","NewYork-Presbyterian","392",2015,"Medicare_Payments",365.2
+"207","NewYork-Presbyterian","392",2015,"Total_Payments",363.3
+"208","NewYork-Presbyterian","392",2015,"Non_Medicare_Payments",356.1
+"209","NewYork-Presbyterian","392",2016,"Discharges",9.4
+"210","NewYork-Presbyterian","392",2016,"Medicare_Payments",-15.8
+"211","NewYork-Presbyterian","392",2016,"Total_Payments",-15
+"212","NewYork-Presbyterian","392",2016,"Non_Medicare_Payments",-11.9
+"213","NewYork-Presbyterian","392",2017,"Discharges",-6.6
+"214","NewYork-Presbyterian","392",2017,"Medicare_Payments",33.2
+"215","NewYork-Presbyterian","392",2017,"Total_Payments",32
+"216","NewYork-Presbyterian","392",2017,"Non_Medicare_Payments",27.6
+"217","NewYork-Presbyterian","470",2015,"Discharges",-99.7
+"218","NewYork-Presbyterian","470",2015,"Medicare_Payments",33074.3
+"219","NewYork-Presbyterian","470",2015,"Total_Payments",32210.2
+"220","NewYork-Presbyterian","470",2015,"Non_Medicare_Payments",30155
+"221","NewYork-Presbyterian","470",2016,"Discharges",7.1
 "222","NewYork-Presbyterian","470",2016,"Medicare_Payments",NA
 "223","NewYork-Presbyterian","470",2016,"Total_Payments",NA
 "224","NewYork-Presbyterian","470",2016,"Non_Medicare_Payments",NA
-"225","NewYork-Presbyterian","470",2017,"Discharges",-2.9
+"225","NewYork-Presbyterian","470",2017,"Discharges",1026.7
 "226","NewYork-Presbyterian","470",2017,"Medicare_Payments",NA
 "227","NewYork-Presbyterian","470",2017,"Total_Payments",NA
 "228","NewYork-Presbyterian","470",2017,"Non_Medicare_Payments",NA
-"229","NewYork-Presbyterian","871",2015,"Discharges",7.4
-"230","NewYork-Presbyterian","871",2015,"Medicare_Payments",-8.5
-"231","NewYork-Presbyterian","871",2015,"Total_Payments",-10.3
-"232","NewYork-Presbyterian","871",2015,"Non_Medicare_Payments",-20.1
-"233","NewYork-Presbyterian","871",2016,"Discharges",8.1
-"234","NewYork-Presbyterian","871",2016,"Medicare_Payments",-10.6
-"235","NewYork-Presbyterian","871",2016,"Total_Payments",-10.7
-"236","NewYork-Presbyterian","871",2016,"Non_Medicare_Payments",-11.4
-"237","NewYork-Presbyterian","871",2017,"Discharges",17.8
-"238","NewYork-Presbyterian","871",2017,"Medicare_Payments",-8.7
-"239","NewYork-Presbyterian","871",2017,"Total_Payments",-8.8
-"240","NewYork-Presbyterian","871",2017,"Non_Medicare_Payments",-9.8
+"229","NewYork-Presbyterian","871",2015,"Discharges",-91.5
+"230","NewYork-Presbyterian","871",2015,"Medicare_Payments",2081.2
+"231","NewYork-Presbyterian","871",2015,"Total_Payments",1948.3
+"232","NewYork-Presbyterian","871",2015,"Non_Medicare_Payments",1398.3
+"233","NewYork-Presbyterian","871",2016,"Discharges",20.3
+"234","NewYork-Presbyterian","871",2016,"Medicare_Payments",-20.8
+"235","NewYork-Presbyterian","871",2016,"Total_Payments",-21
+"236","NewYork-Presbyterian","871",2016,"Non_Medicare_Payments",-22.5
+"237","NewYork-Presbyterian","871",2017,"Discharges",480.9
+"238","NewYork-Presbyterian","871",2017,"Medicare_Payments",-77.2
+"239","NewYork-Presbyterian","871",2017,"Total_Payments",-77.3
+"240","NewYork-Presbyterian","871",2017,"Non_Medicare_Payments",-78.1
 "241","Northwell","291",2015,"Discharges",-1.3
-"242","Northwell","291",2015,"Medicare_Payments",12.8
-"243","Northwell","291",2015,"Total_Payments",16.4
-"244","Northwell","291",2015,"Non_Medicare_Payments",41.7
+"242","Northwell","291",2015,"Medicare_Payments",15.8
+"243","Northwell","291",2015,"Total_Payments",19.7
+"244","Northwell","291",2015,"Non_Medicare_Payments",45.4
 "245","Northwell","291",2016,"Discharges",3.8
-"246","Northwell","291",2016,"Medicare_Payments",15.7
-"247","Northwell","291",2016,"Total_Payments",11
-"248","Northwell","291",2016,"Non_Medicare_Payments",-15.8
+"246","Northwell","291",2016,"Medicare_Payments",26.9
+"247","Northwell","291",2016,"Total_Payments",20.6
+"248","Northwell","291",2016,"Non_Medicare_Payments",-12.3
 "249","Northwell","291",2017,"Discharges",133.3
-"250","Northwell","291",2017,"Medicare_Payments",-20.6
-"251","Northwell","291",2017,"Total_Payments",-19.5
-"252","Northwell","291",2017,"Non_Medicare_Payments",-10.5
+"250","Northwell","291",2017,"Medicare_Payments",-16.8
+"251","Northwell","291",2017,"Total_Payments",-15.7
+"252","Northwell","291",2017,"Non_Medicare_Payments",-7.8
 "253","Northwell","312",2015,"Discharges",-39.3
-"254","Northwell","312",2015,"Medicare_Payments",35.9
-"255","Northwell","312",2015,"Total_Payments",33.9
-"256","Northwell","312",2015,"Non_Medicare_Payments",26.2
+"254","Northwell","312",2015,"Medicare_Payments",35.3
+"255","Northwell","312",2015,"Total_Payments",33.8
+"256","Northwell","312",2015,"Non_Medicare_Payments",28
 "257","Northwell","312",2016,"Discharges",-26.8
-"258","Northwell","312",2016,"Medicare_Payments",38.9
-"259","Northwell","312",2016,"Total_Payments",43.3
-"260","Northwell","312",2016,"Non_Medicare_Payments",62.5
+"258","Northwell","312",2016,"Medicare_Payments",78.2
+"259","Northwell","312",2016,"Total_Payments",80
+"260","Northwell","312",2016,"Non_Medicare_Payments",87.4
 "261","Northwell","312",2017,"Discharges",-5.8
-"262","Northwell","312",2017,"Medicare_Payments",19.1
-"263","Northwell","312",2017,"Total_Payments",16.6
-"264","Northwell","312",2017,"Non_Medicare_Payments",7.8
+"262","Northwell","312",2017,"Medicare_Payments",24.2
+"263","Northwell","312",2017,"Total_Payments",22.5
+"264","Northwell","312",2017,"Non_Medicare_Payments",15.8
 "265","Northwell","392",2015,"Discharges",-34.3
-"266","Northwell","392",2015,"Medicare_Payments",11.1
-"267","Northwell","392",2015,"Total_Payments",11.4
-"268","Northwell","392",2015,"Non_Medicare_Payments",12.2
+"266","Northwell","392",2015,"Medicare_Payments",6.2
+"267","Northwell","392",2015,"Total_Payments",7.4
+"268","Northwell","392",2015,"Non_Medicare_Payments",11.9
 "269","Northwell","392",2016,"Discharges",-31.9
-"270","Northwell","392",2016,"Medicare_Payments",49.3
-"271","Northwell","392",2016,"Total_Payments",47.9
-"272","Northwell","392",2016,"Non_Medicare_Payments",42.2
+"270","Northwell","392",2016,"Medicare_Payments",81.9
+"271","Northwell","392",2016,"Total_Payments",78.4
+"272","Northwell","392",2016,"Non_Medicare_Payments",65.5
 "273","Northwell","392",2017,"Discharges",-14.8
-"274","Northwell","392",2017,"Medicare_Payments",28
-"275","Northwell","392",2017,"Total_Payments",31.4
-"276","Northwell","392",2017,"Non_Medicare_Payments",45.3
+"274","Northwell","392",2017,"Medicare_Payments",35.6
+"275","Northwell","392",2017,"Total_Payments",38.8
+"276","Northwell","392",2017,"Non_Medicare_Payments",51.5
 "277","Northwell","470",2015,"Discharges",4.3
-"278","Northwell","470",2015,"Medicare_Payments",4.1
-"279","Northwell","470",2015,"Total_Payments",1.1
-"280","Northwell","470",2015,"Non_Medicare_Payments",-9.9
+"278","Northwell","470",2015,"Medicare_Payments",4.8
+"279","Northwell","470",2015,"Total_Payments",2.4
+"280","Northwell","470",2015,"Non_Medicare_Payments",-6.6
 "281","Northwell","470",2016,"Discharges",10.5
-"282","Northwell","470",2016,"Medicare_Payments",11.9
-"283","Northwell","470",2016,"Total_Payments",8.6
-"284","Northwell","470",2016,"Non_Medicare_Payments",-4.8
+"282","Northwell","470",2016,"Medicare_Payments",15.4
+"283","Northwell","470",2016,"Total_Payments",12.1
+"284","Northwell","470",2016,"Non_Medicare_Payments",-1.5
 "285","Northwell","470",2017,"Discharges",-22.7
-"286","Northwell","470",2017,"Medicare_Payments",17
-"287","Northwell","470",2017,"Total_Payments",16.1
-"288","Northwell","470",2017,"Non_Medicare_Payments",11.7
+"286","Northwell","470",2017,"Medicare_Payments",19.1
+"287","Northwell","470",2017,"Total_Payments",18
+"288","Northwell","470",2017,"Non_Medicare_Payments",12.8
 "289","Northwell","871",2015,"Discharges",47.8
-"290","Northwell","871",2015,"Medicare_Payments",-21.9
-"291","Northwell","871",2015,"Total_Payments",-21.4
-"292","Northwell","871",2015,"Non_Medicare_Payments",-17.4
+"290","Northwell","871",2015,"Medicare_Payments",-21.8
+"291","Northwell","871",2015,"Total_Payments",-21.2
+"292","Northwell","871",2015,"Non_Medicare_Payments",-16.8
 "293","Northwell","871",2016,"Discharges",1.3
-"294","Northwell","871",2016,"Medicare_Payments",4.3
-"295","Northwell","871",2016,"Total_Payments",4.7
-"296","Northwell","871",2016,"Non_Medicare_Payments",7.6
+"294","Northwell","871",2016,"Medicare_Payments",18
+"295","Northwell","871",2016,"Total_Payments",17.6
+"296","Northwell","871",2016,"Non_Medicare_Payments",15
 "297","Northwell","871",2017,"Discharges",32.6
-"298","Northwell","871",2017,"Medicare_Payments",-17.9
-"299","Northwell","871",2017,"Total_Payments",-18.4
-"300","Northwell","871",2017,"Non_Medicare_Payments",-21.4
-"301","NYU Langone","291",2015,"Discharges",23.2
-"302","NYU Langone","291",2015,"Medicare_Payments",-5.1
-"303","NYU Langone","291",2015,"Total_Payments",0.7
-"304","NYU Langone","291",2015,"Non_Medicare_Payments",38.7
-"305","NYU Langone","291",2016,"Discharges",6.4
-"306","NYU Langone","291",2016,"Medicare_Payments",3.8
-"307","NYU Langone","291",2016,"Total_Payments",1.4
-"308","NYU Langone","291",2016,"Non_Medicare_Payments",-9.1
-"309","NYU Langone","291",2017,"Discharges",75.5
-"310","NYU Langone","291",2017,"Medicare_Payments",0.3
-"311","NYU Langone","291",2017,"Total_Payments",-0.5
-"312","NYU Langone","291",2017,"Non_Medicare_Payments",-5.1
-"313","NYU Langone","312",2015,"Discharges",-19.6
-"314","NYU Langone","312",2015,"Medicare_Payments",-1.6
-"315","NYU Langone","312",2015,"Total_Payments",0.9
-"316","NYU Langone","312",2015,"Non_Medicare_Payments",10.8
-"317","NYU Langone","312",2016,"Discharges",-19.1
-"318","NYU Langone","312",2016,"Medicare_Payments",3.2
-"319","NYU Langone","312",2016,"Total_Payments",10.4
-"320","NYU Langone","312",2016,"Non_Medicare_Payments",36.3
-"321","NYU Langone","312",2017,"Discharges",-9.7
-"322","NYU Langone","312",2017,"Medicare_Payments",7.9
-"323","NYU Langone","312",2017,"Total_Payments",-5.8
-"324","NYU Langone","312",2017,"Non_Medicare_Payments",-43
-"325","NYU Langone","392",2015,"Discharges",-12.9
-"326","NYU Langone","392",2015,"Medicare_Payments",-1.1
-"327","NYU Langone","392",2015,"Total_Payments",1.5
-"328","NYU Langone","392",2015,"Non_Medicare_Payments",10.2
-"329","NYU Langone","392",2016,"Discharges",-12.7
-"330","NYU Langone","392",2016,"Medicare_Payments",-9
-"331","NYU Langone","392",2016,"Total_Payments",-6.5
-"332","NYU Langone","392",2016,"Non_Medicare_Payments",0.9
-"333","NYU Langone","392",2017,"Discharges",1.2
-"334","NYU Langone","392",2017,"Medicare_Payments",14.6
-"335","NYU Langone","392",2017,"Total_Payments",4.5
-"336","NYU Langone","392",2017,"Non_Medicare_Payments",-22.6
-"337","NYU Langone","470",2015,"Discharges",6.1
-"338","NYU Langone","470",2015,"Medicare_Payments",-4
-"339","NYU Langone","470",2015,"Total_Payments",1.3
-"340","NYU Langone","470",2015,"Non_Medicare_Payments",18.8
+"298","Northwell","871",2017,"Medicare_Payments",-13.2
+"299","Northwell","871",2017,"Total_Payments",-14
+"300","Northwell","871",2017,"Non_Medicare_Payments",-19.2
+"301","NYU Langone","291",2015,"Discharges",NA
+"302","NYU Langone","291",2015,"Medicare_Payments",NA
+"303","NYU Langone","291",2015,"Total_Payments",NA
+"304","NYU Langone","291",2015,"Non_Medicare_Payments",NA
+"305","NYU Langone","291",2016,"Discharges",NA
+"306","NYU Langone","291",2016,"Medicare_Payments",NA
+"307","NYU Langone","291",2016,"Total_Payments",NA
+"308","NYU Langone","291",2016,"Non_Medicare_Payments",NA
+"309","NYU Langone","291",2017,"Discharges",NA
+"310","NYU Langone","291",2017,"Medicare_Payments",NA
+"311","NYU Langone","291",2017,"Total_Payments",NA
+"312","NYU Langone","291",2017,"Non_Medicare_Payments",NA
+"313","NYU Langone","312",2015,"Discharges",NA
+"314","NYU Langone","312",2015,"Medicare_Payments",NA
+"315","NYU Langone","312",2015,"Total_Payments",NA
+"316","NYU Langone","312",2015,"Non_Medicare_Payments",NA
+"317","NYU Langone","312",2016,"Discharges",NA
+"318","NYU Langone","312",2016,"Medicare_Payments",NA
+"319","NYU Langone","312",2016,"Total_Payments",NA
+"320","NYU Langone","312",2016,"Non_Medicare_Payments",NA
+"321","NYU Langone","312",2017,"Discharges",NA
+"322","NYU Langone","312",2017,"Medicare_Payments",NA
+"323","NYU Langone","312",2017,"Total_Payments",NA
+"324","NYU Langone","312",2017,"Non_Medicare_Payments",NA
+"325","NYU Langone","392",2015,"Discharges",NA
+"326","NYU Langone","392",2015,"Medicare_Payments",NA
+"327","NYU Langone","392",2015,"Total_Payments",NA
+"328","NYU Langone","392",2015,"Non_Medicare_Payments",NA
+"329","NYU Langone","392",2016,"Discharges",NA
+"330","NYU Langone","392",2016,"Medicare_Payments",NA
+"331","NYU Langone","392",2016,"Total_Payments",NA
+"332","NYU Langone","392",2016,"Non_Medicare_Payments",NA
+"333","NYU Langone","392",2017,"Discharges",NA
+"334","NYU Langone","392",2017,"Medicare_Payments",NA
+"335","NYU Langone","392",2017,"Total_Payments",NA
+"336","NYU Langone","392",2017,"Non_Medicare_Payments",NA
+"337","NYU Langone","470",2015,"Discharges",NA
+"338","NYU Langone","470",2015,"Medicare_Payments",NA
+"339","NYU Langone","470",2015,"Total_Payments",NA
+"340","NYU Langone","470",2015,"Non_Medicare_Payments",NA
 "341","NYU Langone","470",2016,"Discharges",NA
 "342","NYU Langone","470",2016,"Medicare_Payments",NA
 "343","NYU Langone","470",2016,"Total_Payments",NA
@@ -347,18 +347,18 @@
 "346","NYU Langone","470",2017,"Medicare_Payments",NA
 "347","NYU Langone","470",2017,"Total_Payments",NA
 "348","NYU Langone","470",2017,"Non_Medicare_Payments",NA
-"349","NYU Langone","871",2015,"Discharges",28.9
-"350","NYU Langone","871",2015,"Medicare_Payments",-10.8
-"351","NYU Langone","871",2015,"Total_Payments",-7.9
-"352","NYU Langone","871",2015,"Non_Medicare_Payments",10.4
-"353","NYU Langone","871",2016,"Discharges",-6.9
-"354","NYU Langone","871",2016,"Medicare_Payments",1
-"355","NYU Langone","871",2016,"Total_Payments",0.7
-"356","NYU Langone","871",2016,"Non_Medicare_Payments",-1.2
-"357","NYU Langone","871",2017,"Discharges",20.4
-"358","NYU Langone","871",2017,"Medicare_Payments",9.2
-"359","NYU Langone","871",2017,"Total_Payments",8.1
-"360","NYU Langone","871",2017,"Non_Medicare_Payments",2.2
+"349","NYU Langone","871",2015,"Discharges",NA
+"350","NYU Langone","871",2015,"Medicare_Payments",NA
+"351","NYU Langone","871",2015,"Total_Payments",NA
+"352","NYU Langone","871",2015,"Non_Medicare_Payments",NA
+"353","NYU Langone","871",2016,"Discharges",NA
+"354","NYU Langone","871",2016,"Medicare_Payments",NA
+"355","NYU Langone","871",2016,"Total_Payments",NA
+"356","NYU Langone","871",2016,"Non_Medicare_Payments",NA
+"357","NYU Langone","871",2017,"Discharges",NA
+"358","NYU Langone","871",2017,"Medicare_Payments",NA
+"359","NYU Langone","871",2017,"Total_Payments",NA
+"360","NYU Langone","871",2017,"Non_Medicare_Payments",NA
 "361","SUNY","291",2015,"Discharges",20.4
 "362","SUNY","291",2015,"Medicare_Payments",-15.1
 "363","SUNY","291",2015,"Total_Payments",-12.4
@@ -419,399 +419,399 @@
 "418","SUNY","871",2017,"Medicare_Payments",20.1
 "419","SUNY","871",2017,"Total_Payments",22.3
 "420","SUNY","871",2017,"Non_Medicare_Payments",32.9
-"421","BROOKDALE HOSPITAL MEDICAL CENTER","291",2015,"Discharges",-2.4
-"422","BROOKDALE HOSPITAL MEDICAL CENTER","291",2015,"Medicare_Payments",-8.6
-"423","BROOKDALE HOSPITAL MEDICAL CENTER","291",2015,"Total_Payments",-9.3
-"424","BROOKDALE HOSPITAL MEDICAL CENTER","291",2015,"Non_Medicare_Payments",-14.1
-"425","BROOKDALE HOSPITAL MEDICAL CENTER","291",2016,"Discharges",92.5
-"426","BROOKDALE HOSPITAL MEDICAL CENTER","291",2016,"Medicare_Payments",-4.2
-"427","BROOKDALE HOSPITAL MEDICAL CENTER","291",2016,"Total_Payments",-4
-"428","BROOKDALE HOSPITAL MEDICAL CENTER","291",2016,"Non_Medicare_Payments",-2.6
-"429","BROOKDALE HOSPITAL MEDICAL CENTER","291",2017,"Discharges",23.4
-"430","BROOKDALE HOSPITAL MEDICAL CENTER","291",2017,"Medicare_Payments",6.6
-"431","BROOKDALE HOSPITAL MEDICAL CENTER","291",2017,"Total_Payments",6
-"432","BROOKDALE HOSPITAL MEDICAL CENTER","291",2017,"Non_Medicare_Payments",1.8
-"433","BROOKDALE HOSPITAL MEDICAL CENTER","312",2015,"Discharges",-48.7
-"434","BROOKDALE HOSPITAL MEDICAL CENTER","312",2015,"Medicare_Payments",-12.1
-"435","BROOKDALE HOSPITAL MEDICAL CENTER","312",2015,"Total_Payments",-6.7
-"436","BROOKDALE HOSPITAL MEDICAL CENTER","312",2015,"Non_Medicare_Payments",25.7
-"437","BROOKDALE HOSPITAL MEDICAL CENTER","312",2016,"Discharges",-20
-"438","BROOKDALE HOSPITAL MEDICAL CENTER","312",2016,"Medicare_Payments",-3
-"439","BROOKDALE HOSPITAL MEDICAL CENTER","312",2016,"Total_Payments",-5.4
-"440","BROOKDALE HOSPITAL MEDICAL CENTER","312",2016,"Non_Medicare_Payments",-15.1
-"441","BROOKDALE HOSPITAL MEDICAL CENTER","312",2017,"Discharges",-34.4
-"442","BROOKDALE HOSPITAL MEDICAL CENTER","312",2017,"Medicare_Payments",9
-"443","BROOKDALE HOSPITAL MEDICAL CENTER","312",2017,"Total_Payments",7.9
-"444","BROOKDALE HOSPITAL MEDICAL CENTER","312",2017,"Non_Medicare_Payments",2.7
-"445","BROOKDALE HOSPITAL MEDICAL CENTER","392",2015,"Discharges",-57.5
-"446","BROOKDALE HOSPITAL MEDICAL CENTER","392",2015,"Medicare_Payments",-14.7
-"447","BROOKDALE HOSPITAL MEDICAL CENTER","392",2015,"Total_Payments",-10.7
-"448","BROOKDALE HOSPITAL MEDICAL CENTER","392",2015,"Non_Medicare_Payments",17.1
-"449","BROOKDALE HOSPITAL MEDICAL CENTER","392",2016,"Discharges",58.8
-"450","BROOKDALE HOSPITAL MEDICAL CENTER","392",2016,"Medicare_Payments",-1.9
-"451","BROOKDALE HOSPITAL MEDICAL CENTER","392",2016,"Total_Payments",-1.8
-"452","BROOKDALE HOSPITAL MEDICAL CENTER","392",2016,"Non_Medicare_Payments",-1.1
-"453","BROOKDALE HOSPITAL MEDICAL CENTER","392",2017,"Discharges",-59.3
-"454","BROOKDALE HOSPITAL MEDICAL CENTER","392",2017,"Medicare_Payments",1.6
-"455","BROOKDALE HOSPITAL MEDICAL CENTER","392",2017,"Total_Payments",6.4
-"456","BROOKDALE HOSPITAL MEDICAL CENTER","392",2017,"Non_Medicare_Payments",29.7
-"457","BROOKDALE HOSPITAL MEDICAL CENTER","470",2015,"Discharges",NA
-"458","BROOKDALE HOSPITAL MEDICAL CENTER","470",2015,"Medicare_Payments",NA
-"459","BROOKDALE HOSPITAL MEDICAL CENTER","470",2015,"Total_Payments",NA
-"460","BROOKDALE HOSPITAL MEDICAL CENTER","470",2015,"Non_Medicare_Payments",NA
-"461","BROOKDALE HOSPITAL MEDICAL CENTER","470",2016,"Discharges",NA
-"462","BROOKDALE HOSPITAL MEDICAL CENTER","470",2016,"Medicare_Payments",NA
-"463","BROOKDALE HOSPITAL MEDICAL CENTER","470",2016,"Total_Payments",NA
-"464","BROOKDALE HOSPITAL MEDICAL CENTER","470",2016,"Non_Medicare_Payments",NA
-"465","BROOKDALE HOSPITAL MEDICAL CENTER","470",2017,"Discharges",NA
-"466","BROOKDALE HOSPITAL MEDICAL CENTER","470",2017,"Medicare_Payments",NA
-"467","BROOKDALE HOSPITAL MEDICAL CENTER","470",2017,"Total_Payments",NA
-"468","BROOKDALE HOSPITAL MEDICAL CENTER","470",2017,"Non_Medicare_Payments",NA
-"469","BROOKDALE HOSPITAL MEDICAL CENTER","871",2015,"Discharges",25.7
-"470","BROOKDALE HOSPITAL MEDICAL CENTER","871",2015,"Medicare_Payments",-14.4
-"471","BROOKDALE HOSPITAL MEDICAL CENTER","871",2015,"Total_Payments",-17.3
-"472","BROOKDALE HOSPITAL MEDICAL CENTER","871",2015,"Non_Medicare_Payments",-36.2
-"473","BROOKDALE HOSPITAL MEDICAL CENTER","871",2016,"Discharges",-26.8
-"474","BROOKDALE HOSPITAL MEDICAL CENTER","871",2016,"Medicare_Payments",-3.2
-"475","BROOKDALE HOSPITAL MEDICAL CENTER","871",2016,"Total_Payments",-2.4
-"476","BROOKDALE HOSPITAL MEDICAL CENTER","871",2016,"Non_Medicare_Payments",4.7
-"477","BROOKDALE HOSPITAL MEDICAL CENTER","871",2017,"Discharges",49.5
-"478","BROOKDALE HOSPITAL MEDICAL CENTER","871",2017,"Medicare_Payments",7.8
-"479","BROOKDALE HOSPITAL MEDICAL CENTER","871",2017,"Total_Payments",10.2
-"480","BROOKDALE HOSPITAL MEDICAL CENTER","871",2017,"Non_Medicare_Payments",29.6
-"481","FLUSHING HOSPITAL MEDICAL CENTER","291",2015,"Discharges",-1.7
-"482","FLUSHING HOSPITAL MEDICAL CENTER","291",2015,"Medicare_Payments",-3.8
-"483","FLUSHING HOSPITAL MEDICAL CENTER","291",2015,"Total_Payments",-3.3
-"484","FLUSHING HOSPITAL MEDICAL CENTER","291",2015,"Non_Medicare_Payments",-0.1
-"485","FLUSHING HOSPITAL MEDICAL CENTER","291",2016,"Discharges",-30.5
-"486","FLUSHING HOSPITAL MEDICAL CENTER","291",2016,"Medicare_Payments",7.3
-"487","FLUSHING HOSPITAL MEDICAL CENTER","291",2016,"Total_Payments",14.6
-"488","FLUSHING HOSPITAL MEDICAL CENTER","291",2016,"Non_Medicare_Payments",61
-"489","FLUSHING HOSPITAL MEDICAL CENTER","291",2017,"Discharges",68.3
-"490","FLUSHING HOSPITAL MEDICAL CENTER","291",2017,"Medicare_Payments",-6.6
-"491","FLUSHING HOSPITAL MEDICAL CENTER","291",2017,"Total_Payments",-13.3
-"492","FLUSHING HOSPITAL MEDICAL CENTER","291",2017,"Non_Medicare_Payments",-42
-"493","FLUSHING HOSPITAL MEDICAL CENTER","312",2015,"Discharges",13.1
-"494","FLUSHING HOSPITAL MEDICAL CENTER","312",2015,"Medicare_Payments",-2.4
-"495","FLUSHING HOSPITAL MEDICAL CENTER","312",2015,"Total_Payments",-1
-"496","FLUSHING HOSPITAL MEDICAL CENTER","312",2015,"Non_Medicare_Payments",6.3
-"497","FLUSHING HOSPITAL MEDICAL CENTER","312",2016,"Discharges",7.1
-"498","FLUSHING HOSPITAL MEDICAL CENTER","312",2016,"Medicare_Payments",2.7
-"499","FLUSHING HOSPITAL MEDICAL CENTER","312",2016,"Total_Payments",1.2
-"500","FLUSHING HOSPITAL MEDICAL CENTER","312",2016,"Non_Medicare_Payments",-6.2
-"501","FLUSHING HOSPITAL MEDICAL CENTER","312",2017,"Discharges",-34.2
-"502","FLUSHING HOSPITAL MEDICAL CENTER","312",2017,"Medicare_Payments",-2.4
-"503","FLUSHING HOSPITAL MEDICAL CENTER","312",2017,"Total_Payments",3
-"504","FLUSHING HOSPITAL MEDICAL CENTER","312",2017,"Non_Medicare_Payments",31.3
-"505","FLUSHING HOSPITAL MEDICAL CENTER","392",2015,"Discharges",-2.4
-"506","FLUSHING HOSPITAL MEDICAL CENTER","392",2015,"Medicare_Payments",-1
-"507","FLUSHING HOSPITAL MEDICAL CENTER","392",2015,"Total_Payments",-4.5
-"508","FLUSHING HOSPITAL MEDICAL CENTER","392",2015,"Non_Medicare_Payments",-17.5
-"509","FLUSHING HOSPITAL MEDICAL CENTER","392",2016,"Discharges",17.5
-"510","FLUSHING HOSPITAL MEDICAL CENTER","392",2016,"Medicare_Payments",0.2
-"511","FLUSHING HOSPITAL MEDICAL CENTER","392",2016,"Total_Payments",3.1
-"512","FLUSHING HOSPITAL MEDICAL CENTER","392",2016,"Non_Medicare_Payments",16.2
-"513","FLUSHING HOSPITAL MEDICAL CENTER","392",2017,"Discharges",10.6
-"514","FLUSHING HOSPITAL MEDICAL CENTER","392",2017,"Medicare_Payments",-1.3
-"515","FLUSHING HOSPITAL MEDICAL CENTER","392",2017,"Total_Payments",-3.7
-"516","FLUSHING HOSPITAL MEDICAL CENTER","392",2017,"Non_Medicare_Payments",-12.8
-"517","FLUSHING HOSPITAL MEDICAL CENTER","470",2015,"Discharges",-27.3
-"518","FLUSHING HOSPITAL MEDICAL CENTER","470",2015,"Medicare_Payments",-5.5
-"519","FLUSHING HOSPITAL MEDICAL CENTER","470",2015,"Total_Payments",-4.3
-"520","FLUSHING HOSPITAL MEDICAL CENTER","470",2015,"Non_Medicare_Payments",7.2
-"521","FLUSHING HOSPITAL MEDICAL CENTER","470",2016,"Discharges",8.3
-"522","FLUSHING HOSPITAL MEDICAL CENTER","470",2016,"Medicare_Payments",0.3
-"523","FLUSHING HOSPITAL MEDICAL CENTER","470",2016,"Total_Payments",4.9
-"524","FLUSHING HOSPITAL MEDICAL CENTER","470",2016,"Non_Medicare_Payments",45.4
-"525","FLUSHING HOSPITAL MEDICAL CENTER","470",2017,"Discharges",15.4
-"526","FLUSHING HOSPITAL MEDICAL CENTER","470",2017,"Medicare_Payments",3.8
-"527","FLUSHING HOSPITAL MEDICAL CENTER","470",2017,"Total_Payments",-0.8
-"528","FLUSHING HOSPITAL MEDICAL CENTER","470",2017,"Non_Medicare_Payments",-28.8
-"529","FLUSHING HOSPITAL MEDICAL CENTER","871",2015,"Discharges",12.6
-"530","FLUSHING HOSPITAL MEDICAL CENTER","871",2015,"Medicare_Payments",-4.2
-"531","FLUSHING HOSPITAL MEDICAL CENTER","871",2015,"Total_Payments",-5.1
-"532","FLUSHING HOSPITAL MEDICAL CENTER","871",2015,"Non_Medicare_Payments",-11
-"533","FLUSHING HOSPITAL MEDICAL CENTER","871",2016,"Discharges",-13.5
-"534","FLUSHING HOSPITAL MEDICAL CENTER","871",2016,"Medicare_Payments",3.7
-"535","FLUSHING HOSPITAL MEDICAL CENTER","871",2016,"Total_Payments",3.5
-"536","FLUSHING HOSPITAL MEDICAL CENTER","871",2016,"Non_Medicare_Payments",2.3
-"537","FLUSHING HOSPITAL MEDICAL CENTER","871",2017,"Discharges",-17.8
-"538","FLUSHING HOSPITAL MEDICAL CENTER","871",2017,"Medicare_Payments",-2.9
-"539","FLUSHING HOSPITAL MEDICAL CENTER","871",2017,"Total_Payments",-2
-"540","FLUSHING HOSPITAL MEDICAL CENTER","871",2017,"Non_Medicare_Payments",4.5
-"541","INTERFAITH MEDICAL CENTER","291",2015,"Discharges",33.3
-"542","INTERFAITH MEDICAL CENTER","291",2015,"Medicare_Payments",-2
-"543","INTERFAITH MEDICAL CENTER","291",2015,"Total_Payments",-5.1
-"544","INTERFAITH MEDICAL CENTER","291",2015,"Non_Medicare_Payments",-29.6
-"545","INTERFAITH MEDICAL CENTER","291",2016,"Discharges",-32.1
-"546","INTERFAITH MEDICAL CENTER","291",2016,"Medicare_Payments",-7.4
-"547","INTERFAITH MEDICAL CENTER","291",2016,"Total_Payments",-7.2
-"548","INTERFAITH MEDICAL CENTER","291",2016,"Non_Medicare_Payments",-4.3
-"549","INTERFAITH MEDICAL CENTER","291",2017,"Discharges",31.6
-"550","INTERFAITH MEDICAL CENTER","291",2017,"Medicare_Payments",9.5
-"551","INTERFAITH MEDICAL CENTER","291",2017,"Total_Payments",10.8
-"552","INTERFAITH MEDICAL CENTER","291",2017,"Non_Medicare_Payments",24.6
-"553","INTERFAITH MEDICAL CENTER","312",2015,"Discharges",18.8
-"554","INTERFAITH MEDICAL CENTER","312",2015,"Medicare_Payments",-15.8
-"555","INTERFAITH MEDICAL CENTER","312",2015,"Total_Payments",-3.3
-"556","INTERFAITH MEDICAL CENTER","312",2015,"Non_Medicare_Payments",87.2
-"557","INTERFAITH MEDICAL CENTER","312",2016,"Discharges",-31.6
-"558","INTERFAITH MEDICAL CENTER","312",2016,"Medicare_Payments",11.8
-"559","INTERFAITH MEDICAL CENTER","312",2016,"Total_Payments",-2.3
-"560","INTERFAITH MEDICAL CENTER","312",2016,"Non_Medicare_Payments",-48.2
-"561","INTERFAITH MEDICAL CENTER","312",2017,"Discharges",92.3
-"562","INTERFAITH MEDICAL CENTER","312",2017,"Medicare_Payments",-1.4
-"563","INTERFAITH MEDICAL CENTER","312",2017,"Total_Payments",-2.5
-"564","INTERFAITH MEDICAL CENTER","312",2017,"Non_Medicare_Payments",-10.6
-"565","INTERFAITH MEDICAL CENTER","392",2015,"Discharges",-13
-"566","INTERFAITH MEDICAL CENTER","392",2015,"Medicare_Payments",-2.4
-"567","INTERFAITH MEDICAL CENTER","392",2015,"Total_Payments",-4.8
-"568","INTERFAITH MEDICAL CENTER","392",2015,"Non_Medicare_Payments",-20.8
-"569","INTERFAITH MEDICAL CENTER","392",2016,"Discharges",-5
-"570","INTERFAITH MEDICAL CENTER","392",2016,"Medicare_Payments",4.6
-"571","INTERFAITH MEDICAL CENTER","392",2016,"Total_Payments",8.5
-"572","INTERFAITH MEDICAL CENTER","392",2016,"Non_Medicare_Payments",40.7
-"573","INTERFAITH MEDICAL CENTER","392",2017,"Discharges",NA
-"574","INTERFAITH MEDICAL CENTER","392",2017,"Medicare_Payments",NA
-"575","INTERFAITH MEDICAL CENTER","392",2017,"Total_Payments",NA
-"576","INTERFAITH MEDICAL CENTER","392",2017,"Non_Medicare_Payments",NA
-"577","INTERFAITH MEDICAL CENTER","871",2015,"Discharges",-6.8
-"578","INTERFAITH MEDICAL CENTER","871",2015,"Medicare_Payments",-10.4
-"579","INTERFAITH MEDICAL CENTER","871",2015,"Total_Payments",-13.3
-"580","INTERFAITH MEDICAL CENTER","871",2015,"Non_Medicare_Payments",-30.4
-"581","INTERFAITH MEDICAL CENTER","871",2016,"Discharges",43.9
-"582","INTERFAITH MEDICAL CENTER","871",2016,"Medicare_Payments",-0.7
-"583","INTERFAITH MEDICAL CENTER","871",2016,"Total_Payments",-3
-"584","INTERFAITH MEDICAL CENTER","871",2016,"Non_Medicare_Payments",-19.9
-"585","INTERFAITH MEDICAL CENTER","871",2017,"Discharges",5.1
-"586","INTERFAITH MEDICAL CENTER","871",2017,"Medicare_Payments",1.6
-"587","INTERFAITH MEDICAL CENTER","871",2017,"Total_Payments",2.1
-"588","INTERFAITH MEDICAL CENTER","871",2017,"Non_Medicare_Payments",6.9
-"589","JAMAICA HOSPITAL MEDICAL CENTER","291",2015,"Discharges",16.4
-"590","JAMAICA HOSPITAL MEDICAL CENTER","291",2015,"Medicare_Payments",-10.3
-"591","JAMAICA HOSPITAL MEDICAL CENTER","291",2015,"Total_Payments",-7.4
-"592","JAMAICA HOSPITAL MEDICAL CENTER","291",2015,"Non_Medicare_Payments",18.2
-"593","JAMAICA HOSPITAL MEDICAL CENTER","291",2016,"Discharges",18.3
-"594","JAMAICA HOSPITAL MEDICAL CENTER","291",2016,"Medicare_Payments",-3.1
-"595","JAMAICA HOSPITAL MEDICAL CENTER","291",2016,"Total_Payments",-4.2
-"596","JAMAICA HOSPITAL MEDICAL CENTER","291",2016,"Non_Medicare_Payments",-11.5
-"597","JAMAICA HOSPITAL MEDICAL CENTER","291",2017,"Discharges",56
-"598","JAMAICA HOSPITAL MEDICAL CENTER","291",2017,"Medicare_Payments",-0.5
-"599","JAMAICA HOSPITAL MEDICAL CENTER","291",2017,"Total_Payments",1.2
-"600","JAMAICA HOSPITAL MEDICAL CENTER","291",2017,"Non_Medicare_Payments",13.2
-"601","JAMAICA HOSPITAL MEDICAL CENTER","312",2015,"Discharges",0
-"602","JAMAICA HOSPITAL MEDICAL CENTER","312",2015,"Medicare_Payments",-13.2
-"603","JAMAICA HOSPITAL MEDICAL CENTER","312",2015,"Total_Payments",-8.3
-"604","JAMAICA HOSPITAL MEDICAL CENTER","312",2015,"Non_Medicare_Payments",18.5
-"605","JAMAICA HOSPITAL MEDICAL CENTER","312",2016,"Discharges",11.2
-"606","JAMAICA HOSPITAL MEDICAL CENTER","312",2016,"Medicare_Payments",3.6
-"607","JAMAICA HOSPITAL MEDICAL CENTER","312",2016,"Total_Payments",-0.9
-"608","JAMAICA HOSPITAL MEDICAL CENTER","312",2016,"Non_Medicare_Payments",-19
-"609","JAMAICA HOSPITAL MEDICAL CENTER","312",2017,"Discharges",-17.4
-"610","JAMAICA HOSPITAL MEDICAL CENTER","312",2017,"Medicare_Payments",-5.4
-"611","JAMAICA HOSPITAL MEDICAL CENTER","312",2017,"Total_Payments",1.1
-"612","JAMAICA HOSPITAL MEDICAL CENTER","312",2017,"Non_Medicare_Payments",34.3
-"613","JAMAICA HOSPITAL MEDICAL CENTER","392",2015,"Discharges",12.5
-"614","JAMAICA HOSPITAL MEDICAL CENTER","392",2015,"Medicare_Payments",-20.4
-"615","JAMAICA HOSPITAL MEDICAL CENTER","392",2015,"Total_Payments",-9.9
-"616","JAMAICA HOSPITAL MEDICAL CENTER","392",2015,"Non_Medicare_Payments",63.8
-"617","JAMAICA HOSPITAL MEDICAL CENTER","392",2016,"Discharges",-2.8
-"618","JAMAICA HOSPITAL MEDICAL CENTER","392",2016,"Medicare_Payments",3.8
-"619","JAMAICA HOSPITAL MEDICAL CENTER","392",2016,"Total_Payments",0.5
-"620","JAMAICA HOSPITAL MEDICAL CENTER","392",2016,"Non_Medicare_Payments",-10.8
-"621","JAMAICA HOSPITAL MEDICAL CENTER","392",2017,"Discharges",5.7
-"622","JAMAICA HOSPITAL MEDICAL CENTER","392",2017,"Medicare_Payments",-4.3
-"623","JAMAICA HOSPITAL MEDICAL CENTER","392",2017,"Total_Payments",-3.3
-"624","JAMAICA HOSPITAL MEDICAL CENTER","392",2017,"Non_Medicare_Payments",0.4
-"625","JAMAICA HOSPITAL MEDICAL CENTER","470",2015,"Discharges",26.7
-"626","JAMAICA HOSPITAL MEDICAL CENTER","470",2015,"Medicare_Payments",-11.2
-"627","JAMAICA HOSPITAL MEDICAL CENTER","470",2015,"Total_Payments",-6.1
-"628","JAMAICA HOSPITAL MEDICAL CENTER","470",2015,"Non_Medicare_Payments",48.4
-"629","JAMAICA HOSPITAL MEDICAL CENTER","470",2016,"Discharges",NA
-"630","JAMAICA HOSPITAL MEDICAL CENTER","470",2016,"Medicare_Payments",NA
-"631","JAMAICA HOSPITAL MEDICAL CENTER","470",2016,"Total_Payments",NA
-"632","JAMAICA HOSPITAL MEDICAL CENTER","470",2016,"Non_Medicare_Payments",NA
-"633","JAMAICA HOSPITAL MEDICAL CENTER","470",2017,"Discharges",NA
-"634","JAMAICA HOSPITAL MEDICAL CENTER","470",2017,"Medicare_Payments",NA
-"635","JAMAICA HOSPITAL MEDICAL CENTER","470",2017,"Total_Payments",NA
-"636","JAMAICA HOSPITAL MEDICAL CENTER","470",2017,"Non_Medicare_Payments",NA
-"637","JAMAICA HOSPITAL MEDICAL CENTER","871",2015,"Discharges",-12.1
-"638","JAMAICA HOSPITAL MEDICAL CENTER","871",2015,"Medicare_Payments",-6.5
-"639","JAMAICA HOSPITAL MEDICAL CENTER","871",2015,"Total_Payments",-4.1
-"640","JAMAICA HOSPITAL MEDICAL CENTER","871",2015,"Non_Medicare_Payments",15.2
-"641","JAMAICA HOSPITAL MEDICAL CENTER","871",2016,"Discharges",-1.4
-"642","JAMAICA HOSPITAL MEDICAL CENTER","871",2016,"Medicare_Payments",-4.8
-"643","JAMAICA HOSPITAL MEDICAL CENTER","871",2016,"Total_Payments",-3.6
-"644","JAMAICA HOSPITAL MEDICAL CENTER","871",2016,"Non_Medicare_Payments",4.4
-"645","JAMAICA HOSPITAL MEDICAL CENTER","871",2017,"Discharges",-1.4
-"646","JAMAICA HOSPITAL MEDICAL CENTER","871",2017,"Medicare_Payments",3.6
-"647","JAMAICA HOSPITAL MEDICAL CENTER","871",2017,"Total_Payments",-0.8
-"648","JAMAICA HOSPITAL MEDICAL CENTER","871",2017,"Non_Medicare_Payments",-27
-"649","ST BARNABAS HOSPITAL","291",2015,"Discharges",-27.6
-"650","ST BARNABAS HOSPITAL","291",2015,"Medicare_Payments",-6.5
-"651","ST BARNABAS HOSPITAL","291",2015,"Total_Payments",-9.1
-"652","ST BARNABAS HOSPITAL","291",2015,"Non_Medicare_Payments",-26.3
-"653","ST BARNABAS HOSPITAL","291",2016,"Discharges",14.3
-"654","ST BARNABAS HOSPITAL","291",2016,"Medicare_Payments",3.9
-"655","ST BARNABAS HOSPITAL","291",2016,"Total_Payments",5.1
-"656","ST BARNABAS HOSPITAL","291",2016,"Non_Medicare_Payments",15.3
-"657","ST BARNABAS HOSPITAL","291",2017,"Discharges",54.2
-"658","ST BARNABAS HOSPITAL","291",2017,"Medicare_Payments",1.1
-"659","ST BARNABAS HOSPITAL","291",2017,"Total_Payments",1
-"660","ST BARNABAS HOSPITAL","291",2017,"Non_Medicare_Payments",-0.2
-"661","ST BARNABAS HOSPITAL","312",2015,"Discharges",-9.1
-"662","ST BARNABAS HOSPITAL","312",2015,"Medicare_Payments",-4
-"663","ST BARNABAS HOSPITAL","312",2015,"Total_Payments",-1.4
-"664","ST BARNABAS HOSPITAL","312",2015,"Non_Medicare_Payments",15.2
-"665","ST BARNABAS HOSPITAL","312",2016,"Discharges",5
-"666","ST BARNABAS HOSPITAL","312",2016,"Medicare_Payments",-0.6
-"667","ST BARNABAS HOSPITAL","312",2016,"Total_Payments",0.4
-"668","ST BARNABAS HOSPITAL","312",2016,"Non_Medicare_Payments",6
-"669","ST BARNABAS HOSPITAL","312",2017,"Discharges",-2.4
-"670","ST BARNABAS HOSPITAL","312",2017,"Medicare_Payments",6.6
-"671","ST BARNABAS HOSPITAL","312",2017,"Total_Payments",5.5
-"672","ST BARNABAS HOSPITAL","312",2017,"Non_Medicare_Payments",0.1
-"673","ST BARNABAS HOSPITAL","392",2015,"Discharges",-17.8
-"674","ST BARNABAS HOSPITAL","392",2015,"Medicare_Payments",-3.4
-"675","ST BARNABAS HOSPITAL","392",2015,"Total_Payments",-3.7
-"676","ST BARNABAS HOSPITAL","392",2015,"Non_Medicare_Payments",-6.2
-"677","ST BARNABAS HOSPITAL","392",2016,"Discharges",-48.6
-"678","ST BARNABAS HOSPITAL","392",2016,"Medicare_Payments",-1.3
-"679","ST BARNABAS HOSPITAL","392",2016,"Total_Payments",1.7
-"680","ST BARNABAS HOSPITAL","392",2016,"Non_Medicare_Payments",23.8
-"681","ST BARNABAS HOSPITAL","392",2017,"Discharges",-21.1
-"682","ST BARNABAS HOSPITAL","392",2017,"Medicare_Payments",-2.9
-"683","ST BARNABAS HOSPITAL","392",2017,"Total_Payments",-3.4
-"684","ST BARNABAS HOSPITAL","392",2017,"Non_Medicare_Payments",-5.7
-"685","ST BARNABAS HOSPITAL","871",2015,"Discharges",5.8
-"686","ST BARNABAS HOSPITAL","871",2015,"Medicare_Payments",-10.9
-"687","ST BARNABAS HOSPITAL","871",2015,"Total_Payments",-10.5
-"688","ST BARNABAS HOSPITAL","871",2015,"Non_Medicare_Payments",-7.4
-"689","ST BARNABAS HOSPITAL","871",2016,"Discharges",-12.7
-"690","ST BARNABAS HOSPITAL","871",2016,"Medicare_Payments",8.7
-"691","ST BARNABAS HOSPITAL","871",2016,"Total_Payments",13.2
-"692","ST BARNABAS HOSPITAL","871",2016,"Non_Medicare_Payments",48
-"693","ST BARNABAS HOSPITAL","871",2017,"Discharges",27.1
-"694","ST BARNABAS HOSPITAL","871",2017,"Medicare_Payments",-2.4
-"695","ST BARNABAS HOSPITAL","871",2017,"Total_Payments",-6.4
-"696","ST BARNABAS HOSPITAL","871",2017,"Non_Medicare_Payments",-29.8
-"697","ST JOHN'S EPISCOPAL HOSPITAL AT SOUTH SHORE","291",2015,"Discharges",0
-"698","ST JOHN'S EPISCOPAL HOSPITAL AT SOUTH SHORE","291",2015,"Medicare_Payments",-6.7
-"699","ST JOHN'S EPISCOPAL HOSPITAL AT SOUTH SHORE","291",2015,"Total_Payments",-0.9
-"700","ST JOHN'S EPISCOPAL HOSPITAL AT SOUTH SHORE","291",2015,"Non_Medicare_Payments",25.5
-"701","ST JOHN'S EPISCOPAL HOSPITAL AT SOUTH SHORE","291",2016,"Discharges",-10
-"702","ST JOHN'S EPISCOPAL HOSPITAL AT SOUTH SHORE","291",2016,"Medicare_Payments",11.3
-"703","ST JOHN'S EPISCOPAL HOSPITAL AT SOUTH SHORE","291",2016,"Total_Payments",13.5
-"704","ST JOHN'S EPISCOPAL HOSPITAL AT SOUTH SHORE","291",2016,"Non_Medicare_Payments",20.9
-"705","ST JOHN'S EPISCOPAL HOSPITAL AT SOUTH SHORE","291",2017,"Discharges",41.7
-"706","ST JOHN'S EPISCOPAL HOSPITAL AT SOUTH SHORE","291",2017,"Medicare_Payments",-9.5
-"707","ST JOHN'S EPISCOPAL HOSPITAL AT SOUTH SHORE","291",2017,"Total_Payments",-10.8
-"708","ST JOHN'S EPISCOPAL HOSPITAL AT SOUTH SHORE","291",2017,"Non_Medicare_Payments",-14.6
-"709","ST JOHN'S EPISCOPAL HOSPITAL AT SOUTH SHORE","312",2015,"Discharges",-8.9
-"710","ST JOHN'S EPISCOPAL HOSPITAL AT SOUTH SHORE","312",2015,"Medicare_Payments",-6.5
-"711","ST JOHN'S EPISCOPAL HOSPITAL AT SOUTH SHORE","312",2015,"Total_Payments",-6.2
-"712","ST JOHN'S EPISCOPAL HOSPITAL AT SOUTH SHORE","312",2015,"Non_Medicare_Payments",-5
-"713","ST JOHN'S EPISCOPAL HOSPITAL AT SOUTH SHORE","312",2016,"Discharges",-31.4
-"714","ST JOHN'S EPISCOPAL HOSPITAL AT SOUTH SHORE","312",2016,"Medicare_Payments",6.2
-"715","ST JOHN'S EPISCOPAL HOSPITAL AT SOUTH SHORE","312",2016,"Total_Payments",6.1
-"716","ST JOHN'S EPISCOPAL HOSPITAL AT SOUTH SHORE","312",2016,"Non_Medicare_Payments",5.7
-"717","ST JOHN'S EPISCOPAL HOSPITAL AT SOUTH SHORE","312",2017,"Discharges",-20
-"718","ST JOHN'S EPISCOPAL HOSPITAL AT SOUTH SHORE","312",2017,"Medicare_Payments",2
-"719","ST JOHN'S EPISCOPAL HOSPITAL AT SOUTH SHORE","312",2017,"Total_Payments",-2.3
-"720","ST JOHN'S EPISCOPAL HOSPITAL AT SOUTH SHORE","312",2017,"Non_Medicare_Payments",-17.7
-"721","ST JOHN'S EPISCOPAL HOSPITAL AT SOUTH SHORE","392",2015,"Discharges",50
-"722","ST JOHN'S EPISCOPAL HOSPITAL AT SOUTH SHORE","392",2015,"Medicare_Payments",-8.9
-"723","ST JOHN'S EPISCOPAL HOSPITAL AT SOUTH SHORE","392",2015,"Total_Payments",-5.2
-"724","ST JOHN'S EPISCOPAL HOSPITAL AT SOUTH SHORE","392",2015,"Non_Medicare_Payments",8.9
-"725","ST JOHN'S EPISCOPAL HOSPITAL AT SOUTH SHORE","392",2016,"Discharges",-26.7
-"726","ST JOHN'S EPISCOPAL HOSPITAL AT SOUTH SHORE","392",2016,"Medicare_Payments",0
-"727","ST JOHN'S EPISCOPAL HOSPITAL AT SOUTH SHORE","392",2016,"Total_Payments",1.9
-"728","ST JOHN'S EPISCOPAL HOSPITAL AT SOUTH SHORE","392",2016,"Non_Medicare_Payments",7.9
-"729","ST JOHN'S EPISCOPAL HOSPITAL AT SOUTH SHORE","392",2017,"Discharges",-31.8
-"730","ST JOHN'S EPISCOPAL HOSPITAL AT SOUTH SHORE","392",2017,"Medicare_Payments",2.9
-"731","ST JOHN'S EPISCOPAL HOSPITAL AT SOUTH SHORE","392",2017,"Total_Payments",-2.4
-"732","ST JOHN'S EPISCOPAL HOSPITAL AT SOUTH SHORE","392",2017,"Non_Medicare_Payments",-18
-"733","ST JOHN'S EPISCOPAL HOSPITAL AT SOUTH SHORE","470",2015,"Discharges",-18.8
-"734","ST JOHN'S EPISCOPAL HOSPITAL AT SOUTH SHORE","470",2015,"Medicare_Payments",-5.7
-"735","ST JOHN'S EPISCOPAL HOSPITAL AT SOUTH SHORE","470",2015,"Total_Payments",-2.9
-"736","ST JOHN'S EPISCOPAL HOSPITAL AT SOUTH SHORE","470",2015,"Non_Medicare_Payments",16.6
-"737","ST JOHN'S EPISCOPAL HOSPITAL AT SOUTH SHORE","470",2016,"Discharges",-15.4
-"738","ST JOHN'S EPISCOPAL HOSPITAL AT SOUTH SHORE","470",2016,"Medicare_Payments",1.9
-"739","ST JOHN'S EPISCOPAL HOSPITAL AT SOUTH SHORE","470",2016,"Total_Payments",1.8
-"740","ST JOHN'S EPISCOPAL HOSPITAL AT SOUTH SHORE","470",2016,"Non_Medicare_Payments",1.1
-"741","ST JOHN'S EPISCOPAL HOSPITAL AT SOUTH SHORE","470",2017,"Discharges",27.3
-"742","ST JOHN'S EPISCOPAL HOSPITAL AT SOUTH SHORE","470",2017,"Medicare_Payments",1.4
-"743","ST JOHN'S EPISCOPAL HOSPITAL AT SOUTH SHORE","470",2017,"Total_Payments",0.9
-"744","ST JOHN'S EPISCOPAL HOSPITAL AT SOUTH SHORE","470",2017,"Non_Medicare_Payments",-2.2
-"745","ST JOHN'S EPISCOPAL HOSPITAL AT SOUTH SHORE","871",2015,"Discharges",-20
-"746","ST JOHN'S EPISCOPAL HOSPITAL AT SOUTH SHORE","871",2015,"Medicare_Payments",-6.8
-"747","ST JOHN'S EPISCOPAL HOSPITAL AT SOUTH SHORE","871",2015,"Total_Payments",-2.7
-"748","ST JOHN'S EPISCOPAL HOSPITAL AT SOUTH SHORE","871",2015,"Non_Medicare_Payments",19
-"749","ST JOHN'S EPISCOPAL HOSPITAL AT SOUTH SHORE","871",2016,"Discharges",-27.9
-"750","ST JOHN'S EPISCOPAL HOSPITAL AT SOUTH SHORE","871",2016,"Medicare_Payments",5.6
-"751","ST JOHN'S EPISCOPAL HOSPITAL AT SOUTH SHORE","871",2016,"Total_Payments",6.7
-"752","ST JOHN'S EPISCOPAL HOSPITAL AT SOUTH SHORE","871",2016,"Non_Medicare_Payments",11.3
-"753","ST JOHN'S EPISCOPAL HOSPITAL AT SOUTH SHORE","871",2017,"Discharges",4
-"754","ST JOHN'S EPISCOPAL HOSPITAL AT SOUTH SHORE","871",2017,"Medicare_Payments",-0.2
-"755","ST JOHN'S EPISCOPAL HOSPITAL AT SOUTH SHORE","871",2017,"Total_Payments",-0.6
-"756","ST JOHN'S EPISCOPAL HOSPITAL AT SOUTH SHORE","871",2017,"Non_Medicare_Payments",-2.4
-"757","WYCKOFF HEIGHTS MEDICAL CENTER","291",2015,"Discharges",15
-"758","WYCKOFF HEIGHTS MEDICAL CENTER","291",2015,"Medicare_Payments",-7.9
-"759","WYCKOFF HEIGHTS MEDICAL CENTER","291",2015,"Total_Payments",-8.9
-"760","WYCKOFF HEIGHTS MEDICAL CENTER","291",2015,"Non_Medicare_Payments",-16
-"761","WYCKOFF HEIGHTS MEDICAL CENTER","291",2016,"Discharges",-8.7
-"762","WYCKOFF HEIGHTS MEDICAL CENTER","291",2016,"Medicare_Payments",-2.6
-"763","WYCKOFF HEIGHTS MEDICAL CENTER","291",2016,"Total_Payments",-5.1
-"764","WYCKOFF HEIGHTS MEDICAL CENTER","291",2016,"Non_Medicare_Payments",-25.4
-"765","WYCKOFF HEIGHTS MEDICAL CENTER","291",2017,"Discharges",0
-"766","WYCKOFF HEIGHTS MEDICAL CENTER","291",2017,"Medicare_Payments",-1.1
-"767","WYCKOFF HEIGHTS MEDICAL CENTER","291",2017,"Total_Payments",3.5
-"768","WYCKOFF HEIGHTS MEDICAL CENTER","291",2017,"Non_Medicare_Payments",53.6
-"769","WYCKOFF HEIGHTS MEDICAL CENTER","312",2015,"Discharges",-28.6
-"770","WYCKOFF HEIGHTS MEDICAL CENTER","312",2015,"Medicare_Payments",-0.4
-"771","WYCKOFF HEIGHTS MEDICAL CENTER","312",2015,"Total_Payments",0.1
-"772","WYCKOFF HEIGHTS MEDICAL CENTER","312",2015,"Non_Medicare_Payments",3.1
-"773","WYCKOFF HEIGHTS MEDICAL CENTER","312",2016,"Discharges",-28.6
-"774","WYCKOFF HEIGHTS MEDICAL CENTER","312",2016,"Medicare_Payments",1.5
-"775","WYCKOFF HEIGHTS MEDICAL CENTER","312",2016,"Total_Payments",0.5
-"776","WYCKOFF HEIGHTS MEDICAL CENTER","312",2016,"Non_Medicare_Payments",-5.3
-"777","WYCKOFF HEIGHTS MEDICAL CENTER","312",2017,"Discharges",84
-"778","WYCKOFF HEIGHTS MEDICAL CENTER","312",2017,"Medicare_Payments",-3.1
-"779","WYCKOFF HEIGHTS MEDICAL CENTER","312",2017,"Total_Payments",-0.2
-"780","WYCKOFF HEIGHTS MEDICAL CENTER","312",2017,"Non_Medicare_Payments",16.8
-"781","WYCKOFF HEIGHTS MEDICAL CENTER","392",2015,"Discharges",-28.3
-"782","WYCKOFF HEIGHTS MEDICAL CENTER","392",2015,"Medicare_Payments",-3.8
-"783","WYCKOFF HEIGHTS MEDICAL CENTER","392",2015,"Total_Payments",-3.7
-"784","WYCKOFF HEIGHTS MEDICAL CENTER","392",2015,"Non_Medicare_Payments",-3.2
-"785","WYCKOFF HEIGHTS MEDICAL CENTER","392",2016,"Discharges",-4.5
-"786","WYCKOFF HEIGHTS MEDICAL CENTER","392",2016,"Medicare_Payments",-4.1
-"787","WYCKOFF HEIGHTS MEDICAL CENTER","392",2016,"Total_Payments",-3
-"788","WYCKOFF HEIGHTS MEDICAL CENTER","392",2016,"Non_Medicare_Payments",3.4
-"789","WYCKOFF HEIGHTS MEDICAL CENTER","392",2017,"Discharges",-25.4
-"790","WYCKOFF HEIGHTS MEDICAL CENTER","392",2017,"Medicare_Payments",2.5
-"791","WYCKOFF HEIGHTS MEDICAL CENTER","392",2017,"Total_Payments",4.2
-"792","WYCKOFF HEIGHTS MEDICAL CENTER","392",2017,"Non_Medicare_Payments",13.1
-"793","WYCKOFF HEIGHTS MEDICAL CENTER","470",2015,"Discharges",NA
-"794","WYCKOFF HEIGHTS MEDICAL CENTER","470",2015,"Medicare_Payments",NA
-"795","WYCKOFF HEIGHTS MEDICAL CENTER","470",2015,"Total_Payments",NA
-"796","WYCKOFF HEIGHTS MEDICAL CENTER","470",2015,"Non_Medicare_Payments",NA
-"797","WYCKOFF HEIGHTS MEDICAL CENTER","470",2016,"Discharges",NA
-"798","WYCKOFF HEIGHTS MEDICAL CENTER","470",2016,"Medicare_Payments",NA
-"799","WYCKOFF HEIGHTS MEDICAL CENTER","470",2016,"Total_Payments",NA
-"800","WYCKOFF HEIGHTS MEDICAL CENTER","470",2016,"Non_Medicare_Payments",NA
-"801","WYCKOFF HEIGHTS MEDICAL CENTER","470",2017,"Discharges",NA
-"802","WYCKOFF HEIGHTS MEDICAL CENTER","470",2017,"Medicare_Payments",NA
-"803","WYCKOFF HEIGHTS MEDICAL CENTER","470",2017,"Total_Payments",NA
-"804","WYCKOFF HEIGHTS MEDICAL CENTER","470",2017,"Non_Medicare_Payments",NA
-"805","WYCKOFF HEIGHTS MEDICAL CENTER","871",2015,"Discharges",-15.4
-"806","WYCKOFF HEIGHTS MEDICAL CENTER","871",2015,"Medicare_Payments",-5.5
-"807","WYCKOFF HEIGHTS MEDICAL CENTER","871",2015,"Total_Payments",-5.4
-"808","WYCKOFF HEIGHTS MEDICAL CENTER","871",2015,"Non_Medicare_Payments",-5
-"809","WYCKOFF HEIGHTS MEDICAL CENTER","871",2016,"Discharges",-8.1
-"810","WYCKOFF HEIGHTS MEDICAL CENTER","871",2016,"Medicare_Payments",-3.8
-"811","WYCKOFF HEIGHTS MEDICAL CENTER","871",2016,"Total_Payments",-2.2
-"812","WYCKOFF HEIGHTS MEDICAL CENTER","871",2016,"Non_Medicare_Payments",10.1
-"813","WYCKOFF HEIGHTS MEDICAL CENTER","871",2017,"Discharges",36.3
-"814","WYCKOFF HEIGHTS MEDICAL CENTER","871",2017,"Medicare_Payments",2.6
-"815","WYCKOFF HEIGHTS MEDICAL CENTER","871",2017,"Total_Payments",4.2
-"816","WYCKOFF HEIGHTS MEDICAL CENTER","871",2017,"Non_Medicare_Payments",14.8
+"421","Others","291",2015,"Discharges",-2.4
+"422","Others","291",2015,"Medicare_Payments",-8.6
+"423","Others","291",2015,"Total_Payments",-9.3
+"424","Others","291",2015,"Non_Medicare_Payments",-14.1
+"425","Others","291",2016,"Discharges",92.5
+"426","Others","291",2016,"Medicare_Payments",-4.2
+"427","Others","291",2016,"Total_Payments",-4
+"428","Others","291",2016,"Non_Medicare_Payments",-2.6
+"429","Others","291",2017,"Discharges",23.4
+"430","Others","291",2017,"Medicare_Payments",6.6
+"431","Others","291",2017,"Total_Payments",6
+"432","Others","291",2017,"Non_Medicare_Payments",1.8
+"433","Others","312",2015,"Discharges",-48.7
+"434","Others","312",2015,"Medicare_Payments",-12.1
+"435","Others","312",2015,"Total_Payments",-6.7
+"436","Others","312",2015,"Non_Medicare_Payments",25.7
+"437","Others","312",2016,"Discharges",-20
+"438","Others","312",2016,"Medicare_Payments",-3
+"439","Others","312",2016,"Total_Payments",-5.4
+"440","Others","312",2016,"Non_Medicare_Payments",-15.1
+"441","Others","312",2017,"Discharges",-34.4
+"442","Others","312",2017,"Medicare_Payments",9
+"443","Others","312",2017,"Total_Payments",7.9
+"444","Others","312",2017,"Non_Medicare_Payments",2.7
+"445","Others","392",2015,"Discharges",-57.5
+"446","Others","392",2015,"Medicare_Payments",-14.7
+"447","Others","392",2015,"Total_Payments",-10.7
+"448","Others","392",2015,"Non_Medicare_Payments",17.1
+"449","Others","392",2016,"Discharges",58.8
+"450","Others","392",2016,"Medicare_Payments",-1.9
+"451","Others","392",2016,"Total_Payments",-1.8
+"452","Others","392",2016,"Non_Medicare_Payments",-1.1
+"453","Others","392",2017,"Discharges",-59.3
+"454","Others","392",2017,"Medicare_Payments",1.6
+"455","Others","392",2017,"Total_Payments",6.4
+"456","Others","392",2017,"Non_Medicare_Payments",29.7
+"457","Others","470",2015,"Discharges",NA
+"458","Others","470",2015,"Medicare_Payments",NA
+"459","Others","470",2015,"Total_Payments",NA
+"460","Others","470",2015,"Non_Medicare_Payments",NA
+"461","Others","470",2016,"Discharges",NA
+"462","Others","470",2016,"Medicare_Payments",NA
+"463","Others","470",2016,"Total_Payments",NA
+"464","Others","470",2016,"Non_Medicare_Payments",NA
+"465","Others","470",2017,"Discharges",NA
+"466","Others","470",2017,"Medicare_Payments",NA
+"467","Others","470",2017,"Total_Payments",NA
+"468","Others","470",2017,"Non_Medicare_Payments",NA
+"469","Others","871",2015,"Discharges",25.7
+"470","Others","871",2015,"Medicare_Payments",-14.4
+"471","Others","871",2015,"Total_Payments",-17.3
+"472","Others","871",2015,"Non_Medicare_Payments",-36.2
+"473","Others","871",2016,"Discharges",-26.8
+"474","Others","871",2016,"Medicare_Payments",-3.2
+"475","Others","871",2016,"Total_Payments",-2.4
+"476","Others","871",2016,"Non_Medicare_Payments",4.7
+"477","Others","871",2017,"Discharges",49.5
+"478","Others","871",2017,"Medicare_Payments",7.8
+"479","Others","871",2017,"Total_Payments",10.2
+"480","Others","871",2017,"Non_Medicare_Payments",29.6
+"481","Others","291",2015,"Discharges",-1.7
+"482","Others","291",2015,"Medicare_Payments",-3.8
+"483","Others","291",2015,"Total_Payments",-3.3
+"484","Others","291",2015,"Non_Medicare_Payments",-0.1
+"485","Others","291",2016,"Discharges",-30.5
+"486","Others","291",2016,"Medicare_Payments",7.3
+"487","Others","291",2016,"Total_Payments",14.6
+"488","Others","291",2016,"Non_Medicare_Payments",61
+"489","Others","291",2017,"Discharges",68.3
+"490","Others","291",2017,"Medicare_Payments",-6.6
+"491","Others","291",2017,"Total_Payments",-13.3
+"492","Others","291",2017,"Non_Medicare_Payments",-42
+"493","Others","312",2015,"Discharges",13.1
+"494","Others","312",2015,"Medicare_Payments",-2.4
+"495","Others","312",2015,"Total_Payments",-1
+"496","Others","312",2015,"Non_Medicare_Payments",6.3
+"497","Others","312",2016,"Discharges",7.1
+"498","Others","312",2016,"Medicare_Payments",2.7
+"499","Others","312",2016,"Total_Payments",1.2
+"500","Others","312",2016,"Non_Medicare_Payments",-6.2
+"501","Others","312",2017,"Discharges",-34.2
+"502","Others","312",2017,"Medicare_Payments",-2.4
+"503","Others","312",2017,"Total_Payments",3
+"504","Others","312",2017,"Non_Medicare_Payments",31.3
+"505","Others","392",2015,"Discharges",-2.4
+"506","Others","392",2015,"Medicare_Payments",-1
+"507","Others","392",2015,"Total_Payments",-4.5
+"508","Others","392",2015,"Non_Medicare_Payments",-17.5
+"509","Others","392",2016,"Discharges",17.5
+"510","Others","392",2016,"Medicare_Payments",0.2
+"511","Others","392",2016,"Total_Payments",3.1
+"512","Others","392",2016,"Non_Medicare_Payments",16.2
+"513","Others","392",2017,"Discharges",10.6
+"514","Others","392",2017,"Medicare_Payments",-1.3
+"515","Others","392",2017,"Total_Payments",-3.7
+"516","Others","392",2017,"Non_Medicare_Payments",-12.8
+"517","Others","470",2015,"Discharges",-27.3
+"518","Others","470",2015,"Medicare_Payments",-5.5
+"519","Others","470",2015,"Total_Payments",-4.3
+"520","Others","470",2015,"Non_Medicare_Payments",7.2
+"521","Others","470",2016,"Discharges",8.3
+"522","Others","470",2016,"Medicare_Payments",0.3
+"523","Others","470",2016,"Total_Payments",4.9
+"524","Others","470",2016,"Non_Medicare_Payments",45.4
+"525","Others","470",2017,"Discharges",15.4
+"526","Others","470",2017,"Medicare_Payments",3.8
+"527","Others","470",2017,"Total_Payments",-0.8
+"528","Others","470",2017,"Non_Medicare_Payments",-28.8
+"529","Others","871",2015,"Discharges",12.6
+"530","Others","871",2015,"Medicare_Payments",-4.2
+"531","Others","871",2015,"Total_Payments",-5.1
+"532","Others","871",2015,"Non_Medicare_Payments",-11
+"533","Others","871",2016,"Discharges",-13.5
+"534","Others","871",2016,"Medicare_Payments",3.7
+"535","Others","871",2016,"Total_Payments",3.5
+"536","Others","871",2016,"Non_Medicare_Payments",2.3
+"537","Others","871",2017,"Discharges",-17.8
+"538","Others","871",2017,"Medicare_Payments",-2.9
+"539","Others","871",2017,"Total_Payments",-2
+"540","Others","871",2017,"Non_Medicare_Payments",4.5
+"541","Others","291",2015,"Discharges",33.3
+"542","Others","291",2015,"Medicare_Payments",-2
+"543","Others","291",2015,"Total_Payments",-5.1
+"544","Others","291",2015,"Non_Medicare_Payments",-29.6
+"545","Others","291",2016,"Discharges",-32.1
+"546","Others","291",2016,"Medicare_Payments",-7.4
+"547","Others","291",2016,"Total_Payments",-7.2
+"548","Others","291",2016,"Non_Medicare_Payments",-4.3
+"549","Others","291",2017,"Discharges",31.6
+"550","Others","291",2017,"Medicare_Payments",9.5
+"551","Others","291",2017,"Total_Payments",10.8
+"552","Others","291",2017,"Non_Medicare_Payments",24.6
+"553","Others","312",2015,"Discharges",18.8
+"554","Others","312",2015,"Medicare_Payments",-15.8
+"555","Others","312",2015,"Total_Payments",-3.3
+"556","Others","312",2015,"Non_Medicare_Payments",87.2
+"557","Others","312",2016,"Discharges",-31.6
+"558","Others","312",2016,"Medicare_Payments",11.8
+"559","Others","312",2016,"Total_Payments",-2.3
+"560","Others","312",2016,"Non_Medicare_Payments",-48.2
+"561","Others","312",2017,"Discharges",92.3
+"562","Others","312",2017,"Medicare_Payments",-1.4
+"563","Others","312",2017,"Total_Payments",-2.5
+"564","Others","312",2017,"Non_Medicare_Payments",-10.6
+"565","Others","392",2015,"Discharges",-13
+"566","Others","392",2015,"Medicare_Payments",-2.4
+"567","Others","392",2015,"Total_Payments",-4.8
+"568","Others","392",2015,"Non_Medicare_Payments",-20.8
+"569","Others","392",2016,"Discharges",-5
+"570","Others","392",2016,"Medicare_Payments",4.6
+"571","Others","392",2016,"Total_Payments",8.5
+"572","Others","392",2016,"Non_Medicare_Payments",40.7
+"573","Others","392",2017,"Discharges",NA
+"574","Others","392",2017,"Medicare_Payments",NA
+"575","Others","392",2017,"Total_Payments",NA
+"576","Others","392",2017,"Non_Medicare_Payments",NA
+"577","Others","871",2015,"Discharges",-6.8
+"578","Others","871",2015,"Medicare_Payments",-10.4
+"579","Others","871",2015,"Total_Payments",-13.3
+"580","Others","871",2015,"Non_Medicare_Payments",-30.4
+"581","Others","871",2016,"Discharges",43.9
+"582","Others","871",2016,"Medicare_Payments",-0.7
+"583","Others","871",2016,"Total_Payments",-3
+"584","Others","871",2016,"Non_Medicare_Payments",-19.9
+"585","Others","871",2017,"Discharges",5.1
+"586","Others","871",2017,"Medicare_Payments",1.6
+"587","Others","871",2017,"Total_Payments",2.1
+"588","Others","871",2017,"Non_Medicare_Payments",6.9
+"589","Others","291",2015,"Discharges",16.4
+"590","Others","291",2015,"Medicare_Payments",-10.3
+"591","Others","291",2015,"Total_Payments",-7.4
+"592","Others","291",2015,"Non_Medicare_Payments",18.2
+"593","Others","291",2016,"Discharges",18.3
+"594","Others","291",2016,"Medicare_Payments",-3.1
+"595","Others","291",2016,"Total_Payments",-4.2
+"596","Others","291",2016,"Non_Medicare_Payments",-11.5
+"597","Others","291",2017,"Discharges",56
+"598","Others","291",2017,"Medicare_Payments",-0.5
+"599","Others","291",2017,"Total_Payments",1.2
+"600","Others","291",2017,"Non_Medicare_Payments",13.2
+"601","Others","312",2015,"Discharges",0
+"602","Others","312",2015,"Medicare_Payments",-13.2
+"603","Others","312",2015,"Total_Payments",-8.3
+"604","Others","312",2015,"Non_Medicare_Payments",18.5
+"605","Others","312",2016,"Discharges",11.2
+"606","Others","312",2016,"Medicare_Payments",3.6
+"607","Others","312",2016,"Total_Payments",-0.9
+"608","Others","312",2016,"Non_Medicare_Payments",-19
+"609","Others","312",2017,"Discharges",-17.4
+"610","Others","312",2017,"Medicare_Payments",-5.4
+"611","Others","312",2017,"Total_Payments",1.1
+"612","Others","312",2017,"Non_Medicare_Payments",34.3
+"613","Others","392",2015,"Discharges",12.5
+"614","Others","392",2015,"Medicare_Payments",-20.4
+"615","Others","392",2015,"Total_Payments",-9.9
+"616","Others","392",2015,"Non_Medicare_Payments",63.8
+"617","Others","392",2016,"Discharges",-2.8
+"618","Others","392",2016,"Medicare_Payments",3.8
+"619","Others","392",2016,"Total_Payments",0.5
+"620","Others","392",2016,"Non_Medicare_Payments",-10.8
+"621","Others","392",2017,"Discharges",5.7
+"622","Others","392",2017,"Medicare_Payments",-4.3
+"623","Others","392",2017,"Total_Payments",-3.3
+"624","Others","392",2017,"Non_Medicare_Payments",0.4
+"625","Others","470",2015,"Discharges",26.7
+"626","Others","470",2015,"Medicare_Payments",-11.2
+"627","Others","470",2015,"Total_Payments",-6.1
+"628","Others","470",2015,"Non_Medicare_Payments",48.4
+"629","Others","470",2016,"Discharges",NA
+"630","Others","470",2016,"Medicare_Payments",NA
+"631","Others","470",2016,"Total_Payments",NA
+"632","Others","470",2016,"Non_Medicare_Payments",NA
+"633","Others","470",2017,"Discharges",NA
+"634","Others","470",2017,"Medicare_Payments",NA
+"635","Others","470",2017,"Total_Payments",NA
+"636","Others","470",2017,"Non_Medicare_Payments",NA
+"637","Others","871",2015,"Discharges",-12.1
+"638","Others","871",2015,"Medicare_Payments",-6.5
+"639","Others","871",2015,"Total_Payments",-4.1
+"640","Others","871",2015,"Non_Medicare_Payments",15.2
+"641","Others","871",2016,"Discharges",-1.4
+"642","Others","871",2016,"Medicare_Payments",-4.8
+"643","Others","871",2016,"Total_Payments",-3.6
+"644","Others","871",2016,"Non_Medicare_Payments",4.4
+"645","Others","871",2017,"Discharges",-1.4
+"646","Others","871",2017,"Medicare_Payments",3.6
+"647","Others","871",2017,"Total_Payments",-0.8
+"648","Others","871",2017,"Non_Medicare_Payments",-27
+"649","Others","291",2015,"Discharges",-27.6
+"650","Others","291",2015,"Medicare_Payments",-6.5
+"651","Others","291",2015,"Total_Payments",-9.1
+"652","Others","291",2015,"Non_Medicare_Payments",-26.3
+"653","Others","291",2016,"Discharges",14.3
+"654","Others","291",2016,"Medicare_Payments",3.9
+"655","Others","291",2016,"Total_Payments",5.1
+"656","Others","291",2016,"Non_Medicare_Payments",15.3
+"657","Others","291",2017,"Discharges",54.2
+"658","Others","291",2017,"Medicare_Payments",1.1
+"659","Others","291",2017,"Total_Payments",1
+"660","Others","291",2017,"Non_Medicare_Payments",-0.2
+"661","Others","312",2015,"Discharges",-9.1
+"662","Others","312",2015,"Medicare_Payments",-4
+"663","Others","312",2015,"Total_Payments",-1.4
+"664","Others","312",2015,"Non_Medicare_Payments",15.2
+"665","Others","312",2016,"Discharges",5
+"666","Others","312",2016,"Medicare_Payments",-0.6
+"667","Others","312",2016,"Total_Payments",0.4
+"668","Others","312",2016,"Non_Medicare_Payments",6
+"669","Others","312",2017,"Discharges",-2.4
+"670","Others","312",2017,"Medicare_Payments",6.6
+"671","Others","312",2017,"Total_Payments",5.5
+"672","Others","312",2017,"Non_Medicare_Payments",0.1
+"673","Others","392",2015,"Discharges",-17.8
+"674","Others","392",2015,"Medicare_Payments",-3.4
+"675","Others","392",2015,"Total_Payments",-3.7
+"676","Others","392",2015,"Non_Medicare_Payments",-6.2
+"677","Others","392",2016,"Discharges",-48.6
+"678","Others","392",2016,"Medicare_Payments",-1.3
+"679","Others","392",2016,"Total_Payments",1.7
+"680","Others","392",2016,"Non_Medicare_Payments",23.8
+"681","Others","392",2017,"Discharges",-21.1
+"682","Others","392",2017,"Medicare_Payments",-2.9
+"683","Others","392",2017,"Total_Payments",-3.4
+"684","Others","392",2017,"Non_Medicare_Payments",-5.7
+"685","Others","871",2015,"Discharges",5.8
+"686","Others","871",2015,"Medicare_Payments",-10.9
+"687","Others","871",2015,"Total_Payments",-10.5
+"688","Others","871",2015,"Non_Medicare_Payments",-7.4
+"689","Others","871",2016,"Discharges",-12.7
+"690","Others","871",2016,"Medicare_Payments",8.7
+"691","Others","871",2016,"Total_Payments",13.2
+"692","Others","871",2016,"Non_Medicare_Payments",48
+"693","Others","871",2017,"Discharges",27.1
+"694","Others","871",2017,"Medicare_Payments",-2.4
+"695","Others","871",2017,"Total_Payments",-6.4
+"696","Others","871",2017,"Non_Medicare_Payments",-29.8
+"697","Others","291",2015,"Discharges",0
+"698","Others","291",2015,"Medicare_Payments",-6.7
+"699","Others","291",2015,"Total_Payments",-0.9
+"700","Others","291",2015,"Non_Medicare_Payments",25.5
+"701","Others","291",2016,"Discharges",-10
+"702","Others","291",2016,"Medicare_Payments",11.3
+"703","Others","291",2016,"Total_Payments",13.5
+"704","Others","291",2016,"Non_Medicare_Payments",20.9
+"705","Others","291",2017,"Discharges",41.7
+"706","Others","291",2017,"Medicare_Payments",-9.5
+"707","Others","291",2017,"Total_Payments",-10.8
+"708","Others","291",2017,"Non_Medicare_Payments",-14.6
+"709","Others","312",2015,"Discharges",-8.9
+"710","Others","312",2015,"Medicare_Payments",-6.5
+"711","Others","312",2015,"Total_Payments",-6.2
+"712","Others","312",2015,"Non_Medicare_Payments",-5
+"713","Others","312",2016,"Discharges",-31.4
+"714","Others","312",2016,"Medicare_Payments",6.2
+"715","Others","312",2016,"Total_Payments",6.1
+"716","Others","312",2016,"Non_Medicare_Payments",5.7
+"717","Others","312",2017,"Discharges",-20
+"718","Others","312",2017,"Medicare_Payments",2
+"719","Others","312",2017,"Total_Payments",-2.3
+"720","Others","312",2017,"Non_Medicare_Payments",-17.7
+"721","Others","392",2015,"Discharges",50
+"722","Others","392",2015,"Medicare_Payments",-8.9
+"723","Others","392",2015,"Total_Payments",-5.2
+"724","Others","392",2015,"Non_Medicare_Payments",8.9
+"725","Others","392",2016,"Discharges",-26.7
+"726","Others","392",2016,"Medicare_Payments",0
+"727","Others","392",2016,"Total_Payments",1.9
+"728","Others","392",2016,"Non_Medicare_Payments",7.9
+"729","Others","392",2017,"Discharges",-31.8
+"730","Others","392",2017,"Medicare_Payments",2.9
+"731","Others","392",2017,"Total_Payments",-2.4
+"732","Others","392",2017,"Non_Medicare_Payments",-18
+"733","Others","470",2015,"Discharges",-18.8
+"734","Others","470",2015,"Medicare_Payments",-5.7
+"735","Others","470",2015,"Total_Payments",-2.9
+"736","Others","470",2015,"Non_Medicare_Payments",16.6
+"737","Others","470",2016,"Discharges",-15.4
+"738","Others","470",2016,"Medicare_Payments",1.9
+"739","Others","470",2016,"Total_Payments",1.8
+"740","Others","470",2016,"Non_Medicare_Payments",1.1
+"741","Others","470",2017,"Discharges",27.3
+"742","Others","470",2017,"Medicare_Payments",1.4
+"743","Others","470",2017,"Total_Payments",0.9
+"744","Others","470",2017,"Non_Medicare_Payments",-2.2
+"745","Others","871",2015,"Discharges",-20
+"746","Others","871",2015,"Medicare_Payments",-6.8
+"747","Others","871",2015,"Total_Payments",-2.7
+"748","Others","871",2015,"Non_Medicare_Payments",19
+"749","Others","871",2016,"Discharges",-27.9
+"750","Others","871",2016,"Medicare_Payments",5.6
+"751","Others","871",2016,"Total_Payments",6.7
+"752","Others","871",2016,"Non_Medicare_Payments",11.3
+"753","Others","871",2017,"Discharges",4
+"754","Others","871",2017,"Medicare_Payments",-0.2
+"755","Others","871",2017,"Total_Payments",-0.6
+"756","Others","871",2017,"Non_Medicare_Payments",-2.4
+"757","Others","291",2015,"Discharges",15
+"758","Others","291",2015,"Medicare_Payments",-7.9
+"759","Others","291",2015,"Total_Payments",-8.9
+"760","Others","291",2015,"Non_Medicare_Payments",-16
+"761","Others","291",2016,"Discharges",-8.7
+"762","Others","291",2016,"Medicare_Payments",-2.6
+"763","Others","291",2016,"Total_Payments",-5.1
+"764","Others","291",2016,"Non_Medicare_Payments",-25.4
+"765","Others","291",2017,"Discharges",0
+"766","Others","291",2017,"Medicare_Payments",-1.1
+"767","Others","291",2017,"Total_Payments",3.5
+"768","Others","291",2017,"Non_Medicare_Payments",53.6
+"769","Others","312",2015,"Discharges",-28.6
+"770","Others","312",2015,"Medicare_Payments",-0.4
+"771","Others","312",2015,"Total_Payments",0.1
+"772","Others","312",2015,"Non_Medicare_Payments",3.1
+"773","Others","312",2016,"Discharges",-28.6
+"774","Others","312",2016,"Medicare_Payments",1.5
+"775","Others","312",2016,"Total_Payments",0.5
+"776","Others","312",2016,"Non_Medicare_Payments",-5.3
+"777","Others","312",2017,"Discharges",84
+"778","Others","312",2017,"Medicare_Payments",-3.1
+"779","Others","312",2017,"Total_Payments",-0.2
+"780","Others","312",2017,"Non_Medicare_Payments",16.8
+"781","Others","392",2015,"Discharges",-28.3
+"782","Others","392",2015,"Medicare_Payments",-3.8
+"783","Others","392",2015,"Total_Payments",-3.7
+"784","Others","392",2015,"Non_Medicare_Payments",-3.2
+"785","Others","392",2016,"Discharges",-4.5
+"786","Others","392",2016,"Medicare_Payments",-4.1
+"787","Others","392",2016,"Total_Payments",-3
+"788","Others","392",2016,"Non_Medicare_Payments",3.4
+"789","Others","392",2017,"Discharges",-25.4
+"790","Others","392",2017,"Medicare_Payments",2.5
+"791","Others","392",2017,"Total_Payments",4.2
+"792","Others","392",2017,"Non_Medicare_Payments",13.1
+"793","Others","470",2015,"Discharges",NA
+"794","Others","470",2015,"Medicare_Payments",NA
+"795","Others","470",2015,"Total_Payments",NA
+"796","Others","470",2015,"Non_Medicare_Payments",NA
+"797","Others","470",2016,"Discharges",NA
+"798","Others","470",2016,"Medicare_Payments",NA
+"799","Others","470",2016,"Total_Payments",NA
+"800","Others","470",2016,"Non_Medicare_Payments",NA
+"801","Others","470",2017,"Discharges",NA
+"802","Others","470",2017,"Medicare_Payments",NA
+"803","Others","470",2017,"Total_Payments",NA
+"804","Others","470",2017,"Non_Medicare_Payments",NA
+"805","Others","871",2015,"Discharges",-15.4
+"806","Others","871",2015,"Medicare_Payments",-5.5
+"807","Others","871",2015,"Total_Payments",-5.4
+"808","Others","871",2015,"Non_Medicare_Payments",-5
+"809","Others","871",2016,"Discharges",-8.1
+"810","Others","871",2016,"Medicare_Payments",-3.8
+"811","Others","871",2016,"Total_Payments",-2.2
+"812","Others","871",2016,"Non_Medicare_Payments",10.1
+"813","Others","871",2017,"Discharges",36.3
+"814","Others","871",2017,"Medicare_Payments",2.6
+"815","Others","871",2017,"Total_Payments",4.2
+"816","Others","871",2017,"Non_Medicare_Payments",14.8
