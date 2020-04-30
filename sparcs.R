@@ -9,6 +9,10 @@ sparcs_function <- function(url, year){
   sparcs_720 <- read.socrata(paste(url,"?APR DRG Code=720", sep = ""))
   sparcs_194 <- read.socrata(paste(url,"?APR DRG Code=194", sep = ""))
   
+  # save to file
+  write.csv(sparcs_720, paste("./data/sparcs/septicemia/raw_", year, ".csv", sep = ""))
+  write.csv(sparcs_194, paste("./data/sparcs/heart_failure/raw_", year, ".csv", sep = ""))
+  
   #rbind
   sparcs <- rbind(sparcs_720, sparcs_194)
   sparcs <- sparcs %>%
