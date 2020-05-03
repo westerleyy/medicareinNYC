@@ -1,0 +1,83 @@
+                         OLS Regression Results                         
+Dep. Variable:   ,mean_total_charges_day,  R-squared:         ,   0.786 
+Model:           ,OLS                   ,  Adj. R-squared:    ,   0.778 
+Method:          ,Least Squares         ,  F-statistic:       ,   103.6 
+Date:            ,Sat, 02 May 2020      ,  Prob (F-statistic):,  0.00   
+Time:            ,15:24:13              ,  Log-Likelihood:    , -13746. 
+No. Observations:,  1553                ,  AIC:               ,2.760e+04
+Df Residuals:    ,  1499                ,  BIC:               ,2.789e+04
+Df Model:        ,    53                ,                     ,         
+Covariance Type: ,nonrobust             ,                     ,         
+                                                                    ,   coef   , std err ,    t    ,P>|t| ,  [0.025 ,  0.975] 
+Intercept                                                           , 6559.0763,  317.048,   20.688, 0.000, 5937.171, 7180.981
+Number_of_Beds                                                      ,    3.5017,    0.489,    7.158, 0.000,    2.542,    4.461
+area_sqmi                                                           , -124.9994,   19.769,   -6.323, 0.000, -163.776,  -86.222
+mean_length_of_stay                                                 ,  -79.7409,   11.319,   -7.045, 0.000, -101.944,  -57.537
+patients                                                            ,   -3.4005,    0.946,   -3.596, 0.000,   -5.255,   -1.546
+Mount_Sinai                                                         , -194.4389,  118.483,   -1.641, 0.101, -426.849,   37.971
+NYU_Langone                                                         , 4634.4046,  333.159,   13.910, 0.000, 3980.898, 5287.911
+NewYork_Presbyterian                                                , 1600.1721, 1522.683,    1.051, 0.293,-1386.644, 4586.988
+Northwell                                                           , 3620.8882,  154.430,   23.447, 0.000, 3317.966, 3923.811
+Others                                                              ,-1505.8577,  127.466,  -11.814, 0.000,-1755.888,-1255.828
+SUNY                                                                ,  235.2639,  185.467,    1.268, 0.205, -128.539,  599.067
+Blue_Cross_Blue_Shield                                              , 1805.5410,  114.539,   15.764, 0.000, 1580.867, 2030.215
+Medicare                                                            , 1479.6217,  117.452,   12.598, 0.000, 1249.233, 1710.010
+Private_Health_Insurance                                            , 1533.8378,  110.345,   13.900, 0.000, 1317.391, 1750.284
+Self_Pay                                                            , 1740.0758,  123.310,   14.111, 0.000, 1498.198, 1981.953
+Bellevue_Hospital_Center                                            ,-3823.6870,  264.893,  -14.435, 0.000,-4343.288,-3304.086
+Bronx_Lebanon_Hospital_Center___Concourse_Division                  ,-4700.2234,  281.851,  -16.676, 0.000,-5253.089,-4147.358
+Brookdale_Hospital_Medical_Center                                   , -132.5280,  303.334,   -0.437, 0.662, -727.533,  462.477
+Brooklyn_Hospital_Center___Downtown_Campus                          , 1895.4310,  254.623,    7.444, 0.000, 1395.976, 2394.886
+Calvary_Hospital_Inc                                                ,-3466.0375,  327.899,  -10.570, 0.000,-4109.227,-2822.848
+Coney_Island_Hospital                                               , -471.1052,  276.245,   -1.705, 0.088,-1012.973,   70.763
+Elmhurst_Hospital_Center                                            ,-1053.3279,  267.608,   -3.936, 0.000,-1578.255, -528.401
+Flushing_Hospital_Medical_Center                                    ,-1019.9641,  312.901,   -3.260, 0.001,-1633.735, -406.193
+Harlem_Hospital_Center                                              ,-1344.2435,  347.110,   -3.873, 0.000,-2025.115, -663.372
+Henry_J__Carter_Specialty_Hospital                                  ,-4432.9958, 1612.714,   -2.749, 0.006,-7596.412,-1269.580
+Interfaith_Medical_Center                                           ,    1.4460,  319.940,    0.005, 0.996, -626.131,  629.023
+Jacobi_Medical_Center                                               ,-1260.5756,  269.187,   -4.683, 0.000,-1788.598, -732.553
+Jamaica_Hospital_Medical_Center                                     ,  121.1206,  309.056,    0.392, 0.695, -485.107,  727.348
+Kings_County_Hospital_Center                                        ,-2110.3371,  262.913,   -8.027, 0.000,-2626.053,-1594.621
+Kingsbrook_Jewish_Medical_Center                                    ,  534.4346,  269.996,    1.979, 0.048,    4.825, 1064.044
+Lenox_Hill_Hospital                                                 , 3400.4228,  287.200,   11.840, 0.000, 2837.065, 3963.780
+Lincoln_Medical___Mental_Health_Center                              ,-1649.4302,  302.230,   -5.458, 0.000,-2242.268,-1056.592
+Long_Island_Jewish_Forest_Hills                                     , 1336.5143,  345.541,    3.868, 0.000,  658.718, 2014.310
+Long_Island_Jewish_Medical_Center                                   ,-1075.1433,  338.122,   -3.180, 0.002,-1738.387, -411.900
+Maimonides_Medical_Center                                           , 2807.4281,  271.295,   10.348, 0.000, 2275.269, 3339.587
+Memorial_Hospital_for_Cancer_and_Allied_Diseases                    , 3327.0867,  359.572,    9.253, 0.000, 2621.769, 4032.404
+Metropolitan_Hospital_Center                                        ,-1718.9890,  365.387,   -4.705, 0.000,-2435.712,-1002.266
+Montefiore_Med_Center___Jack_D_Weiler_Hosp_of_A_Einstein_College_Div, 4685.4091,  318.818,   14.696, 0.000, 4060.031, 5310.787
+Montefiore_Medical_Center___Henry___Lucy_Moses_Div                  , 4036.1952,  261.113,   15.458, 0.000, 3524.009, 4548.381
+Montefiore_Medical_Center_Wakefield_Hospital                        , 6805.6140,  318.355,   21.377, 0.000, 6181.146, 7430.082
+Mount_Sinai_Beth_Israel                                             , -269.4056,  273.719,   -0.984, 0.325, -806.318,  267.507
+Mount_Sinai_Brooklyn                                                , 2501.0126,  272.333,    9.184, 0.000, 1966.818, 3035.207
+Mount_Sinai_Hospital                                                ,-1033.2214,  310.485,   -3.328, 0.001,-1642.252, -424.191
+Mount_Sinai_Hospital___Mount_Sinai_Hospital_of_Queens               ,-1720.9711,  294.735,   -5.839, 0.000,-2299.107,-1142.835
+Mount_Sinai_St__Luke_s                                              , 1552.0174,  273.482,    5.675, 0.000, 1015.569, 2088.466
+Mount_Sinai_West                                                    , 1953.2397,  316.843,    6.165, 0.000, 1331.736, 2574.743
+NYU_Hospitals_Center                                                ,-2711.3023,  375.494,   -7.221, 0.000,-3447.853,-1974.752
+NYU_Langone_Hospital_Brooklyn                                       , -656.5322,  505.784,   -1.298, 0.194,-1648.653,  335.588
+NYU_Langone_Hospitals                                               ,  242.5426,  443.976,    0.546, 0.585, -628.337, 1113.422
+NYU_Langone_Orthopedic_Hospital                                     , 9942.2185, 1369.961,    7.257, 0.000, 7254.974, 1.26e+04
+NYU_Lutheran_Medical_Center                                         ,-2182.5220,  444.666,   -4.908, 0.000,-3054.756,-1310.288
+New_York_Community_Hospital_of_Brooklyn__Inc                        ,-3778.0339, 1717.687,   -2.199, 0.028,-7147.358, -408.709
+New_York_Presbyterian_Lower_Manhattan_Hospital                      , 2674.7870, 1747.502,    1.531, 0.126, -753.023, 6102.597
+New_York_Presbyterian_Queens                                        ,-3052.0892, 1673.173,   -1.824, 0.068,-6334.097,  229.919
+North_Central_Bronx_Hospital                                        ,-1244.1540,  369.671,   -3.366, 0.001,-1969.281, -519.027
+Queens_Hospital_Center                                              ,  193.9497,  258.922,    0.749, 0.454, -313.938,  701.838
+Richmond_University_Medical_Center                                  , 1523.1129,  313.480,    4.859, 0.000,  908.208, 2138.018
+SBH_Health_System                                                   , -991.6472,  286.622,   -3.460, 0.001,-1553.870, -429.425
+Staten_Island_University_Hosp_North                                 , -562.2981,  258.489,   -2.175, 0.030,-1069.336,  -55.260
+Staten_Island_University_Hosp_South                                 ,  521.3925,  280.072,    1.862, 0.063,  -27.981, 1070.766
+University_Hospital_of_Brooklyn                                     ,-2194.6016,  243.342,   -9.019, 0.000,-2671.928,-1717.275
+Woodhull_Medical___Mental_Health_Center                             ,-1251.1067,  320.524,   -3.903, 0.000,-1879.830, -622.383
+Wyckoff_Heights_Medical_Center                                      ,  654.6659,  284.101,    2.304, 0.021,   97.388, 1211.944
+Omnibus:      ,658.182,  Durbin-Watson:     ,   1.826
+Prob(Omnibus):, 0.000 ,  Jarque-Bera (JB):  ,7033.644
+Skew:         , 1.680 ,  Prob(JB):          ,    0.00
+Kurtosis:     ,12.870 ,  Cond. No.          ,2.73e+18
+
+Warnings:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The smallest eigenvalue is 5.75e-29. This might indicate that there are
+strong multicollinearity problems or that the design matrix is singular.
