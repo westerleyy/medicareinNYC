@@ -1,314 +1,314 @@
-apr_drg_code,facility_name,payment_typology_1,apr_severity_of_illness_description,patients,mean_length_of_stay,mean_total_charges_day,System,area_sqmi,Number of Beds
+apr_drg_code,facility_name,payment_typology_1,apr_severity_of_illness,patients,mean_length_of_stay,mean_total_charges_day,System,area_sqmi,Number of Beds
 194,Bellevue Hospital Center,Blue Cross/Blue Shield,Extreme,1,10,6904.02,Health+,0.77,912
 194,Bellevue Hospital Center,Blue Cross/Blue Shield,Major,1,9,7074.85,Health+,0.77,912
 194,Bellevue Hospital Center,Blue Cross/Blue Shield,Minor,1,3,6718.64,Health+,0.77,912
 194,Bellevue Hospital Center,Blue Cross/Blue Shield,Moderate,5,6.6,6261.29,Health+,0.77,912
-194,Bellevue Hospital Center,Medicare,Extreme,14,17.214285714285715,7124.1221428571425,Health+,0.77,912
-194,Bellevue Hospital Center,Medicare,Major,66,8.015151515151516,6485.713333333333,Health+,0.77,912
-194,Bellevue Hospital Center,Medicare,Minor,13,2.5384615384615383,7861.083076923077,Health+,0.77,912
-194,Bellevue Hospital Center,Medicare,Moderate,60,4.65,7027.516333333333,Health+,0.77,912
-194,Bellevue Hospital Center,Private Health Insurance,Major,3,8.666666666666666,6344.16,Health+,0.77,912
+194,Bellevue Hospital Center,Medicare,Extreme,14,17.21428571,7124.122143,Health+,0.77,912
+194,Bellevue Hospital Center,Medicare,Major,66,8.015151515,6485.713333,Health+,0.77,912
+194,Bellevue Hospital Center,Medicare,Minor,13,2.538461538,7861.083077,Health+,0.77,912
+194,Bellevue Hospital Center,Medicare,Moderate,60,4.65,7027.516333,Health+,0.77,912
+194,Bellevue Hospital Center,Private Health Insurance,Major,3,8.666666667,6344.16,Health+,0.77,912
 194,Bellevue Hospital Center,Private Health Insurance,Minor,1,1,9327.13,Health+,0.77,912
-194,Bellevue Hospital Center,Private Health Insurance,Moderate,3,5.666666666666667,7166.3533333333335,Health+,0.77,912
+194,Bellevue Hospital Center,Private Health Insurance,Moderate,3,5.666666667,7166.353333,Health+,0.77,912
 194,Bellevue Hospital Center,Self-Pay,Extreme,1,12,6032.09,Health+,0.77,912
-194,Bellevue Hospital Center,Self-Pay,Major,7,11.428571428571429,6483.437142857143,Health+,0.77,912
-194,Bellevue Hospital Center,Self-Pay,Minor,7,3.857142857142857,7535.262857142857,Health+,0.77,912
-194,Bellevue Hospital Center,Self-Pay,Moderate,23,4.3478260869565215,6801.548260869565,Health+,0.77,912
+194,Bellevue Hospital Center,Self-Pay,Major,7,11.42857143,6483.437143,Health+,0.77,912
+194,Bellevue Hospital Center,Self-Pay,Minor,7,3.857142857,7535.262857,Health+,0.77,912
+194,Bellevue Hospital Center,Self-Pay,Moderate,23,4.347826087,6801.548261,Health+,0.77,912
 194,Bronx-Lebanon Hospital Center - Concourse Division,Blue Cross/Blue Shield,Extreme,1,3,4959.8,Mount Sinai,2.194,415
 194,Bronx-Lebanon Hospital Center - Concourse Division,Blue Cross/Blue Shield,Major,4,4.75,3675.6,Mount Sinai,2.194,415
 194,Bronx-Lebanon Hospital Center - Concourse Division,Blue Cross/Blue Shield,Minor,1,2,4208.19,Mount Sinai,2.194,415
 194,Bronx-Lebanon Hospital Center - Concourse Division,Blue Cross/Blue Shield,Moderate,1,5,3910.54,Mount Sinai,2.194,415
 194,Bronx-Lebanon Hospital Center - Concourse Division,Medicare,Extreme,16,16.4375,3065.458125,Mount Sinai,2.194,415
-194,Bronx-Lebanon Hospital Center - Concourse Division,Medicare,Major,153,5.372549019607843,3793.512549019608,Mount Sinai,2.194,415
-194,Bronx-Lebanon Hospital Center - Concourse Division,Medicare,Minor,19,3.263157894736842,3944.6805263157894,Mount Sinai,2.194,415
-194,Bronx-Lebanon Hospital Center - Concourse Division,Medicare,Moderate,136,3.1911764705882355,4286.089926470589,Mount Sinai,2.194,415
+194,Bronx-Lebanon Hospital Center - Concourse Division,Medicare,Major,153,5.37254902,3793.512549,Mount Sinai,2.194,415
+194,Bronx-Lebanon Hospital Center - Concourse Division,Medicare,Minor,19,3.263157895,3944.680526,Mount Sinai,2.194,415
+194,Bronx-Lebanon Hospital Center - Concourse Division,Medicare,Moderate,136,3.191176471,4286.089926,Mount Sinai,2.194,415
 194,Bronx-Lebanon Hospital Center - Concourse Division,Private Health Insurance,Extreme,1,8,4502.9,Mount Sinai,2.194,415
 194,Bronx-Lebanon Hospital Center - Concourse Division,Private Health Insurance,Major,5,5.4,4536.83,Mount Sinai,2.194,415
 194,Bronx-Lebanon Hospital Center - Concourse Division,Private Health Insurance,Minor,2,3.5,5006.795,Mount Sinai,2.194,415
 194,Bronx-Lebanon Hospital Center - Concourse Division,Private Health Insurance,Moderate,8,3.875,3850.8075,Mount Sinai,2.194,415
 194,Bronx-Lebanon Hospital Center - Concourse Division,Self-Pay,Major,2,7.5,3907.315,Mount Sinai,2.194,415
-194,Brookdale Hospital Medical Center,Blue Cross/Blue Shield,Extreme,3,6,8963.186666666666,Others,14.72,530
-194,Brookdale Hospital Medical Center,Blue Cross/Blue Shield,Major,6,5.666666666666667,6326.738333333334,Others,14.72,530
-194,Brookdale Hospital Medical Center,Blue Cross/Blue Shield,Minor,3,2.6666666666666665,6483.2699999999995,Others,14.72,530
+194,Brookdale Hospital Medical Center,Blue Cross/Blue Shield,Extreme,3,6,8963.186667,Others,14.72,530
+194,Brookdale Hospital Medical Center,Blue Cross/Blue Shield,Major,6,5.666666667,6326.738333,Others,14.72,530
+194,Brookdale Hospital Medical Center,Blue Cross/Blue Shield,Minor,3,2.666666667,6483.27,Others,14.72,530
 194,Brookdale Hospital Medical Center,Blue Cross/Blue Shield,Moderate,8,3.625,6643.6575,Others,14.72,530
-194,Brookdale Hospital Medical Center,Medicare,Extreme,36,10.5,5738.169722222222,Others,14.72,530
-194,Brookdale Hospital Medical Center,Medicare,Major,170,6.2823529411764705,5568.4270588235295,Others,14.72,530
-194,Brookdale Hospital Medical Center,Medicare,Minor,17,3.1176470588235294,5412.498823529412,Others,14.72,530
-194,Brookdale Hospital Medical Center,Medicare,Moderate,93,3.4946236559139785,6073.728064516129,Others,14.72,530
+194,Brookdale Hospital Medical Center,Medicare,Extreme,36,10.5,5738.169722,Others,14.72,530
+194,Brookdale Hospital Medical Center,Medicare,Major,170,6.282352941,5568.427059,Others,14.72,530
+194,Brookdale Hospital Medical Center,Medicare,Minor,17,3.117647059,5412.498824,Others,14.72,530
+194,Brookdale Hospital Medical Center,Medicare,Moderate,93,3.494623656,6073.728065,Others,14.72,530
 194,Brookdale Hospital Medical Center,Private Health Insurance,Extreme,1,17,7322.61,Others,14.72,530
 194,Brookdale Hospital Medical Center,Private Health Insurance,Major,6,7,5518.88,Others,14.72,530
 194,Brookdale Hospital Medical Center,Private Health Insurance,Moderate,4,3.5,5751.9825,Others,14.72,530
 194,Brookdale Hospital Medical Center,Self-Pay,Extreme,2,13.5,6122.45,Others,14.72,530
 194,Brookdale Hospital Medical Center,Self-Pay,Major,4,8.25,5081.5325,Others,14.72,530
-194,Brookdale Hospital Medical Center,Self-Pay,Moderate,3,2,5364.256666666666,Others,14.72,530
+194,Brookdale Hospital Medical Center,Self-Pay,Moderate,3,2,5364.256667,Others,14.72,530
 194,Brooklyn Hospital Center - Downtown Campus,Blue Cross/Blue Shield,Major,1,8,8821.27,SUNY,2.958,464
 194,Brooklyn Hospital Center - Downtown Campus,Blue Cross/Blue Shield,Minor,1,2,15526.85,SUNY,2.958,464
 194,Brooklyn Hospital Center - Downtown Campus,Blue Cross/Blue Shield,Moderate,2,4.5,12067.67,SUNY,2.958,464
-194,Brooklyn Hospital Center - Downtown Campus,Medicare,Extreme,21,11,11194.243333333334,SUNY,2.958,464
-194,Brooklyn Hospital Center - Downtown Campus,Medicare,Major,118,5.779661016949152,11151.308474576272,SUNY,2.958,464
-194,Brooklyn Hospital Center - Downtown Campus,Medicare,Minor,14,3,12863.017857142857,SUNY,2.958,464
-194,Brooklyn Hospital Center - Downtown Campus,Medicare,Moderate,88,4.25,10588.876363636364,SUNY,2.958,464
+194,Brooklyn Hospital Center - Downtown Campus,Medicare,Extreme,21,11,11194.24333,SUNY,2.958,464
+194,Brooklyn Hospital Center - Downtown Campus,Medicare,Major,118,5.779661017,11151.30847,SUNY,2.958,464
+194,Brooklyn Hospital Center - Downtown Campus,Medicare,Minor,14,3,12863.01786,SUNY,2.958,464
+194,Brooklyn Hospital Center - Downtown Campus,Medicare,Moderate,88,4.25,10588.87636,SUNY,2.958,464
 194,Brooklyn Hospital Center - Downtown Campus,Private Health Insurance,Major,4,7.5,7551.715,SUNY,2.958,464
 194,Brooklyn Hospital Center - Downtown Campus,Private Health Insurance,Minor,1,1,10264.41,SUNY,2.958,464
-194,Brooklyn Hospital Center - Downtown Campus,Private Health Insurance,Moderate,12,4.583333333333333,11076.038333333334,SUNY,2.958,464
+194,Brooklyn Hospital Center - Downtown Campus,Private Health Insurance,Moderate,12,4.583333333,11076.03833,SUNY,2.958,464
 194,Calvary Hospital Inc,Blue Cross/Blue Shield,Extreme,1,35,2062.42,Others,4.495,200
 194,Calvary Hospital Inc,Blue Cross/Blue Shield,Moderate,1,2,2216.96,Others,4.495,200
-194,Calvary Hospital Inc,Medicare,Extreme,9,14.444444444444445,2065.297777777778,Others,4.495,200
-194,Calvary Hospital Inc,Medicare,Major,59,21.06779661016949,2300.796779661017,Others,4.495,200
-194,Calvary Hospital Inc,Medicare,Minor,4,5.75,2080.3025000000002,Others,4.495,200
-194,Calvary Hospital Inc,Medicare,Moderate,38,24.736842105263158,2072.894210526316,Others,4.495,200
+194,Calvary Hospital Inc,Medicare,Extreme,9,14.44444444,2065.297778,Others,4.495,200
+194,Calvary Hospital Inc,Medicare,Major,59,21.06779661,2300.79678,Others,4.495,200
+194,Calvary Hospital Inc,Medicare,Minor,4,5.75,2080.3025,Others,4.495,200
+194,Calvary Hospital Inc,Medicare,Moderate,38,24.73684211,2072.894211,Others,4.495,200
 194,Calvary Hospital Inc,Private Health Insurance,Extreme,2,8,2031.935,Others,4.495,200
-194,Calvary Hospital Inc,Private Health Insurance,Major,13,15.461538461538462,2083.4023076923077,Others,4.495,200
+194,Calvary Hospital Inc,Private Health Insurance,Major,13,15.46153846,2083.402308,Others,4.495,200
 194,Calvary Hospital Inc,Private Health Insurance,Minor,2,4.5,1987.81,Others,4.495,200
-194,Calvary Hospital Inc,Private Health Insurance,Moderate,15,12.266666666666667,2134.128,Others,4.495,200
-194,Coney Island Hospital,Blue Cross/Blue Shield,Major,3,8.333333333333334,6653.963333333333,Health+,9.415,371
+194,Calvary Hospital Inc,Private Health Insurance,Moderate,15,12.26666667,2134.128,Others,4.495,200
+194,Coney Island Hospital,Blue Cross/Blue Shield,Major,3,8.333333333,6653.963333,Health+,9.415,371
 194,Coney Island Hospital,Blue Cross/Blue Shield,Moderate,1,8,5730.12,Health+,9.415,371
-194,Coney Island Hospital,Medicare,Extreme,43,11.906976744186046,6687.238139534884,Health+,9.415,371
-194,Coney Island Hospital,Medicare,Major,163,8.386503067484663,6453.35245398773,Health+,9.415,371
-194,Coney Island Hospital,Medicare,Minor,17,4.352941176470588,6759.074117647059,Health+,9.415,371
-194,Coney Island Hospital,Medicare,Moderate,141,6,6783.412269503546,Health+,9.415,371
+194,Coney Island Hospital,Medicare,Extreme,43,11.90697674,6687.23814,Health+,9.415,371
+194,Coney Island Hospital,Medicare,Major,163,8.386503067,6453.352454,Health+,9.415,371
+194,Coney Island Hospital,Medicare,Minor,17,4.352941176,6759.074118,Health+,9.415,371
+194,Coney Island Hospital,Medicare,Moderate,141,6,6783.41227,Health+,9.415,371
 194,Coney Island Hospital,Private Health Insurance,Major,1,5,7059.01,Health+,9.415,371
 194,Coney Island Hospital,Private Health Insurance,Moderate,5,5.2,6294.108,Health+,9.415,371
 194,Coney Island Hospital,Self-Pay,Extreme,1,21,5441.76,Health+,9.415,371
-194,Coney Island Hospital,Self-Pay,Major,6,9.5,7284.636666666666,Health+,9.415,371
+194,Coney Island Hospital,Self-Pay,Major,6,9.5,7284.636667,Health+,9.415,371
 194,Coney Island Hospital,Self-Pay,Minor,1,1,15555.47,Health+,9.415,371
 194,Coney Island Hospital,Self-Pay,Moderate,4,3.25,9402.7675,Health+,9.415,371
 194,Elmhurst Hospital Center,Blue Cross/Blue Shield,Extreme,1,3,8723.36,Health+,10.09,545
-194,Elmhurst Hospital Center,Blue Cross/Blue Shield,Moderate,3,5,6836.586666666667,Health+,10.09,545
+194,Elmhurst Hospital Center,Blue Cross/Blue Shield,Moderate,3,5,6836.586667,Health+,10.09,545
 194,Elmhurst Hospital Center,Medicare,Extreme,16,13.3125,6558.87375,Health+,10.09,545
-194,Elmhurst Hospital Center,Medicare,Major,90,8.78888888888889,6580.028111111111,Health+,10.09,545
-194,Elmhurst Hospital Center,Medicare,Minor,18,3.5,7169.883333333333,Health+,10.09,545
-194,Elmhurst Hospital Center,Medicare,Moderate,89,5.157303370786517,6912.875056179775,Health+,10.09,545
+194,Elmhurst Hospital Center,Medicare,Major,90,8.788888889,6580.028111,Health+,10.09,545
+194,Elmhurst Hospital Center,Medicare,Minor,18,3.5,7169.883333,Health+,10.09,545
+194,Elmhurst Hospital Center,Medicare,Moderate,89,5.157303371,6912.875056,Health+,10.09,545
 194,Elmhurst Hospital Center,Private Health Insurance,Extreme,1,3,10181.7,Health+,10.09,545
 194,Elmhurst Hospital Center,Private Health Insurance,Major,4,6.25,7787.03,Health+,10.09,545
-194,Elmhurst Hospital Center,Private Health Insurance,Moderate,6,2.6666666666666665,7729.028333333334,Health+,10.09,545
+194,Elmhurst Hospital Center,Private Health Insurance,Moderate,6,2.666666667,7729.028333,Health+,10.09,545
 194,Elmhurst Hospital Center,Self-Pay,Major,8,8.375,6373.065,Health+,10.09,545
-194,Elmhurst Hospital Center,Self-Pay,Moderate,6,4.833333333333333,7378.373333333333,Health+,10.09,545
+194,Elmhurst Hospital Center,Self-Pay,Moderate,6,4.833333333,7378.373333,Health+,10.09,545
 194,Flushing Hospital Medical Center,Blue Cross/Blue Shield,Minor,1,2,5277.5,Others,14.16,299
-194,Flushing Hospital Medical Center,Medicare,Extreme,16,12.1875,4088.9906250000004,Others,14.16,299
-194,Flushing Hospital Medical Center,Medicare,Major,74,9.783783783783784,3640.269189189189,Others,14.16,299
+194,Flushing Hospital Medical Center,Medicare,Extreme,16,12.1875,4088.990625,Others,14.16,299
+194,Flushing Hospital Medical Center,Medicare,Major,74,9.783783784,3640.269189,Others,14.16,299
 194,Flushing Hospital Medical Center,Medicare,Minor,8,3.75,4183.1975,Others,14.16,299
-194,Flushing Hospital Medical Center,Medicare,Moderate,60,5.533333333333333,3734.8791666666666,Others,14.16,299
+194,Flushing Hospital Medical Center,Medicare,Moderate,60,5.533333333,3734.879167,Others,14.16,299
 194,Flushing Hospital Medical Center,Private Health Insurance,Major,1,14,3247.01,Others,14.16,299
 194,Flushing Hospital Medical Center,Private Health Insurance,Minor,1,1,7214,Others,14.16,299
-194,Flushing Hospital Medical Center,Private Health Insurance,Moderate,3,1.6666666666666667,5523.666666666667,Others,14.16,299
+194,Flushing Hospital Medical Center,Private Health Insurance,Moderate,3,1.666666667,5523.666667,Others,14.16,299
 194,Flushing Hospital Medical Center,Self-Pay,Major,1,11,2761.36,Others,14.16,299
 194,Flushing Hospital Medical Center,Self-Pay,Moderate,1,7,2972.57,Others,14.16,299
 194,Harlem Hospital Center,Blue Cross/Blue Shield,Minor,1,2,8231.29,Health+,1.517,282
 194,Harlem Hospital Center,Blue Cross/Blue Shield,Moderate,2,2.5,8007.895,Health+,1.517,282
-194,Harlem Hospital Center,Medicare,Extreme,6,20.833333333333332,5544.075,Health+,1.517,282
-194,Harlem Hospital Center,Medicare,Major,43,6.767441860465116,6175.125813953488,Health+,1.517,282
-194,Harlem Hospital Center,Medicare,Minor,14,2.5714285714285716,6893.62,Health+,1.517,282
-194,Harlem Hospital Center,Medicare,Moderate,70,3.914285714285714,6516.398428571429,Health+,1.517,282
-194,Harlem Hospital Center,Private Health Insurance,Major,6,7.666666666666667,6409.66,Health+,1.517,282
-194,Harlem Hospital Center,Private Health Insurance,Minor,3,1.6666666666666667,7926.54,Health+,1.517,282
+194,Harlem Hospital Center,Medicare,Extreme,6,20.83333333,5544.075,Health+,1.517,282
+194,Harlem Hospital Center,Medicare,Major,43,6.76744186,6175.125814,Health+,1.517,282
+194,Harlem Hospital Center,Medicare,Minor,14,2.571428571,6893.62,Health+,1.517,282
+194,Harlem Hospital Center,Medicare,Moderate,70,3.914285714,6516.398429,Health+,1.517,282
+194,Harlem Hospital Center,Private Health Insurance,Major,6,7.666666667,6409.66,Health+,1.517,282
+194,Harlem Hospital Center,Private Health Insurance,Minor,3,1.666666667,7926.54,Health+,1.517,282
 194,Harlem Hospital Center,Private Health Insurance,Moderate,10,2.2,7748.549,Health+,1.517,282
 194,Harlem Hospital Center,Self-Pay,Extreme,1,6,6997.56,Health+,1.517,282
 194,Harlem Hospital Center,Self-Pay,Major,2,9.5,5466.895,Health+,1.517,282
-194,Harlem Hospital Center,Self-Pay,Minor,2,1,8832.154999999999,Health+,1.517,282
+194,Harlem Hospital Center,Self-Pay,Minor,2,1,8832.155,Health+,1.517,282
 194,Harlem Hospital Center,Self-Pay,Moderate,5,1.6,7505.486,Health+,1.517,282
 194,Henry J. Carter Specialty Hospital,Medicare,Major,1,24,2216.36,Health+,1.408,201
 194,Interfaith Medical Center,Blue Cross/Blue Shield,Major,1,4,6506.98,Others,2.895,287
 194,Interfaith Medical Center,Blue Cross/Blue Shield,Moderate,1,2,9469.9,Others,2.895,287
-194,Interfaith Medical Center,Medicare,Extreme,11,18,6960.842727272728,Others,2.895,287
+194,Interfaith Medical Center,Medicare,Extreme,11,18,6960.842727,Others,2.895,287
 194,Interfaith Medical Center,Medicare,Major,25,6.96,6328.6824,Others,2.895,287
 194,Interfaith Medical Center,Medicare,Minor,1,2,6512.58,Others,2.895,287
 194,Interfaith Medical Center,Medicare,Moderate,25,3.36,6487.598,Others,2.895,287
 194,Interfaith Medical Center,Private Health Insurance,Extreme,1,3,6209.97,Others,2.895,287
-194,Interfaith Medical Center,Private Health Insurance,Major,2,4,6445.754999999999,Others,2.895,287
+194,Interfaith Medical Center,Private Health Insurance,Major,2,4,6445.755,Others,2.895,287
 194,Interfaith Medical Center,Private Health Insurance,Minor,1,2,7247.22,Others,2.895,287
 194,Interfaith Medical Center,Self-Pay,Major,1,5,5106.06,Others,2.895,287
 194,Jacobi Medical Center,Blue Cross/Blue Shield,Extreme,2,8,5815.65,Health+,7.016,457
 194,Jacobi Medical Center,Blue Cross/Blue Shield,Major,1,5,8955.02,Health+,7.016,457
 194,Jacobi Medical Center,Blue Cross/Blue Shield,Minor,1,2,7246.6,Health+,7.016,457
 194,Jacobi Medical Center,Blue Cross/Blue Shield,Moderate,1,4,6782.57,Health+,7.016,457
-194,Jacobi Medical Center,Medicare,Extreme,15,14.533333333333333,6344.324,Health+,7.016,457
-194,Jacobi Medical Center,Medicare,Major,70,10.071428571428571,6381.103285714285,Health+,7.016,457
-194,Jacobi Medical Center,Medicare,Minor,3,4,6857.7733333333335,Health+,7.016,457
-194,Jacobi Medical Center,Medicare,Moderate,63,5.253968253968254,6438.386507936508,Health+,7.016,457
+194,Jacobi Medical Center,Medicare,Extreme,15,14.53333333,6344.324,Health+,7.016,457
+194,Jacobi Medical Center,Medicare,Major,70,10.07142857,6381.103286,Health+,7.016,457
+194,Jacobi Medical Center,Medicare,Minor,3,4,6857.773333,Health+,7.016,457
+194,Jacobi Medical Center,Medicare,Moderate,63,5.253968254,6438.386508,Health+,7.016,457
 194,Jacobi Medical Center,Private Health Insurance,Extreme,1,4,6072.34,Health+,7.016,457
 194,Jacobi Medical Center,Private Health Insurance,Major,2,7,6176.025,Health+,7.016,457
 194,Jacobi Medical Center,Private Health Insurance,Minor,1,1,7520.65,Health+,7.016,457
-194,Jacobi Medical Center,Private Health Insurance,Moderate,2,3,7640.039999999999,Health+,7.016,457
+194,Jacobi Medical Center,Private Health Insurance,Moderate,2,3,7640.04,Health+,7.016,457
 194,Jacobi Medical Center,Self-Pay,Extreme,2,6.5,8686.11,Health+,7.016,457
-194,Jacobi Medical Center,Self-Pay,Major,5,8.4,6588.9039999999995,Health+,7.016,457
+194,Jacobi Medical Center,Self-Pay,Major,5,8.4,6588.904,Health+,7.016,457
 194,Jacobi Medical Center,Self-Pay,Minor,1,2,6972.34,Health+,7.016,457
-194,Jacobi Medical Center,Self-Pay,Moderate,11,6.090909090909091,6029.076363636364,Health+,7.016,457
+194,Jacobi Medical Center,Self-Pay,Moderate,11,6.090909091,6029.076364,Health+,7.016,457
 194,Jamaica Hospital Medical Center,Blue Cross/Blue Shield,Extreme,2,27.5,5757.555,Others,19.28,402
-194,Jamaica Hospital Medical Center,Blue Cross/Blue Shield,Major,7,6.285714285714286,5262.807142857143,Others,19.28,402
+194,Jamaica Hospital Medical Center,Blue Cross/Blue Shield,Major,7,6.285714286,5262.807143,Others,19.28,402
 194,Jamaica Hospital Medical Center,Blue Cross/Blue Shield,Minor,16,2.1875,4984.74125,Others,19.28,402
-194,Jamaica Hospital Medical Center,Blue Cross/Blue Shield,Moderate,19,3.0526315789473686,4480.674210526316,Others,19.28,402
-194,Jamaica Hospital Medical Center,Medicare,Extreme,17,7.823529411764706,9810.071764705883,Others,19.28,402
-194,Jamaica Hospital Medical Center,Medicare,Major,162,6.08641975308642,4748.122530864198,Others,19.28,402
-194,Jamaica Hospital Medical Center,Medicare,Minor,62,2.4516129032258065,4505.225322580645,Others,19.28,402
-194,Jamaica Hospital Medical Center,Medicare,Moderate,267,3.8951310861423223,4674.244644194757,Others,19.28,402
+194,Jamaica Hospital Medical Center,Blue Cross/Blue Shield,Moderate,19,3.052631579,4480.674211,Others,19.28,402
+194,Jamaica Hospital Medical Center,Medicare,Extreme,17,7.823529412,9810.071765,Others,19.28,402
+194,Jamaica Hospital Medical Center,Medicare,Major,162,6.086419753,4748.122531,Others,19.28,402
+194,Jamaica Hospital Medical Center,Medicare,Minor,62,2.451612903,4505.225323,Others,19.28,402
+194,Jamaica Hospital Medical Center,Medicare,Moderate,267,3.895131086,4674.244644,Others,19.28,402
 194,Jamaica Hospital Medical Center,Private Health Insurance,Extreme,2,13.5,6637.33,Others,19.28,402
-194,Jamaica Hospital Medical Center,Private Health Insurance,Major,9,4,5723.015555555556,Others,19.28,402
+194,Jamaica Hospital Medical Center,Private Health Insurance,Major,9,4,5723.015556,Others,19.28,402
 194,Jamaica Hospital Medical Center,Private Health Insurance,Minor,8,1.625,5151,Others,19.28,402
-194,Jamaica Hospital Medical Center,Private Health Insurance,Moderate,13,2.769230769230769,4633.803076923077,Others,19.28,402
+194,Jamaica Hospital Medical Center,Private Health Insurance,Moderate,13,2.769230769,4633.803077,Others,19.28,402
 194,Jamaica Hospital Medical Center,Self-Pay,Major,4,7.25,6752.8325,Others,19.28,402
-194,Jamaica Hospital Medical Center,Self-Pay,Minor,6,2.8333333333333335,5028.346666666666,Others,19.28,402
+194,Jamaica Hospital Medical Center,Self-Pay,Minor,6,2.833333333,5028.346667,Others,19.28,402
 194,Jamaica Hospital Medical Center,Self-Pay,Moderate,6,3,5215.93,Others,19.28,402
 194,Kings County Hospital Center,Blue Cross/Blue Shield,Extreme,2,19.5,6649.885,Health+,1.44,639
 194,Kings County Hospital Center,Blue Cross/Blue Shield,Major,4,7.5,7789.1025,Health+,1.44,639
 194,Kings County Hospital Center,Blue Cross/Blue Shield,Minor,2,1.5,9624.545,Health+,1.44,639
-194,Kings County Hospital Center,Blue Cross/Blue Shield,Moderate,3,4.333333333333333,6242.593333333333,Health+,1.44,639
-194,Kings County Hospital Center,Medicare,Extreme,19,11.526315789473685,7368.2868421052635,Health+,1.44,639
-194,Kings County Hospital Center,Medicare,Major,57,7.350877192982456,7058.538947368421,Health+,1.44,639
-194,Kings County Hospital Center,Medicare,Minor,32,3.46875,7039.8793749999995,Health+,1.44,639
-194,Kings County Hospital Center,Medicare,Moderate,110,3.6454545454545455,7157.277454545454,Health+,1.44,639
-194,Kings County Hospital Center,Private Health Insurance,Extreme,2,2,8056.0199999999995,Health+,1.44,639
+194,Kings County Hospital Center,Blue Cross/Blue Shield,Moderate,3,4.333333333,6242.593333,Health+,1.44,639
+194,Kings County Hospital Center,Medicare,Extreme,19,11.52631579,7368.286842,Health+,1.44,639
+194,Kings County Hospital Center,Medicare,Major,57,7.350877193,7058.538947,Health+,1.44,639
+194,Kings County Hospital Center,Medicare,Minor,32,3.46875,7039.879375,Health+,1.44,639
+194,Kings County Hospital Center,Medicare,Moderate,110,3.645454545,7157.277455,Health+,1.44,639
+194,Kings County Hospital Center,Private Health Insurance,Extreme,2,2,8056.02,Health+,1.44,639
 194,Kings County Hospital Center,Private Health Insurance,Major,5,2.8,8048.348,Health+,1.44,639
 194,Kings County Hospital Center,Private Health Insurance,Minor,4,1.5,9297.17,Health+,1.44,639
-194,Kings County Hospital Center,Private Health Insurance,Moderate,14,3.857142857142857,7742.6278571428575,Health+,1.44,639
+194,Kings County Hospital Center,Private Health Insurance,Moderate,14,3.857142857,7742.627857,Health+,1.44,639
 194,Kings County Hospital Center,Self-Pay,Extreme,2,8,6036.68,Health+,1.44,639
 194,Kings County Hospital Center,Self-Pay,Major,5,5,6625.202,Health+,1.44,639
-194,Kings County Hospital Center,Self-Pay,Minor,15,2,8821.602666666666,Health+,1.44,639
-194,Kings County Hospital Center,Self-Pay,Moderate,23,3.130434782608696,7896.793913043478,Health+,1.44,639
+194,Kings County Hospital Center,Self-Pay,Minor,15,2,8821.602667,Health+,1.44,639
+194,Kings County Hospital Center,Self-Pay,Moderate,23,3.130434783,7896.793913,Health+,1.44,639
 194,Kingsbrook Jewish Medical Center,Blue Cross/Blue Shield,Major,1,8,9106.38,SUNY,1.66,303
-194,Kingsbrook Jewish Medical Center,Blue Cross/Blue Shield,Moderate,6,3.8333333333333335,9138.363333333333,SUNY,1.66,303
-194,Kingsbrook Jewish Medical Center,Medicare,Extreme,43,9.813953488372093,9458.332325581396,SUNY,1.66,303
-194,Kingsbrook Jewish Medical Center,Medicare,Major,133,6.7368421052631575,8103.028571428571,SUNY,1.66,303
-194,Kingsbrook Jewish Medical Center,Medicare,Minor,21,3.8095238095238093,8118.070476190476,SUNY,1.66,303
-194,Kingsbrook Jewish Medical Center,Medicare,Moderate,107,4.94392523364486,8285.82738317757,SUNY,1.66,303
-194,Kingsbrook Jewish Medical Center,Private Health Insurance,Extreme,3,6.666666666666667,18312.703333333335,SUNY,1.66,303
+194,Kingsbrook Jewish Medical Center,Blue Cross/Blue Shield,Moderate,6,3.833333333,9138.363333,SUNY,1.66,303
+194,Kingsbrook Jewish Medical Center,Medicare,Extreme,43,9.813953488,9458.332326,SUNY,1.66,303
+194,Kingsbrook Jewish Medical Center,Medicare,Major,133,6.736842105,8103.028571,SUNY,1.66,303
+194,Kingsbrook Jewish Medical Center,Medicare,Minor,21,3.80952381,8118.070476,SUNY,1.66,303
+194,Kingsbrook Jewish Medical Center,Medicare,Moderate,107,4.943925234,8285.827383,SUNY,1.66,303
+194,Kingsbrook Jewish Medical Center,Private Health Insurance,Extreme,3,6.666666667,18312.70333,SUNY,1.66,303
 194,Kingsbrook Jewish Medical Center,Private Health Insurance,Major,5,3.8,9498.1,SUNY,1.66,303
 194,Kingsbrook Jewish Medical Center,Private Health Insurance,Minor,2,2.5,7853.415,SUNY,1.66,303
 194,Kingsbrook Jewish Medical Center,Private Health Insurance,Moderate,5,3.2,8596.1,SUNY,1.66,303
-194,Lenox Hill Hospital,Blue Cross/Blue Shield,Major,10,5.3,14544.699999999999,Northwell,1.582,632
-194,Lenox Hill Hospital,Blue Cross/Blue Shield,Moderate,11,3.1818181818181817,17082.271818181816,Northwell,1.582,632
-194,Lenox Hill Hospital,Medicare,Extreme,24,12.083333333333334,16455.788333333334,Northwell,1.582,632
-194,Lenox Hill Hospital,Medicare,Major,169,6.550295857988166,14635.159171597634,Northwell,1.582,632
-194,Lenox Hill Hospital,Medicare,Minor,12,2.4166666666666665,17198.353333333333,Northwell,1.582,632
-194,Lenox Hill Hospital,Medicare,Moderate,133,3.593984962406015,16759.614661654134,Northwell,1.582,632
+194,Lenox Hill Hospital,Blue Cross/Blue Shield,Major,10,5.3,14544.7,Northwell,1.582,632
+194,Lenox Hill Hospital,Blue Cross/Blue Shield,Moderate,11,3.181818182,17082.27182,Northwell,1.582,632
+194,Lenox Hill Hospital,Medicare,Extreme,24,12.08333333,16455.78833,Northwell,1.582,632
+194,Lenox Hill Hospital,Medicare,Major,169,6.550295858,14635.15917,Northwell,1.582,632
+194,Lenox Hill Hospital,Medicare,Minor,12,2.416666667,17198.35333,Northwell,1.582,632
+194,Lenox Hill Hospital,Medicare,Moderate,133,3.593984962,16759.61466,Northwell,1.582,632
 194,Lenox Hill Hospital,Private Health Insurance,Extreme,1,4,15774.5,Northwell,1.582,632
 194,Lenox Hill Hospital,Private Health Insurance,Major,10,5.4,14437.225,Northwell,1.582,632
-194,Lenox Hill Hospital,Private Health Insurance,Minor,3,2.3333333333333335,17352.363333333335,Northwell,1.582,632
-194,Lenox Hill Hospital,Private Health Insurance,Moderate,7,4.142857142857143,15997.824285714285,Northwell,1.582,632
+194,Lenox Hill Hospital,Private Health Insurance,Minor,3,2.333333333,17352.36333,Northwell,1.582,632
+194,Lenox Hill Hospital,Private Health Insurance,Moderate,7,4.142857143,15997.82429,Northwell,1.582,632
 194,Lenox Hill Hospital,Self-Pay,Major,1,1,26538.83,Northwell,1.582,632
 194,Lincoln Medical & Mental Health Center,Blue Cross/Blue Shield,Major,1,2,7610.39,Health+,2.933,362
 194,Lincoln Medical & Mental Health Center,Blue Cross/Blue Shield,Minor,2,2.5,8008.085,Health+,2.933,362
 194,Lincoln Medical & Mental Health Center,Blue Cross/Blue Shield,Moderate,1,1,7991.33,Health+,2.933,362
-194,Lincoln Medical & Mental Health Center,Medicare,Extreme,11,13,5866.938181818182,Health+,2.933,362
-194,Lincoln Medical & Mental Health Center,Medicare,Major,85,5.235294117647059,6275.983764705882,Health+,2.933,362
-194,Lincoln Medical & Mental Health Center,Medicare,Minor,36,2.1666666666666665,6781.173888888889,Health+,2.933,362
-194,Lincoln Medical & Mental Health Center,Medicare,Moderate,103,3.0194174757281553,6524.306796116505,Health+,2.933,362
+194,Lincoln Medical & Mental Health Center,Medicare,Extreme,11,13,5866.938182,Health+,2.933,362
+194,Lincoln Medical & Mental Health Center,Medicare,Major,85,5.235294118,6275.983765,Health+,2.933,362
+194,Lincoln Medical & Mental Health Center,Medicare,Minor,36,2.166666667,6781.173889,Health+,2.933,362
+194,Lincoln Medical & Mental Health Center,Medicare,Moderate,103,3.019417476,6524.306796,Health+,2.933,362
 194,Lincoln Medical & Mental Health Center,Private Health Insurance,Extreme,2,6,7267.575,Health+,2.933,362
-194,Lincoln Medical & Mental Health Center,Private Health Insurance,Major,7,3.5714285714285716,6865.964285714286,Health+,2.933,362
+194,Lincoln Medical & Mental Health Center,Private Health Insurance,Major,7,3.571428571,6865.964286,Health+,2.933,362
 194,Lincoln Medical & Mental Health Center,Private Health Insurance,Minor,5,1.6,7850.374,Health+,2.933,362
-194,Lincoln Medical & Mental Health Center,Private Health Insurance,Moderate,5,2.6,7218.1179999999995,Health+,2.933,362
-194,Lincoln Medical & Mental Health Center,Self-Pay,Major,4,7.75,6502.1224999999995,Health+,2.933,362
-194,Lincoln Medical & Mental Health Center,Self-Pay,Minor,3,1.6666666666666667,6936.956666666667,Health+,2.933,362
-194,Lincoln Medical & Mental Health Center,Self-Pay,Moderate,7,2.857142857142857,7223.4914285714285,Health+,2.933,362
+194,Lincoln Medical & Mental Health Center,Private Health Insurance,Moderate,5,2.6,7218.118,Health+,2.933,362
+194,Lincoln Medical & Mental Health Center,Self-Pay,Major,4,7.75,6502.1225,Health+,2.933,362
+194,Lincoln Medical & Mental Health Center,Self-Pay,Minor,3,1.666666667,6936.956667,Health+,2.933,362
+194,Lincoln Medical & Mental Health Center,Self-Pay,Moderate,7,2.857142857,7223.491429,Health+,2.933,362
 194,Long Island Jewish Forest Hills,Blue Cross/Blue Shield,Major,4,2.75,16161.7625,Northwell,9.076,312
 194,Long Island Jewish Forest Hills,Blue Cross/Blue Shield,Minor,1,6,9598.31,Northwell,9.076,312
 194,Long Island Jewish Forest Hills,Blue Cross/Blue Shield,Moderate,5,4.4,11843.79,Northwell,9.076,312
 194,Long Island Jewish Forest Hills,Medicare,Extreme,50,9.74,11030.4474,Northwell,9.076,312
-194,Long Island Jewish Forest Hills,Medicare,Major,156,6.17948717948718,10902.228846153846,Northwell,9.076,312
-194,Long Island Jewish Forest Hills,Medicare,Minor,13,2.4615384615384617,13209.374615384615,Northwell,9.076,312
-194,Long Island Jewish Forest Hills,Medicare,Moderate,91,4.7032967032967035,10899.504725274724,Northwell,9.076,312
-194,Long Island Jewish Forest Hills,Private Health Insurance,Major,12,7.583333333333333,11454.071666666667,Northwell,9.076,312
+194,Long Island Jewish Forest Hills,Medicare,Major,156,6.179487179,10902.22885,Northwell,9.076,312
+194,Long Island Jewish Forest Hills,Medicare,Minor,13,2.461538462,13209.37462,Northwell,9.076,312
+194,Long Island Jewish Forest Hills,Medicare,Moderate,91,4.703296703,10899.50473,Northwell,9.076,312
+194,Long Island Jewish Forest Hills,Private Health Insurance,Major,12,7.583333333,11454.07167,Northwell,9.076,312
 194,Long Island Jewish Forest Hills,Private Health Insurance,Minor,1,1,18896.47,Northwell,9.076,312
 194,Long Island Jewish Forest Hills,Private Health Insurance,Moderate,6,4,10947.74,Northwell,9.076,312
 194,Long Island Jewish Medical Center,Blue Cross/Blue Shield,Extreme,1,24,10859.71,Northwell,13.07,1025
-194,Long Island Jewish Medical Center,Blue Cross/Blue Shield,Major,15,6.4,11098.418666666666,Northwell,13.07,1025
+194,Long Island Jewish Medical Center,Blue Cross/Blue Shield,Major,15,6.4,11098.41867,Northwell,13.07,1025
 194,Long Island Jewish Medical Center,Blue Cross/Blue Shield,Minor,5,2.6,10698.33,Northwell,13.07,1025
-194,Long Island Jewish Medical Center,Blue Cross/Blue Shield,Moderate,15,4.2,12732.800666666666,Northwell,13.07,1025
-194,Long Island Jewish Medical Center,Medicare,Extreme,58,12.758620689655173,10964.950172413794,Northwell,13.07,1025
-194,Long Island Jewish Medical Center,Medicare,Major,292,7.363013698630137,10700.294691780822,Northwell,13.07,1025
+194,Long Island Jewish Medical Center,Blue Cross/Blue Shield,Moderate,15,4.2,12732.80067,Northwell,13.07,1025
+194,Long Island Jewish Medical Center,Medicare,Extreme,58,12.75862069,10964.95017,Northwell,13.07,1025
+194,Long Island Jewish Medical Center,Medicare,Major,292,7.363013699,10700.29469,Northwell,13.07,1025
 194,Long Island Jewish Medical Center,Medicare,Minor,50,3.04,10994.9652,Northwell,13.07,1025
-194,Long Island Jewish Medical Center,Medicare,Moderate,329,4.3373860182370825,10559.101580547112,Northwell,13.07,1025
+194,Long Island Jewish Medical Center,Medicare,Moderate,329,4.337386018,10559.10158,Northwell,13.07,1025
 194,Long Island Jewish Medical Center,Private Health Insurance,Major,20,5.45,11714.707,Northwell,13.07,1025
 194,Long Island Jewish Medical Center,Private Health Insurance,Minor,5,3.4,10986.212,Northwell,13.07,1025
-194,Long Island Jewish Medical Center,Private Health Insurance,Moderate,30,3.2666666666666666,13085.01,Northwell,13.07,1025
+194,Long Island Jewish Medical Center,Private Health Insurance,Moderate,30,3.266666667,13085.01,Northwell,13.07,1025
 194,Long Island Jewish Medical Center,Self-Pay,Major,1,12,9054.53,Northwell,13.07,1025
 194,Long Island Jewish Medical Center,Self-Pay,Minor,4,1.5,14299.0925,Northwell,13.07,1025
-194,Long Island Jewish Medical Center,Self-Pay,Moderate,3,3.3333333333333335,12124.803333333333,Northwell,13.07,1025
+194,Long Island Jewish Medical Center,Self-Pay,Moderate,3,3.333333333,12124.80333,Northwell,13.07,1025
 194,Maimonides Medical Center,Blue Cross/Blue Shield,Extreme,1,4,8326,Montefiore,7.482,711
 194,Maimonides Medical Center,Blue Cross/Blue Shield,Major,8,4.875,11629.0525,Montefiore,7.482,711
 194,Maimonides Medical Center,Blue Cross/Blue Shield,Minor,4,1.75,14352.5,Montefiore,7.482,711
 194,Maimonides Medical Center,Blue Cross/Blue Shield,Moderate,5,2.2,14146,Montefiore,7.482,711
-194,Maimonides Medical Center,Medicare,Extreme,140,10.064285714285715,11879.310714285715,Montefiore,7.482,711
-194,Maimonides Medical Center,Medicare,Major,373,5.420911528150134,11559.925335120643,Montefiore,7.482,711
-194,Maimonides Medical Center,Medicare,Minor,41,2.5853658536585367,11091.248048780488,Montefiore,7.482,711
-194,Maimonides Medical Center,Medicare,Moderate,241,3.896265560165975,11493.274730290457,Montefiore,7.482,711
+194,Maimonides Medical Center,Medicare,Extreme,140,10.06428571,11879.31071,Montefiore,7.482,711
+194,Maimonides Medical Center,Medicare,Major,373,5.420911528,11559.92534,Montefiore,7.482,711
+194,Maimonides Medical Center,Medicare,Minor,41,2.585365854,11091.24805,Montefiore,7.482,711
+194,Maimonides Medical Center,Medicare,Moderate,241,3.89626556,11493.27473,Montefiore,7.482,711
 194,Maimonides Medical Center,Private Health Insurance,Extreme,2,14,12734.75,Montefiore,7.482,711
-194,Maimonides Medical Center,Private Health Insurance,Major,12,5.083333333333333,10584.301666666666,Montefiore,7.482,711
+194,Maimonides Medical Center,Private Health Insurance,Major,12,5.083333333,10584.30167,Montefiore,7.482,711
 194,Maimonides Medical Center,Private Health Insurance,Minor,1,4,9997.75,Montefiore,7.482,711
-194,Maimonides Medical Center,Private Health Insurance,Moderate,6,4.5,9647.378333333334,Montefiore,7.482,711
+194,Maimonides Medical Center,Private Health Insurance,Moderate,6,4.5,9647.378333,Montefiore,7.482,711
 194,Maimonides Medical Center,Self-Pay,Extreme,1,5,13608.2,Montefiore,7.482,711
 194,Maimonides Medical Center,Self-Pay,Major,1,5,10839.2,Montefiore,7.482,711
 194,Maimonides Medical Center,Self-Pay,Minor,1,7,10998.71,Montefiore,7.482,711
 194,Maimonides Medical Center,Self-Pay,Moderate,2,2.5,14205.125,Montefiore,7.482,711
-194,Memorial Hospital for Cancer and Allied Diseases,Blue Cross/Blue Shield,Major,2,4.5,8168.370000000001,Others,0.382,514
+194,Memorial Hospital for Cancer and Allied Diseases,Blue Cross/Blue Shield,Major,2,4.5,8168.37,Others,0.382,514
 194,Memorial Hospital for Cancer and Allied Diseases,Medicare,Extreme,8,7.375,11394.58375,Others,0.382,514
-194,Memorial Hospital for Cancer and Allied Diseases,Medicare,Major,45,5.666666666666667,12089.845777777778,Others,0.382,514
-194,Memorial Hospital for Cancer and Allied Diseases,Medicare,Moderate,15,5.666666666666667,11087.05,Others,0.382,514
-194,Memorial Hospital for Cancer and Allied Diseases,Private Health Insurance,Extreme,3,10.333333333333334,14299.403333333334,Others,0.382,514
-194,Memorial Hospital for Cancer and Allied Diseases,Private Health Insurance,Major,12,4.666666666666667,11781.913333333334,Others,0.382,514
+194,Memorial Hospital for Cancer and Allied Diseases,Medicare,Major,45,5.666666667,12089.84578,Others,0.382,514
+194,Memorial Hospital for Cancer and Allied Diseases,Medicare,Moderate,15,5.666666667,11087.05,Others,0.382,514
+194,Memorial Hospital for Cancer and Allied Diseases,Private Health Insurance,Extreme,3,10.33333333,14299.40333,Others,0.382,514
+194,Memorial Hospital for Cancer and Allied Diseases,Private Health Insurance,Major,12,4.666666667,11781.91333,Others,0.382,514
 194,Memorial Hospital for Cancer and Allied Diseases,Private Health Insurance,Minor,1,2,10957.59,Others,0.382,514
 194,Memorial Hospital for Cancer and Allied Diseases,Private Health Insurance,Moderate,2,2.5,11032.5,Others,0.382,514
 194,Metropolitan Hospital Center,Blue Cross/Blue Shield,Major,2,7,6996.8,Health+,1.074,338
 194,Metropolitan Hospital Center,Blue Cross/Blue Shield,Moderate,1,5,6795.74,Health+,1.074,338
 194,Metropolitan Hospital Center,Medicare,Extreme,4,20.5,6246.505,Health+,1.074,338
-194,Metropolitan Hospital Center,Medicare,Major,35,6.771428571428571,6570.796,Health+,1.074,338
-194,Metropolitan Hospital Center,Medicare,Minor,7,2,7640.935714285714,Health+,1.074,338
-194,Metropolitan Hospital Center,Medicare,Moderate,29,4.137931034482759,7002.602758620689,Health+,1.074,338
+194,Metropolitan Hospital Center,Medicare,Major,35,6.771428571,6570.796,Health+,1.074,338
+194,Metropolitan Hospital Center,Medicare,Minor,7,2,7640.935714,Health+,1.074,338
+194,Metropolitan Hospital Center,Medicare,Moderate,29,4.137931034,7002.602759,Health+,1.074,338
 194,Metropolitan Hospital Center,Private Health Insurance,Minor,1,2,7788.19,Health+,1.074,338
-194,Metropolitan Hospital Center,Self-Pay,Major,3,5.666666666666667,7504.113333333334,Health+,1.074,338
+194,Metropolitan Hospital Center,Self-Pay,Major,3,5.666666667,7504.113333,Health+,1.074,338
 194,Metropolitan Hospital Center,Self-Pay,Minor,1,1,7273.56,Health+,1.074,338
 194,Metropolitan Hospital Center,Self-Pay,Moderate,1,4,7373.97,Health+,1.074,338
 194,Montefiore Med Center - Jack D Weiler Hosp of A Einstein College Div,Blue Cross/Blue Shield,Extreme,4,6.25,16185.065,Montefiore,0.449,421
-194,Montefiore Med Center - Jack D Weiler Hosp of A Einstein College Div,Blue Cross/Blue Shield,Major,12,6,12816.249166666666,Montefiore,0.449,421
-194,Montefiore Med Center - Jack D Weiler Hosp of A Einstein College Div,Blue Cross/Blue Shield,Minor,2,1.5,15160.385000000002,Montefiore,0.449,421
-194,Montefiore Med Center - Jack D Weiler Hosp of A Einstein College Div,Blue Cross/Blue Shield,Moderate,9,3,14292.803333333333,Montefiore,0.449,421
-194,Montefiore Med Center - Jack D Weiler Hosp of A Einstein College Div,Medicare,Extreme,61,11.721311475409836,13311.74393442623,Montefiore,0.449,421
-194,Montefiore Med Center - Jack D Weiler Hosp of A Einstein College Div,Medicare,Major,387,6.677002583979328,12686.406976744185,Montefiore,0.449,421
-194,Montefiore Med Center - Jack D Weiler Hosp of A Einstein College Div,Medicare,Minor,33,2.6666666666666665,13341.531515151515,Montefiore,0.449,421
-194,Montefiore Med Center - Jack D Weiler Hosp of A Einstein College Div,Medicare,Moderate,287,4.045296167247387,13117.963972125435,Montefiore,0.449,421
+194,Montefiore Med Center - Jack D Weiler Hosp of A Einstein College Div,Blue Cross/Blue Shield,Major,12,6,12816.24917,Montefiore,0.449,421
+194,Montefiore Med Center - Jack D Weiler Hosp of A Einstein College Div,Blue Cross/Blue Shield,Minor,2,1.5,15160.385,Montefiore,0.449,421
+194,Montefiore Med Center - Jack D Weiler Hosp of A Einstein College Div,Blue Cross/Blue Shield,Moderate,9,3,14292.80333,Montefiore,0.449,421
+194,Montefiore Med Center - Jack D Weiler Hosp of A Einstein College Div,Medicare,Extreme,61,11.72131148,13311.74393,Montefiore,0.449,421
+194,Montefiore Med Center - Jack D Weiler Hosp of A Einstein College Div,Medicare,Major,387,6.677002584,12686.40698,Montefiore,0.449,421
+194,Montefiore Med Center - Jack D Weiler Hosp of A Einstein College Div,Medicare,Minor,33,2.666666667,13341.53152,Montefiore,0.449,421
+194,Montefiore Med Center - Jack D Weiler Hosp of A Einstein College Div,Medicare,Moderate,287,4.045296167,13117.96397,Montefiore,0.449,421
 194,Montefiore Med Center - Jack D Weiler Hosp of A Einstein College Div,Private Health Insurance,Extreme,1,8,12469.51,Montefiore,0.449,421
-194,Montefiore Med Center - Jack D Weiler Hosp of A Einstein College Div,Private Health Insurance,Major,36,7.166666666666667,13748.676111111112,Montefiore,0.449,421
-194,Montefiore Med Center - Jack D Weiler Hosp of A Einstein College Div,Private Health Insurance,Minor,3,2,16786.476666666666,Montefiore,0.449,421
-194,Montefiore Med Center - Jack D Weiler Hosp of A Einstein College Div,Private Health Insurance,Moderate,35,2.7142857142857144,15033.771999999999,Montefiore,0.449,421
+194,Montefiore Med Center - Jack D Weiler Hosp of A Einstein College Div,Private Health Insurance,Major,36,7.166666667,13748.67611,Montefiore,0.449,421
+194,Montefiore Med Center - Jack D Weiler Hosp of A Einstein College Div,Private Health Insurance,Minor,3,2,16786.47667,Montefiore,0.449,421
+194,Montefiore Med Center - Jack D Weiler Hosp of A Einstein College Div,Private Health Insurance,Moderate,35,2.714285714,15033.772,Montefiore,0.449,421
 194,Montefiore Med Center - Jack D Weiler Hosp of A Einstein College Div,Self-Pay,Major,8,5.375,11413.9825,Montefiore,0.449,421
 194,Montefiore Med Center - Jack D Weiler Hosp of A Einstein College Div,Self-Pay,Minor,1,4,9971.98,Montefiore,0.449,421
-194,Montefiore Med Center - Jack D Weiler Hosp of A Einstein College Div,Self-Pay,Moderate,14,3,12670.516428571429,Montefiore,0.449,421
+194,Montefiore Med Center - Jack D Weiler Hosp of A Einstein College Div,Self-Pay,Moderate,14,3,12670.51643,Montefiore,0.449,421
 194,Montefiore Medical Center-Wakefield Hospital,Blue Cross/Blue Shield,Extreme,1,5,13404.45,Montefiore,4.47,321
 194,Montefiore Medical Center-Wakefield Hospital,Blue Cross/Blue Shield,Major,4,6.25,12690.445,Montefiore,4.47,321
 194,Montefiore Medical Center-Wakefield Hospital,Blue Cross/Blue Shield,Moderate,2,3,16772.28,Montefiore,4.47,321
-194,Montefiore Medical Center-Wakefield Hospital,Medicare,Extreme,27,12.296296296296296,14120.411481481482,Montefiore,4.47,321
-194,Montefiore Medical Center-Wakefield Hospital,Medicare,Major,117,6.965811965811966,13096.9252991453,Montefiore,4.47,321
+194,Montefiore Medical Center-Wakefield Hospital,Medicare,Extreme,27,12.2962963,14120.41148,Montefiore,4.47,321
+194,Montefiore Medical Center-Wakefield Hospital,Medicare,Major,117,6.965811966,13096.9253,Montefiore,4.47,321
 194,Montefiore Medical Center-Wakefield Hospital,Medicare,Minor,8,4.125,12610.70125,Montefiore,4.47,321
-194,Montefiore Medical Center-Wakefield Hospital,Medicare,Moderate,72,4.055555555555555,14332.320555555556,Montefiore,4.47,321
+194,Montefiore Medical Center-Wakefield Hospital,Medicare,Moderate,72,4.055555556,14332.32056,Montefiore,4.47,321
 194,Montefiore Medical Center-Wakefield Hospital,Private Health Insurance,Extreme,2,12,14570.7,Montefiore,4.47,321
-194,Montefiore Medical Center-Wakefield Hospital,Private Health Insurance,Major,6,4.666666666666667,18606.006666666668,Montefiore,4.47,321
+194,Montefiore Medical Center-Wakefield Hospital,Private Health Insurance,Major,6,4.666666667,18606.00667,Montefiore,4.47,321
 194,Montefiore Medical Center-Wakefield Hospital,Private Health Insurance,Minor,1,2,15622.7,Montefiore,4.47,321
-194,Montefiore Medical Center-Wakefield Hospital,Private Health Insurance,Moderate,12,3.0833333333333335,15977.255833333333,Montefiore,4.47,321
+194,Montefiore Medical Center-Wakefield Hospital,Private Health Insurance,Moderate,12,3.083333333,15977.25583,Montefiore,4.47,321
 194,Montefiore Medical Center-Wakefield Hospital,Self-Pay,Major,2,4.5,23502.575,Montefiore,4.47,321
 194,Montefiore Medical Center-Wakefield Hospital,Self-Pay,Minor,1,1,25375.21,Montefiore,4.47,321
 194,Montefiore Medical Center-Wakefield Hospital,Self-Pay,Moderate,1,6,17128.04,Montefiore,4.47,321
 194,Montefiore Medical Center - Henry & Lucy Moses Div,Blue Cross/Blue Shield,Extreme,2,13.5,18723.64,Montefiore,1.721,816
-194,Montefiore Medical Center - Henry & Lucy Moses Div,Blue Cross/Blue Shield,Major,18,6.333333333333333,14772.006111111112,Montefiore,1.721,816
+194,Montefiore Medical Center - Henry & Lucy Moses Div,Blue Cross/Blue Shield,Major,18,6.333333333,14772.00611,Montefiore,1.721,816
 194,Montefiore Medical Center - Henry & Lucy Moses Div,Blue Cross/Blue Shield,Minor,5,1.6,20501.82,Montefiore,1.721,816
-194,Montefiore Medical Center - Henry & Lucy Moses Div,Blue Cross/Blue Shield,Moderate,24,3.4583333333333335,14692.895416666666,Montefiore,1.721,816
-194,Montefiore Medical Center - Henry & Lucy Moses Div,Medicare,Extreme,51,14.196078431372548,13965.11411764706,Montefiore,1.721,816
-194,Montefiore Medical Center - Henry & Lucy Moses Div,Medicare,Major,402,7.701492537313433,12671.802412935323,Montefiore,1.721,816
-194,Montefiore Medical Center - Henry & Lucy Moses Div,Medicare,Minor,60,3.5833333333333335,13711.430666666667,Montefiore,1.721,816
-194,Montefiore Medical Center - Henry & Lucy Moses Div,Medicare,Moderate,355,4.597183098591549,13238.00461971831,Montefiore,1.721,816
+194,Montefiore Medical Center - Henry & Lucy Moses Div,Blue Cross/Blue Shield,Moderate,24,3.458333333,14692.89542,Montefiore,1.721,816
+194,Montefiore Medical Center - Henry & Lucy Moses Div,Medicare,Extreme,51,14.19607843,13965.11412,Montefiore,1.721,816
+194,Montefiore Medical Center - Henry & Lucy Moses Div,Medicare,Major,402,7.701492537,12671.80241,Montefiore,1.721,816
+194,Montefiore Medical Center - Henry & Lucy Moses Div,Medicare,Minor,60,3.583333333,13711.43067,Montefiore,1.721,816
+194,Montefiore Medical Center - Henry & Lucy Moses Div,Medicare,Moderate,355,4.597183099,13238.00462,Montefiore,1.721,816
 194,Montefiore Medical Center - Henry & Lucy Moses Div,Private Health Insurance,Extreme,4,8,14178.01,Montefiore,1.721,816
-194,Montefiore Medical Center - Henry & Lucy Moses Div,Private Health Insurance,Major,43,6.325581395348837,12495.669767441861,Montefiore,1.721,816
+194,Montefiore Medical Center - Henry & Lucy Moses Div,Private Health Insurance,Major,43,6.325581395,12495.66977,Montefiore,1.721,816
 194,Montefiore Medical Center - Henry & Lucy Moses Div,Private Health Insurance,Minor,8,2.5,14368.97,Montefiore,1.721,816
-194,Montefiore Medical Center - Henry & Lucy Moses Div,Private Health Insurance,Moderate,43,4.162790697674419,13309.056279069768,Montefiore,1.721,816
-194,Montefiore Medical Center - Henry & Lucy Moses Div,Self-Pay,Extreme,3,14,14515.756666666668,Montefiore,1.721,816
+194,Montefiore Medical Center - Henry & Lucy Moses Div,Private Health Insurance,Moderate,43,4.162790698,13309.05628,Montefiore,1.721,816
+194,Montefiore Medical Center - Henry & Lucy Moses Div,Self-Pay,Extreme,3,14,14515.75667,Montefiore,1.721,816
 194,Montefiore Medical Center - Henry & Lucy Moses Div,Self-Pay,Major,5,5,13422.126,Montefiore,1.721,816
-194,Montefiore Medical Center - Henry & Lucy Moses Div,Self-Pay,Minor,3,4,11608.133333333333,Montefiore,1.721,816
+194,Montefiore Medical Center - Henry & Lucy Moses Div,Self-Pay,Minor,3,4,11608.13333,Montefiore,1.721,816
 194,Montefiore Medical Center - Henry & Lucy Moses Div,Self-Pay,Moderate,8,6.375,12564.8,Montefiore,1.721,816
-194,Mount Sinai Beth Israel,Blue Cross/Blue Shield,Major,3,7.333333333333333,8706.276666666667,Mount Sinai,0.821,696
-194,Mount Sinai Beth Israel,Blue Cross/Blue Shield,Moderate,3,2.6666666666666665,10906.046666666667,Mount Sinai,0.821,696
-194,Mount Sinai Beth Israel,Medicare,Extreme,47,9.76595744680851,9503.930212765958,Mount Sinai,0.821,696
-194,Mount Sinai Beth Israel,Medicare,Major,165,6.418181818181818,9049.844242424242,Mount Sinai,0.821,696
-194,Mount Sinai Beth Israel,Medicare,Minor,13,3.8461538461538463,9348.450769230769,Mount Sinai,0.821,696
-194,Mount Sinai Beth Israel,Medicare,Moderate,83,4.048192771084337,9701.431445783133,Mount Sinai,0.821,696
+194,Mount Sinai Beth Israel,Blue Cross/Blue Shield,Major,3,7.333333333,8706.276667,Mount Sinai,0.821,696
+194,Mount Sinai Beth Israel,Blue Cross/Blue Shield,Moderate,3,2.666666667,10906.04667,Mount Sinai,0.821,696
+194,Mount Sinai Beth Israel,Medicare,Extreme,47,9.765957447,9503.930213,Mount Sinai,0.821,696
+194,Mount Sinai Beth Israel,Medicare,Major,165,6.418181818,9049.844242,Mount Sinai,0.821,696
+194,Mount Sinai Beth Israel,Medicare,Minor,13,3.846153846,9348.450769,Mount Sinai,0.821,696
+194,Mount Sinai Beth Israel,Medicare,Moderate,83,4.048192771,9701.431446,Mount Sinai,0.821,696
 194,Mount Sinai Beth Israel,Private Health Insurance,Extreme,2,6.5,21064.68,Mount Sinai,0.821,696
 194,Mount Sinai Beth Israel,Private Health Insurance,Major,4,4.75,11302.0175,Mount Sinai,0.821,696
 194,Mount Sinai Beth Israel,Private Health Insurance,Minor,10,8.8,1429.604,Mount Sinai,0.821,696
@@ -317,143 +317,143 @@ apr_drg_code,facility_name,payment_typology_1,apr_severity_of_illness_descriptio
 194,Mount Sinai Brooklyn,Blue Cross/Blue Shield,Major,2,3,9385.445,Mount Sinai,9.659,212
 194,Mount Sinai Brooklyn,Blue Cross/Blue Shield,Minor,2,4,7789.915,Mount Sinai,9.659,212
 194,Mount Sinai Brooklyn,Blue Cross/Blue Shield,Moderate,10,3.8,8839.064,Mount Sinai,9.659,212
-194,Mount Sinai Brooklyn,Medicare,Extreme,29,11.96551724137931,9458.342758620689,Mount Sinai,9.659,212
-194,Mount Sinai Brooklyn,Medicare,Major,163,6.50920245398773,9019.521717791411,Mount Sinai,9.659,212
+194,Mount Sinai Brooklyn,Medicare,Extreme,29,11.96551724,9458.342759,Mount Sinai,9.659,212
+194,Mount Sinai Brooklyn,Medicare,Major,163,6.509202454,9019.521718,Mount Sinai,9.659,212
 194,Mount Sinai Brooklyn,Medicare,Minor,16,3,9183.095,Mount Sinai,9.659,212
-194,Mount Sinai Brooklyn,Medicare,Moderate,140,4.257142857142857,9211.188142857143,Mount Sinai,9.659,212
+194,Mount Sinai Brooklyn,Medicare,Moderate,140,4.257142857,9211.188143,Mount Sinai,9.659,212
 194,Mount Sinai Brooklyn,Private Health Insurance,Major,8,7,7122.42125,Mount Sinai,9.659,212
 194,Mount Sinai Brooklyn,Private Health Insurance,Minor,2,2.5,10649.77,Mount Sinai,9.659,212
-194,Mount Sinai Brooklyn,Private Health Insurance,Moderate,12,4.416666666666667,9536.553333333333,Mount Sinai,9.659,212
+194,Mount Sinai Brooklyn,Private Health Insurance,Moderate,12,4.416666667,9536.553333,Mount Sinai,9.659,212
 194,Mount Sinai Brooklyn,Self-Pay,Major,1,3,10045.13,Mount Sinai,9.659,212
 194,Mount Sinai Brooklyn,Self-Pay,Minor,1,7,10826.38,Mount Sinai,9.659,212
 194,Mount Sinai Brooklyn,Self-Pay,Moderate,1,3,9546.91,Mount Sinai,9.659,212
 194,Mount Sinai Hospital,Blue Cross/Blue Shield,Extreme,2,9,10242.14,Mount Sinai,1.116,1134
-194,Mount Sinai Hospital,Blue Cross/Blue Shield,Major,12,5.166666666666667,9493.1825,Mount Sinai,1.116,1134
+194,Mount Sinai Hospital,Blue Cross/Blue Shield,Major,12,5.166666667,9493.1825,Mount Sinai,1.116,1134
 194,Mount Sinai Hospital,Blue Cross/Blue Shield,Minor,2,2.5,9752.465,Mount Sinai,1.116,1134
 194,Mount Sinai Hospital,Blue Cross/Blue Shield,Moderate,5,6,8496.97,Mount Sinai,1.116,1134
-194,Mount Sinai Hospital,Medicare,Extreme,77,10.03896103896104,10220.946363636363,Mount Sinai,1.116,1134
-194,Mount Sinai Hospital,Medicare,Major,326,6.343558282208589,8890.615153374232,Mount Sinai,1.116,1134
-194,Mount Sinai Hospital,Medicare,Minor,9,2.888888888888889,9884.115555555556,Mount Sinai,1.116,1134
-194,Mount Sinai Hospital,Medicare,Moderate,153,4.2026143790849675,9395.803594771241,Mount Sinai,1.116,1134
+194,Mount Sinai Hospital,Medicare,Extreme,77,10.03896104,10220.94636,Mount Sinai,1.116,1134
+194,Mount Sinai Hospital,Medicare,Major,326,6.343558282,8890.615153,Mount Sinai,1.116,1134
+194,Mount Sinai Hospital,Medicare,Minor,9,2.888888889,9884.115556,Mount Sinai,1.116,1134
+194,Mount Sinai Hospital,Medicare,Moderate,153,4.202614379,9395.803595,Mount Sinai,1.116,1134
 194,Mount Sinai Hospital,Private Health Insurance,Extreme,4,5.75,10309.1125,Mount Sinai,1.116,1134
-194,Mount Sinai Hospital,Private Health Insurance,Major,31,6.483870967741935,9823.379677419354,Mount Sinai,1.116,1134
-194,Mount Sinai Hospital,Private Health Insurance,Moderate,13,4.230769230769231,10568.172307692308,Mount Sinai,1.116,1134
-194,Mount Sinai Hospital,Self-Pay,Major,3,3,13781.106666666667,Mount Sinai,1.116,1134
+194,Mount Sinai Hospital,Private Health Insurance,Major,31,6.483870968,9823.379677,Mount Sinai,1.116,1134
+194,Mount Sinai Hospital,Private Health Insurance,Moderate,13,4.230769231,10568.17231,Mount Sinai,1.116,1134
+194,Mount Sinai Hospital,Self-Pay,Major,3,3,13781.10667,Mount Sinai,1.116,1134
 194,Mount Sinai Hospital,Self-Pay,Moderate,4,3.5,10497.8625,Mount Sinai,1.116,1134
 194,Mount Sinai Hospital - Mount Sinai Hospital of Queens,Blue Cross/Blue Shield,Major,4,5.5,4740.405,Mount Sinai,6.396,228
-194,Mount Sinai Hospital - Mount Sinai Hospital of Queens,Blue Cross/Blue Shield,Moderate,3,4.666666666666667,6385.903333333334,Mount Sinai,6.396,228
-194,Mount Sinai Hospital - Mount Sinai Hospital of Queens,Medicare,Extreme,37,8.054054054054054,5994.034324324324,Mount Sinai,6.396,228
-194,Mount Sinai Hospital - Mount Sinai Hospital of Queens,Medicare,Major,142,5.690140845070423,5758.8714788732395,Mount Sinai,6.396,228
-194,Mount Sinai Hospital - Mount Sinai Hospital of Queens,Medicare,Minor,7,2.2857142857142856,5664.578571428571,Mount Sinai,6.396,228
-194,Mount Sinai Hospital - Mount Sinai Hospital of Queens,Medicare,Moderate,71,3.8028169014084505,5042.341126760563,Mount Sinai,6.396,228
+194,Mount Sinai Hospital - Mount Sinai Hospital of Queens,Blue Cross/Blue Shield,Moderate,3,4.666666667,6385.903333,Mount Sinai,6.396,228
+194,Mount Sinai Hospital - Mount Sinai Hospital of Queens,Medicare,Extreme,37,8.054054054,5994.034324,Mount Sinai,6.396,228
+194,Mount Sinai Hospital - Mount Sinai Hospital of Queens,Medicare,Major,142,5.690140845,5758.871479,Mount Sinai,6.396,228
+194,Mount Sinai Hospital - Mount Sinai Hospital of Queens,Medicare,Minor,7,2.285714286,5664.578571,Mount Sinai,6.396,228
+194,Mount Sinai Hospital - Mount Sinai Hospital of Queens,Medicare,Moderate,71,3.802816901,5042.341127,Mount Sinai,6.396,228
 194,Mount Sinai Hospital - Mount Sinai Hospital of Queens,Private Health Insurance,Extreme,1,8,6752.73,Mount Sinai,6.396,228
-194,Mount Sinai Hospital - Mount Sinai Hospital of Queens,Private Health Insurance,Major,9,5.222222222222222,4789.722222222222,Mount Sinai,6.396,228
+194,Mount Sinai Hospital - Mount Sinai Hospital of Queens,Private Health Insurance,Major,9,5.222222222,4789.722222,Mount Sinai,6.396,228
 194,Mount Sinai Hospital - Mount Sinai Hospital of Queens,Private Health Insurance,Moderate,6,5,4601.71,Mount Sinai,6.396,228
 194,Mount Sinai Hospital - Mount Sinai Hospital of Queens,Self-Pay,Extreme,1,6,12946.06,Mount Sinai,6.396,228
 194,Mount Sinai Hospital - Mount Sinai Hospital of Queens,Self-Pay,Major,5,4,5264.19,Mount Sinai,6.396,228
 194,Mount Sinai Hospital - Mount Sinai Hospital of Queens,Self-Pay,Moderate,1,4,6436.96,Mount Sinai,6.396,228
 194,Mount Sinai St. Luke's,Blue Cross/Blue Shield,Extreme,5,8.2,11539.912,Mount Sinai,1.625,495
-194,Mount Sinai St. Luke's,Blue Cross/Blue Shield,Major,6,6.5,8703.851666666667,Mount Sinai,1.625,495
+194,Mount Sinai St. Luke's,Blue Cross/Blue Shield,Major,6,6.5,8703.851667,Mount Sinai,1.625,495
 194,Mount Sinai St. Luke's,Blue Cross/Blue Shield,Minor,1,1,10838.5,Mount Sinai,1.625,495
 194,Mount Sinai St. Luke's,Blue Cross/Blue Shield,Moderate,2,3.5,10367.205,Mount Sinai,1.625,495
-194,Mount Sinai St. Luke's,Medicare,Extreme,55,9.018181818181818,10207.948909090908,Mount Sinai,1.625,495
-194,Mount Sinai St. Luke's,Medicare,Major,207,6.36231884057971,9754.345845410628,Mount Sinai,1.625,495
-194,Mount Sinai St. Luke's,Medicare,Minor,14,2.7142857142857144,11088.175,Mount Sinai,1.625,495
-194,Mount Sinai St. Luke's,Medicare,Moderate,85,4.423529411764706,9780.322588235294,Mount Sinai,1.625,495
+194,Mount Sinai St. Luke's,Medicare,Extreme,55,9.018181818,10207.94891,Mount Sinai,1.625,495
+194,Mount Sinai St. Luke's,Medicare,Major,207,6.362318841,9754.345845,Mount Sinai,1.625,495
+194,Mount Sinai St. Luke's,Medicare,Minor,14,2.714285714,11088.175,Mount Sinai,1.625,495
+194,Mount Sinai St. Luke's,Medicare,Moderate,85,4.423529412,9780.322588,Mount Sinai,1.625,495
 194,Mount Sinai St. Luke's,Private Health Insurance,Major,8,7.75,9006.2875,Mount Sinai,1.625,495
 194,Mount Sinai St. Luke's,Private Health Insurance,Minor,1,2,7723.75,Mount Sinai,1.625,495
 194,Mount Sinai St. Luke's,Private Health Insurance,Moderate,8,3.375,10159.515,Mount Sinai,1.625,495
-194,Mount Sinai West,Blue Cross/Blue Shield,Moderate,3,1.6666666666666667,15307.24,Mount Sinai,2.374,514
-194,Mount Sinai West,Medicare,Extreme,18,9.722222222222221,8531.975555555555,Mount Sinai,2.374,514
-194,Mount Sinai West,Medicare,Major,65,5.030769230769231,9909.744461538461,Mount Sinai,2.374,514
+194,Mount Sinai West,Blue Cross/Blue Shield,Moderate,3,1.666666667,15307.24,Mount Sinai,2.374,514
+194,Mount Sinai West,Medicare,Extreme,18,9.722222222,8531.975556,Mount Sinai,2.374,514
+194,Mount Sinai West,Medicare,Major,65,5.030769231,9909.744462,Mount Sinai,2.374,514
 194,Mount Sinai West,Medicare,Minor,4,2.25,11243.405,Mount Sinai,2.374,514
-194,Mount Sinai West,Medicare,Moderate,47,4.25531914893617,9772.964893617022,Mount Sinai,2.374,514
-194,Mount Sinai West,Private Health Insurance,Extreme,2,6,9869.314999999999,Mount Sinai,2.374,514
-194,Mount Sinai West,Private Health Insurance,Major,6,3,10910.164999999999,Mount Sinai,2.374,514
+194,Mount Sinai West,Medicare,Moderate,47,4.255319149,9772.964894,Mount Sinai,2.374,514
+194,Mount Sinai West,Private Health Insurance,Extreme,2,6,9869.315,Mount Sinai,2.374,514
+194,Mount Sinai West,Private Health Insurance,Major,6,3,10910.165,Mount Sinai,2.374,514
 194,Mount Sinai West,Private Health Insurance,Moderate,4,3.25,9638.535,Mount Sinai,2.374,514
 194,Mount Sinai West,Self-Pay,Moderate,4,2,13685.445,Mount Sinai,2.374,514
 194,New York-Presbyterian/Lower Manhattan Hospital,Blue Cross/Blue Shield,Extreme,2,12.5,14697.045,NewYork-Presbyterian,1.882,180
-194,New York-Presbyterian/Lower Manhattan Hospital,Blue Cross/Blue Shield,Major,3,2.3333333333333335,11789.056666666667,NewYork-Presbyterian,1.882,180
+194,New York-Presbyterian/Lower Manhattan Hospital,Blue Cross/Blue Shield,Major,3,2.333333333,11789.05667,NewYork-Presbyterian,1.882,180
 194,New York-Presbyterian/Lower Manhattan Hospital,Blue Cross/Blue Shield,Minor,1,1,13002.11,NewYork-Presbyterian,1.882,180
 194,New York-Presbyterian/Lower Manhattan Hospital,Blue Cross/Blue Shield,Moderate,1,5,10868.79,NewYork-Presbyterian,1.882,180
-194,New York-Presbyterian/Lower Manhattan Hospital,Medicare,Extreme,22,14.136363636363637,13039.128636363635,NewYork-Presbyterian,1.882,180
+194,New York-Presbyterian/Lower Manhattan Hospital,Medicare,Extreme,22,14.13636364,13039.12864,NewYork-Presbyterian,1.882,180
 194,New York-Presbyterian/Lower Manhattan Hospital,Medicare,Major,60,5.5,11895.9415,NewYork-Presbyterian,1.882,180
-194,New York-Presbyterian/Lower Manhattan Hospital,Medicare,Minor,9,2.111111111111111,12779.547777777778,NewYork-Presbyterian,1.882,180
-194,New York-Presbyterian/Lower Manhattan Hospital,Medicare,Moderate,49,3.7346938775510203,11951.641428571429,NewYork-Presbyterian,1.882,180
+194,New York-Presbyterian/Lower Manhattan Hospital,Medicare,Minor,9,2.111111111,12779.54778,NewYork-Presbyterian,1.882,180
+194,New York-Presbyterian/Lower Manhattan Hospital,Medicare,Moderate,49,3.734693878,11951.64143,NewYork-Presbyterian,1.882,180
 194,New York-Presbyterian/Lower Manhattan Hospital,Private Health Insurance,Major,2,6.5,10938.215,NewYork-Presbyterian,1.882,180
 194,New York-Presbyterian/Lower Manhattan Hospital,Private Health Insurance,Moderate,3,4,12222.1,NewYork-Presbyterian,1.882,180
 194,New York-Presbyterian/Lower Manhattan Hospital,Self-Pay,Minor,1,2,12411.55,NewYork-Presbyterian,1.882,180
-194,New York-Presbyterian/Lower Manhattan Hospital,Self-Pay,Moderate,2,3.5,13474.990000000002,NewYork-Presbyterian,1.882,180
+194,New York-Presbyterian/Lower Manhattan Hospital,Self-Pay,Moderate,2,3.5,13474.99,NewYork-Presbyterian,1.882,180
 194,"New York Community Hospital of Brooklyn, Inc",Blue Cross/Blue Shield,Extreme,1,13,6570.2,NewYork-Presbyterian,4.632,134
 194,"New York Community Hospital of Brooklyn, Inc",Blue Cross/Blue Shield,Major,4,12.5,5522.545,NewYork-Presbyterian,4.632,134
 194,"New York Community Hospital of Brooklyn, Inc",Blue Cross/Blue Shield,Moderate,5,5.4,5930.856,NewYork-Presbyterian,4.632,134
-194,"New York Community Hospital of Brooklyn, Inc",Medicare,Extreme,23,12.695652173913043,5222.204347826087,NewYork-Presbyterian,4.632,134
-194,"New York Community Hospital of Brooklyn, Inc",Medicare,Major,105,7.228571428571429,5493.969047619047,NewYork-Presbyterian,4.632,134
-194,"New York Community Hospital of Brooklyn, Inc",Medicare,Minor,32,4.75,3796.9684375,NewYork-Presbyterian,4.632,134
-194,"New York Community Hospital of Brooklyn, Inc",Medicare,Moderate,192,5.234375,4591.803072916667,NewYork-Presbyterian,4.632,134
+194,"New York Community Hospital of Brooklyn, Inc",Medicare,Extreme,23,12.69565217,5222.204348,NewYork-Presbyterian,4.632,134
+194,"New York Community Hospital of Brooklyn, Inc",Medicare,Major,105,7.228571429,5493.969048,NewYork-Presbyterian,4.632,134
+194,"New York Community Hospital of Brooklyn, Inc",Medicare,Minor,32,4.75,3796.968438,NewYork-Presbyterian,4.632,134
+194,"New York Community Hospital of Brooklyn, Inc",Medicare,Moderate,192,5.234375,4591.803073,NewYork-Presbyterian,4.632,134
 194,"New York Community Hospital of Brooklyn, Inc",Private Health Insurance,Extreme,1,16,3297.59,NewYork-Presbyterian,4.632,134
-194,"New York Community Hospital of Brooklyn, Inc",Private Health Insurance,Major,2,4,4834.299999999999,NewYork-Presbyterian,4.632,134
+194,"New York Community Hospital of Brooklyn, Inc",Private Health Insurance,Major,2,4,4834.3,NewYork-Presbyterian,4.632,134
 194,"New York Community Hospital of Brooklyn, Inc",Private Health Insurance,Minor,1,3,3059.39,NewYork-Presbyterian,4.632,134
-194,"New York Community Hospital of Brooklyn, Inc",Private Health Insurance,Moderate,8,3.375,7333.2249999999995,NewYork-Presbyterian,4.632,134
-194,"New York Community Hospital of Brooklyn, Inc",Self-Pay,Moderate,2,4.5,3927.1400000000003,NewYork-Presbyterian,4.632,134
+194,"New York Community Hospital of Brooklyn, Inc",Private Health Insurance,Moderate,8,3.375,7333.225,NewYork-Presbyterian,4.632,134
+194,"New York Community Hospital of Brooklyn, Inc",Self-Pay,Moderate,2,4.5,3927.14,NewYork-Presbyterian,4.632,134
 194,North Central Bronx Hospital,Blue Cross/Blue Shield,Moderate,2,4.5,6004.575,Health+,3.22,213
-194,North Central Bronx Hospital,Medicare,Extreme,7,11.428571428571429,6982.36,Health+,3.22,213
-194,North Central Bronx Hospital,Medicare,Major,22,11.272727272727273,6232.983636363637,Health+,3.22,213
+194,North Central Bronx Hospital,Medicare,Extreme,7,11.42857143,6982.36,Health+,3.22,213
+194,North Central Bronx Hospital,Medicare,Major,22,11.27272727,6232.983636,Health+,3.22,213
 194,North Central Bronx Hospital,Medicare,Minor,4,2.75,6412.75,Health+,3.22,213
-194,North Central Bronx Hospital,Medicare,Moderate,27,6,6194.642592592592,Health+,3.22,213
+194,North Central Bronx Hospital,Medicare,Moderate,27,6,6194.642593,Health+,3.22,213
 194,North Central Bronx Hospital,Private Health Insurance,Minor,3,2,7252.51,Health+,3.22,213
 194,North Central Bronx Hospital,Private Health Insurance,Moderate,4,6,6942.74,Health+,3.22,213
 194,North Central Bronx Hospital,Self-Pay,Major,4,11,5789.895,Health+,3.22,213
-194,North Central Bronx Hospital,Self-Pay,Moderate,3,5.333333333333333,6747.17,Health+,3.22,213
-194,NYU Hospitals Center,Blue Cross/Blue Shield,Extreme,3,7.666666666666667,17541.113333333335,NYU Langone,1.88,844
-194,NYU Hospitals Center,Blue Cross/Blue Shield,Major,12,5.916666666666667,10998.318333333333,NYU Langone,1.88,844
-194,NYU Hospitals Center,Blue Cross/Blue Shield,Minor,9,7,10558.122222222222,NYU Langone,1.88,844
+194,North Central Bronx Hospital,Self-Pay,Moderate,3,5.333333333,6747.17,Health+,3.22,213
+194,NYU Hospitals Center,Blue Cross/Blue Shield,Extreme,3,7.666666667,17541.11333,NYU Langone,1.88,844
+194,NYU Hospitals Center,Blue Cross/Blue Shield,Major,12,5.916666667,10998.31833,NYU Langone,1.88,844
+194,NYU Hospitals Center,Blue Cross/Blue Shield,Minor,9,7,10558.12222,NYU Langone,1.88,844
 194,NYU Hospitals Center,Blue Cross/Blue Shield,Moderate,8,5.5,10793.1225,NYU Langone,1.88,844
-194,NYU Hospitals Center,Medicare,Extreme,37,9.945945945945946,13417.820270270271,NYU Langone,1.88,844
-194,NYU Hospitals Center,Medicare,Major,156,6.858974358974359,11867.243397435897,NYU Langone,1.88,844
-194,NYU Hospitals Center,Medicare,Minor,155,7.264516129032258,11312.658,NYU Langone,1.88,844
-194,NYU Hospitals Center,Medicare,Moderate,82,4.902439024390244,11791.612195121952,NYU Langone,1.88,844
-194,NYU Hospitals Center,Private Health Insurance,Extreme,12,8,14696.976666666667,NYU Langone,1.88,844
-194,NYU Hospitals Center,Private Health Insurance,Major,22,5.409090909090909,11213.655454545455,NYU Langone,1.88,844
-194,NYU Hospitals Center,Private Health Insurance,Minor,23,6.739130434782608,10773.335217391304,NYU Langone,1.88,844
+194,NYU Hospitals Center,Medicare,Extreme,37,9.945945946,13417.82027,NYU Langone,1.88,844
+194,NYU Hospitals Center,Medicare,Major,156,6.858974359,11867.2434,NYU Langone,1.88,844
+194,NYU Hospitals Center,Medicare,Minor,155,7.264516129,11312.658,NYU Langone,1.88,844
+194,NYU Hospitals Center,Medicare,Moderate,82,4.902439024,11791.6122,NYU Langone,1.88,844
+194,NYU Hospitals Center,Private Health Insurance,Extreme,12,8,14696.97667,NYU Langone,1.88,844
+194,NYU Hospitals Center,Private Health Insurance,Major,22,5.409090909,11213.65545,NYU Langone,1.88,844
+194,NYU Hospitals Center,Private Health Insurance,Minor,23,6.739130435,10773.33522,NYU Langone,1.88,844
 194,NYU Hospitals Center,Private Health Insurance,Moderate,8,5.375,15289.12875,NYU Langone,1.88,844
 194,NYU Hospitals Center,Self-Pay,Major,8,8,11080.57625,NYU Langone,1.88,844
-194,NYU Hospitals Center,Self-Pay,Minor,7,5.714285714285714,11972.312857142857,NYU Langone,1.88,844
-194,NYU Hospitals Center,Self-Pay,Moderate,6,2.5,12436.181666666667,NYU Langone,1.88,844
+194,NYU Hospitals Center,Self-Pay,Minor,7,5.714285714,11972.31286,NYU Langone,1.88,844
+194,NYU Hospitals Center,Self-Pay,Moderate,6,2.5,12436.18167,NYU Langone,1.88,844
 194,NYU Lutheran Medical Center,Blue Cross/Blue Shield,Extreme,1,5,10927.88,NYU Langone,2.193,444
-194,NYU Lutheran Medical Center,Blue Cross/Blue Shield,Major,9,5.555555555555555,10499.943333333333,NYU Langone,2.193,444
+194,NYU Lutheran Medical Center,Blue Cross/Blue Shield,Major,9,5.555555556,10499.94333,NYU Langone,2.193,444
 194,NYU Lutheran Medical Center,Blue Cross/Blue Shield,Minor,8,4.75,12628.55,NYU Langone,2.193,444
-194,NYU Lutheran Medical Center,Blue Cross/Blue Shield,Moderate,3,2.6666666666666665,12691.380000000001,NYU Langone,2.193,444
-194,NYU Lutheran Medical Center,Medicare,Extreme,28,9,12321.536428571428,NYU Langone,2.193,444
-194,NYU Lutheran Medical Center,Medicare,Major,93,5.096774193548387,10692.295161290322,NYU Langone,2.193,444
-194,NYU Lutheran Medical Center,Medicare,Minor,46,5.521739130434782,12057.515217391305,NYU Langone,2.193,444
+194,NYU Lutheran Medical Center,Blue Cross/Blue Shield,Moderate,3,2.666666667,12691.38,NYU Langone,2.193,444
+194,NYU Lutheran Medical Center,Medicare,Extreme,28,9,12321.53643,NYU Langone,2.193,444
+194,NYU Lutheran Medical Center,Medicare,Major,93,5.096774194,10692.29516,NYU Langone,2.193,444
+194,NYU Lutheran Medical Center,Medicare,Minor,46,5.52173913,12057.51522,NYU Langone,2.193,444
 194,NYU Lutheran Medical Center,Medicare,Moderate,64,3.953125,11677.29625,NYU Langone,2.193,444
 194,NYU Lutheran Medical Center,Private Health Insurance,Extreme,1,8,16200.04,NYU Langone,2.193,444
-194,NYU Lutheran Medical Center,Private Health Insurance,Major,11,6.090909090909091,10314.289090909091,NYU Langone,2.193,444
-194,NYU Lutheran Medical Center,Private Health Insurance,Minor,11,4.545454545454546,11266.36,NYU Langone,2.193,444
-194,NYU Lutheran Medical Center,Private Health Insurance,Moderate,6,3.5,11854.128333333332,NYU Langone,2.193,444
-194,NYU Lutheran Medical Center,Self-Pay,Minor,9,7.111111111111111,12001.725555555555,NYU Langone,2.193,444
+194,NYU Lutheran Medical Center,Private Health Insurance,Major,11,6.090909091,10314.28909,NYU Langone,2.193,444
+194,NYU Lutheran Medical Center,Private Health Insurance,Minor,11,4.545454545,11266.36,NYU Langone,2.193,444
+194,NYU Lutheran Medical Center,Private Health Insurance,Moderate,6,3.5,11854.12833,NYU Langone,2.193,444
+194,NYU Lutheran Medical Center,Self-Pay,Minor,9,7.111111111,12001.72556,NYU Langone,2.193,444
 194,Queens Hospital Center,Blue Cross/Blue Shield,Major,3,3,8669.04,Health+,15.7,269
-194,Queens Hospital Center,Blue Cross/Blue Shield,Moderate,3,3.6666666666666665,7339.906666666667,Health+,15.7,269
-194,Queens Hospital Center,Medicare,Extreme,11,10.454545454545455,7218.388181818182,Health+,15.7,269
-194,Queens Hospital Center,Medicare,Major,67,6.835820895522388,6444.902686567164,Health+,15.7,269
-194,Queens Hospital Center,Medicare,Minor,26,3.269230769230769,7480.0226923076925,Health+,15.7,269
-194,Queens Hospital Center,Medicare,Moderate,87,4.586206896551724,6882.729425287356,Health+,15.7,269
+194,Queens Hospital Center,Blue Cross/Blue Shield,Moderate,3,3.666666667,7339.906667,Health+,15.7,269
+194,Queens Hospital Center,Medicare,Extreme,11,10.45454545,7218.388182,Health+,15.7,269
+194,Queens Hospital Center,Medicare,Major,67,6.835820896,6444.902687,Health+,15.7,269
+194,Queens Hospital Center,Medicare,Minor,26,3.269230769,7480.022692,Health+,15.7,269
+194,Queens Hospital Center,Medicare,Moderate,87,4.586206897,6882.729425,Health+,15.7,269
 194,Queens Hospital Center,Private Health Insurance,Extreme,2,8,7038.23,Health+,15.7,269
-194,Queens Hospital Center,Private Health Insurance,Major,6,8.5,6645.886666666666,Health+,15.7,269
+194,Queens Hospital Center,Private Health Insurance,Major,6,8.5,6645.886667,Health+,15.7,269
 194,Queens Hospital Center,Private Health Insurance,Minor,2,3.5,7290.3,Health+,15.7,269
-194,Queens Hospital Center,Private Health Insurance,Moderate,7,4.142857142857143,6919.341428571429,Health+,15.7,269
+194,Queens Hospital Center,Private Health Insurance,Moderate,7,4.142857143,6919.341429,Health+,15.7,269
 194,Queens Hospital Center,Self-Pay,Extreme,1,9,5774.15,Health+,15.7,269
-194,Queens Hospital Center,Self-Pay,Major,4,4.25,7193.5025000000005,Health+,15.7,269
+194,Queens Hospital Center,Self-Pay,Major,4,4.25,7193.5025,Health+,15.7,269
 194,Queens Hospital Center,Self-Pay,Minor,2,3.5,7604.625,Health+,15.7,269
-194,Queens Hospital Center,Self-Pay,Moderate,9,4.111111111111111,6622.236666666667,Health+,15.7,269
+194,Queens Hospital Center,Self-Pay,Moderate,9,4.111111111,6622.236667,Health+,15.7,269
 194,Richmond University Medical Center,Blue Cross/Blue Shield,Extreme,1,2,7715.85,Mount Sinai,17.93,448
 194,Richmond University Medical Center,Blue Cross/Blue Shield,Major,1,3,10612.38,Mount Sinai,17.93,448
 194,Richmond University Medical Center,Blue Cross/Blue Shield,Moderate,2,2,10561.59,Mount Sinai,17.93,448
-194,Richmond University Medical Center,Medicare,Extreme,38,12.078947368421053,8129.3544736842105,Mount Sinai,17.93,448
-194,Richmond University Medical Center,Medicare,Major,128,5.6640625,7538.860234375,Mount Sinai,17.93,448
+194,Richmond University Medical Center,Medicare,Extreme,38,12.07894737,8129.354474,Mount Sinai,17.93,448
+194,Richmond University Medical Center,Medicare,Major,128,5.6640625,7538.860234,Mount Sinai,17.93,448
 194,Richmond University Medical Center,Medicare,Minor,10,3.7,8015.577,Mount Sinai,17.93,448
-194,Richmond University Medical Center,Medicare,Moderate,56,4.178571428571429,7715.468035714286,Mount Sinai,17.93,448
+194,Richmond University Medical Center,Medicare,Moderate,56,4.178571429,7715.468036,Mount Sinai,17.93,448
 194,Richmond University Medical Center,Private Health Insurance,Extreme,1,7,8054.58,Mount Sinai,17.93,448
 194,Richmond University Medical Center,Private Health Insurance,Major,10,3,8029.173,Mount Sinai,17.93,448
 194,Richmond University Medical Center,Private Health Insurance,Minor,1,1,12874.56,Mount Sinai,17.93,448
@@ -461,72 +461,72 @@ apr_drg_code,facility_name,payment_typology_1,apr_severity_of_illness_descriptio
 194,Richmond University Medical Center,Self-Pay,Major,1,15,5454.75,Mount Sinai,17.93,448
 194,Richmond University Medical Center,Self-Pay,Moderate,1,4,6944.49,Mount Sinai,17.93,448
 194,SBH Health System,Medicare,Extreme,16,7.375,6718.798125,Others,3.596,422
-194,SBH Health System,Medicare,Major,53,6.339622641509434,6155.53358490566,Others,3.596,422
+194,SBH Health System,Medicare,Major,53,6.339622642,6155.533585,Others,3.596,422
 194,SBH Health System,Medicare,Minor,8,2.375,6269.6875,Others,3.596,422
-194,SBH Health System,Medicare,Moderate,51,3.803921568627451,6524.60568627451,Others,3.596,422
+194,SBH Health System,Medicare,Moderate,51,3.803921569,6524.605686,Others,3.596,422
 194,SBH Health System,Private Health Insurance,Extreme,1,7,5524.05,Others,3.596,422
-194,SBH Health System,Private Health Insurance,Major,7,5,6063.828571428571,Others,3.596,422
+194,SBH Health System,Private Health Insurance,Major,7,5,6063.828571,Others,3.596,422
 194,SBH Health System,Private Health Insurance,Minor,1,2,6483.56,Others,3.596,422
 194,SBH Health System,Private Health Insurance,Moderate,2,3,6242.08,Others,3.596,422
-194,SBH Health System,Self-Pay,Extreme,3,4,10360.823333333334,Others,3.596,422
+194,SBH Health System,Self-Pay,Extreme,3,4,10360.82333,Others,3.596,422
 194,SBH Health System,Self-Pay,Moderate,2,2,5925.275,Others,3.596,422
-194,Staten Island University Hosp-North,Blue Cross/Blue Shield,Extreme,3,5.333333333333333,10595.116666666667,Northwell,14.9,472
+194,Staten Island University Hosp-North,Blue Cross/Blue Shield,Extreme,3,5.333333333,10595.11667,Northwell,14.9,472
 194,Staten Island University Hosp-North,Blue Cross/Blue Shield,Major,10,5.8,9166.874,Northwell,14.9,472
-194,Staten Island University Hosp-North,Blue Cross/Blue Shield,Moderate,13,3.6923076923076925,11730.328461538462,Northwell,14.9,472
-194,Staten Island University Hosp-North,Medicare,Extreme,82,10.573170731707316,9240.725975609756,Northwell,14.9,472
-194,Staten Island University Hosp-North,Medicare,Major,296,6.422297297297297,9259.67472972973,Northwell,14.9,472
-194,Staten Island University Hosp-North,Medicare,Minor,39,2.717948717948718,10745.24564102564,Northwell,14.9,472
-194,Staten Island University Hosp-North,Medicare,Moderate,194,4.1340206185567014,9784.303041237114,Northwell,14.9,472
-194,Staten Island University Hosp-North,Private Health Insurance,Extreme,3,13,11115.713333333333,Northwell,14.9,472
-194,Staten Island University Hosp-North,Private Health Insurance,Major,9,7.555555555555555,8968.308888888889,Northwell,14.9,472
+194,Staten Island University Hosp-North,Blue Cross/Blue Shield,Moderate,13,3.692307692,11730.32846,Northwell,14.9,472
+194,Staten Island University Hosp-North,Medicare,Extreme,82,10.57317073,9240.725976,Northwell,14.9,472
+194,Staten Island University Hosp-North,Medicare,Major,296,6.422297297,9259.67473,Northwell,14.9,472
+194,Staten Island University Hosp-North,Medicare,Minor,39,2.717948718,10745.24564,Northwell,14.9,472
+194,Staten Island University Hosp-North,Medicare,Moderate,194,4.134020619,9784.303041,Northwell,14.9,472
+194,Staten Island University Hosp-North,Private Health Insurance,Extreme,3,13,11115.71333,Northwell,14.9,472
+194,Staten Island University Hosp-North,Private Health Insurance,Major,9,7.555555556,8968.308889,Northwell,14.9,472
 194,Staten Island University Hosp-North,Private Health Insurance,Minor,1,2,11412.24,Northwell,14.9,472
-194,Staten Island University Hosp-North,Private Health Insurance,Moderate,9,2.3333333333333335,11600.986666666666,Northwell,14.9,472
+194,Staten Island University Hosp-North,Private Health Insurance,Moderate,9,2.333333333,11600.98667,Northwell,14.9,472
 194,Staten Island University Hosp-North,Self-Pay,Moderate,1,5,9467.41,Northwell,14.9,472
 194,Staten Island University Hosp-South,Blue Cross/Blue Shield,Major,2,2,14695.515,Northwell,24.36,194
 194,Staten Island University Hosp-South,Blue Cross/Blue Shield,Minor,1,2,10596.83,Northwell,24.36,194
 194,Staten Island University Hosp-South,Blue Cross/Blue Shield,Moderate,5,3.4,11157.512,Northwell,24.36,194
-194,Staten Island University Hosp-South,Medicare,Extreme,19,14.263157894736842,8485.06105263158,Northwell,24.36,194
-194,Staten Island University Hosp-South,Medicare,Major,56,6.767857142857143,8851.377321428572,Northwell,24.36,194
+194,Staten Island University Hosp-South,Medicare,Extreme,19,14.26315789,8485.061053,Northwell,24.36,194
+194,Staten Island University Hosp-South,Medicare,Major,56,6.767857143,8851.377321,Northwell,24.36,194
 194,Staten Island University Hosp-South,Medicare,Minor,5,2.8,10975.22,Northwell,24.36,194
-194,Staten Island University Hosp-South,Medicare,Moderate,53,4.584905660377358,9257.124716981132,Northwell,24.36,194
+194,Staten Island University Hosp-South,Medicare,Moderate,53,4.58490566,9257.124717,Northwell,24.36,194
 194,Staten Island University Hosp-South,Private Health Insurance,Extreme,1,11,10270.29,Northwell,24.36,194
 194,Staten Island University Hosp-South,Private Health Insurance,Minor,1,6,9098.31,Northwell,24.36,194
-194,Staten Island University Hosp-South,Private Health Insurance,Moderate,2,4,9452.185000000001,Northwell,24.36,194
+194,Staten Island University Hosp-South,Private Health Insurance,Moderate,2,4,9452.185,Northwell,24.36,194
 194,Staten Island University Hosp-South,Self-Pay,Moderate,1,5,10224.91,Northwell,24.36,194
 194,University Hospital of Brooklyn,Blue Cross/Blue Shield,Extreme,1,3,14320,SUNY,2.265,342
-194,University Hospital of Brooklyn,Blue Cross/Blue Shield,Major,17,9.647058823529411,5810.507058823529,SUNY,2.265,342
+194,University Hospital of Brooklyn,Blue Cross/Blue Shield,Major,17,9.647058824,5810.507059,SUNY,2.265,342
 194,University Hospital of Brooklyn,Blue Cross/Blue Shield,Minor,5,2,6973.6,SUNY,2.265,342
-194,University Hospital of Brooklyn,Blue Cross/Blue Shield,Moderate,12,4.333333333333333,6320.11,SUNY,2.265,342
+194,University Hospital of Brooklyn,Blue Cross/Blue Shield,Moderate,12,4.333333333,6320.11,SUNY,2.265,342
 194,University Hospital of Brooklyn,Medicare,Extreme,16,21.1875,6437.7275,SUNY,2.265,342
-194,University Hospital of Brooklyn,Medicare,Major,104,7.740384615384615,5679.600096153846,SUNY,2.265,342
-194,University Hospital of Brooklyn,Medicare,Minor,31,2.6451612903225805,6046.377096774194,SUNY,2.265,342
-194,University Hospital of Brooklyn,Medicare,Moderate,161,4.888198757763975,5960.081614906832,SUNY,2.265,342
+194,University Hospital of Brooklyn,Medicare,Major,104,7.740384615,5679.600096,SUNY,2.265,342
+194,University Hospital of Brooklyn,Medicare,Minor,31,2.64516129,6046.377097,SUNY,2.265,342
+194,University Hospital of Brooklyn,Medicare,Moderate,161,4.888198758,5960.081615,SUNY,2.265,342
 194,University Hospital of Brooklyn,Private Health Insurance,Major,8,5.375,5540.7675,SUNY,2.265,342
 194,University Hospital of Brooklyn,Private Health Insurance,Minor,3,3,7803.14,SUNY,2.265,342
-194,University Hospital of Brooklyn,Private Health Insurance,Moderate,7,3.7142857142857144,5789.107142857143,SUNY,2.265,342
-194,University Hospital of Brooklyn,Self-Pay,Major,3,6.666666666666667,6095.213333333333,SUNY,2.265,342
+194,University Hospital of Brooklyn,Private Health Insurance,Moderate,7,3.714285714,5789.107143,SUNY,2.265,342
+194,University Hospital of Brooklyn,Self-Pay,Major,3,6.666666667,6095.213333,SUNY,2.265,342
 194,University Hospital of Brooklyn,Self-Pay,Moderate,5,2.4,7836.55,SUNY,2.265,342
 194,Woodhull Medical & Mental Health Center,Blue Cross/Blue Shield,Extreme,1,14,6287.59,Health+,4.597,364
-194,Woodhull Medical & Mental Health Center,Blue Cross/Blue Shield,Major,5,4.4,6956.9980000000005,Health+,4.597,364
+194,Woodhull Medical & Mental Health Center,Blue Cross/Blue Shield,Major,5,4.4,6956.998,Health+,4.597,364
 194,Woodhull Medical & Mental Health Center,Blue Cross/Blue Shield,Minor,1,5,6935.86,Health+,4.597,364
 194,Woodhull Medical & Mental Health Center,Blue Cross/Blue Shield,Moderate,2,2.5,8734.02,Health+,4.597,364
-194,Woodhull Medical & Mental Health Center,Medicare,Extreme,13,6.769230769230769,7195.380769230769,Health+,4.597,364
-194,Woodhull Medical & Mental Health Center,Medicare,Major,64,5.21875,6820.3734375,Health+,4.597,364
+194,Woodhull Medical & Mental Health Center,Medicare,Extreme,13,6.769230769,7195.380769,Health+,4.597,364
+194,Woodhull Medical & Mental Health Center,Medicare,Major,64,5.21875,6820.373438,Health+,4.597,364
 194,Woodhull Medical & Mental Health Center,Medicare,Minor,4,1.75,8050.01,Health+,4.597,364
-194,Woodhull Medical & Mental Health Center,Medicare,Moderate,73,2.958904109589041,7225.211780821918,Health+,4.597,364
-194,Woodhull Medical & Mental Health Center,Private Health Insurance,Major,2,7,6394.030000000001,Health+,4.597,364
+194,Woodhull Medical & Mental Health Center,Medicare,Moderate,73,2.95890411,7225.211781,Health+,4.597,364
+194,Woodhull Medical & Mental Health Center,Private Health Insurance,Major,2,7,6394.03,Health+,4.597,364
 194,Woodhull Medical & Mental Health Center,Private Health Insurance,Minor,1,6,5833.49,Health+,4.597,364
 194,Woodhull Medical & Mental Health Center,Private Health Insurance,Moderate,3,3,6956.22,Health+,4.597,364
 194,Woodhull Medical & Mental Health Center,Self-Pay,Major,1,5,6554.01,Health+,4.597,364
 194,Woodhull Medical & Mental Health Center,Self-Pay,Moderate,4,3.25,6336.3675,Health+,4.597,364
 194,Wyckoff Heights Medical Center,Blue Cross/Blue Shield,Major,1,2,8905.41,Others,8.72,324
-194,Wyckoff Heights Medical Center,Blue Cross/Blue Shield,Moderate,3,3.6666666666666665,8997.8,Others,8.72,324
-194,Wyckoff Heights Medical Center,Medicare,Extreme,19,5.7894736842105265,9020.515789473684,Others,8.72,324
-194,Wyckoff Heights Medical Center,Medicare,Major,136,5.882352941176471,6199.412132352941,Others,8.72,324
-194,Wyckoff Heights Medical Center,Medicare,Minor,17,2.588235294117647,6090.242941176471,Others,8.72,324
-194,Wyckoff Heights Medical Center,Medicare,Moderate,146,3.287671232876712,5854.78698630137,Others,8.72,324
+194,Wyckoff Heights Medical Center,Blue Cross/Blue Shield,Moderate,3,3.666666667,8997.8,Others,8.72,324
+194,Wyckoff Heights Medical Center,Medicare,Extreme,19,5.789473684,9020.515789,Others,8.72,324
+194,Wyckoff Heights Medical Center,Medicare,Major,136,5.882352941,6199.412132,Others,8.72,324
+194,Wyckoff Heights Medical Center,Medicare,Minor,17,2.588235294,6090.242941,Others,8.72,324
+194,Wyckoff Heights Medical Center,Medicare,Moderate,146,3.287671233,5854.786986,Others,8.72,324
 194,Wyckoff Heights Medical Center,Private Health Insurance,Extreme,1,4,8049.38,Others,8.72,324
-194,Wyckoff Heights Medical Center,Private Health Insurance,Major,6,5.666666666666667,5988.4366666666665,Others,8.72,324
+194,Wyckoff Heights Medical Center,Private Health Insurance,Major,6,5.666666667,5988.436667,Others,8.72,324
 194,Wyckoff Heights Medical Center,Private Health Insurance,Minor,1,2,7933.26,Others,8.72,324
-194,Wyckoff Heights Medical Center,Private Health Insurance,Moderate,7,2.7142857142857144,7193.148571428571,Others,8.72,324
+194,Wyckoff Heights Medical Center,Private Health Insurance,Moderate,7,2.714285714,7193.148571,Others,8.72,324
 194,Wyckoff Heights Medical Center,Self-Pay,Major,1,3,7978.8,Others,8.72,324
